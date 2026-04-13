@@ -1,0 +1,23 @@
+{
+  "id": "q_ha0023",
+  "standard_code": "5.H.9",
+  "standard_essential": true,
+  "reporting_category": "History",
+  "domain": "History",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "As American settlers moved west in the 1800s, Native American groups were pushed off their lands. The Indian Removal Act of 1830 forced thousands of Cherokee and other tribes to walk hundreds of miles to reservations in present-day Oklahoma. Many died along the way on what became known as the Trail of Tears."
+  },
+  "stem": "What happened to many Native Americans as a result of the Indian Removal Act?",
+  "choices": [
+    {"id": "A", "text": "They were given fertile farmland in the East", "correct": false},
+    {"id": "B", "text": "They were forced to move far from their homes", "correct": true},
+    {"id": "C", "text": "They were invited to join the U.S. Congress", "correct": false},
+    {"id": "D", "text": "They were allowed to keep all their land", "correct": false}
+  ],
+  "answer_explanation": "The passage explains that the Indian Removal Act forced thousands of Native Americans to walk hundreds of miles to reservations far from their homes. Many died on the Trail of Tears.",
+  "difficulty": "medium",
+  "tags": ["westward-expansion", "indian-removal-act", "trail-of-tears", "native-americans"],
+  "generated_at": "2026-04-13T12:32:00Z"
+}

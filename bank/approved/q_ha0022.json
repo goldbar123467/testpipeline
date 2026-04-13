@@ -1,0 +1,43 @@
+{
+  "id": "q_ha0022",
+  "standard_code": "5.H.9",
+  "standard_essential": true,
+  "reporting_category": "History",
+  "domain": "History",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "In 1803, President Thomas Jefferson bought a huge area of land from France. This deal, known as the Louisiana Purchase, doubled the size of the United States. It stretched from the Mississippi River to the Rocky Mountains."
+  },
+  "stem": "What was one major result of the Louisiana Purchase?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "France gained control of the Mississippi River",
+      "correct": false
+    },
+    {
+      "id": "B",
+      "text": "The size of the United States doubled",
+      "correct": true
+    },
+    {
+      "id": "C",
+      "text": "Spain took over the western territories",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "The thirteen colonies declared their freedom",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "The passage states the Louisiana Purchase doubled the size of the United States. France sold the land rather than gaining control, and the colonies had already declared independence decades earlier.",
+  "difficulty": "easy",
+  "tags": [
+    "westward-expansion",
+    "louisiana-purchase",
+    "jefferson"
+  ],
+  "generated_at": "2026-04-13T12:31:00Z"
+}

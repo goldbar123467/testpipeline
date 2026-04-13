@@ -11,13 +11,33 @@
   },
   "stem": "Which TWO statements describe problems shown by Shays' Rebellion?",
   "choices": [
-    {"id": "A", "text": "The national government could not stop the uprising", "correct": true},
-    {"id": "B", "text": "The president used too much military force", "correct": false},
-    {"id": "C", "text": "The government had no power to help with debt issues", "correct": true},
-    {"id": "D", "text": "Too many states sent soldiers to crush the revolt", "correct": false}
+    {
+      "id": "A",
+      "text": "The national government could not stop the uprising",
+      "correct": true
+    },
+    {
+      "id": "B",
+      "text": "The president used too much military force",
+      "correct": false
+    },
+    {
+      "id": "C",
+      "text": "The government had no power to help with debt issues",
+      "correct": true
+    },
+    {
+      "id": "D",
+      "text": "Too many states sent soldiers to crush the revolt",
+      "correct": false
+    }
   ],
   "answer_explanation": "Shays' Rebellion showed the national government was too weak to stop uprisings or address economic problems like debt. There was no president with military power, and states did not coordinate a strong response.",
   "difficulty": "hard",
-  "tags": ["articles-of-confederation", "shays-rebellion", "weaknesses"],
+  "tags": [
+    "articles-of-confederation",
+    "shays-rebellion",
+    "weaknesses"
+  ],
   "generated_at": "2026-04-13T12:30:00Z"
 }

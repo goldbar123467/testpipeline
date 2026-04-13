@@ -1,0 +1,44 @@
+{
+  "id": "q_ea0015",
+  "standard_code": "5.E.9",
+  "standard_essential": false,
+  "reporting_category": "Geography and Economics",
+  "domain": "Economics",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "A colonial blacksmith shop has five workers. One worker heats the metal. Another shapes it with a hammer. A third worker cools the pieces in water. A fourth worker sharpens the edges. The fifth worker packs the finished tools for sale."
+  },
+  "stem": "How does splitting the work among five workers help this blacksmith shop?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "It makes each worker learn every step",
+      "correct": false
+    },
+    {
+      "id": "B",
+      "text": "It lets the shop produce tools faster",
+      "correct": true
+    },
+    {
+      "id": "C",
+      "text": "It requires more metal for each tool",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "It forces workers to slow their pace",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "Division of labor means splitting work into smaller tasks so each worker can focus on one job. This specialization allows workers to become faster and more skilled at their specific task, which increases the overall productivity of the shop.",
+  "difficulty": "easy",
+  "tags": [
+    "division-of-labor",
+    "specialization",
+    "productivity",
+    "colonial-trades"
+  ],
+  "generated_at": "2026-04-13T12:24:00Z"
+}
