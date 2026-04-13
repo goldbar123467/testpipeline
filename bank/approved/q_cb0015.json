@@ -1,0 +1,44 @@
+{
+  "id": "q_cb0015",
+  "standard_code": "5.C.9",
+  "standard_essential": false,
+  "reporting_category": "Civics and Government",
+  "domain": "Civics",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "Congress passes a new bill and sends it to the President. The President does not agree with the bill and vetoes it. Congress still wants the bill to become a law."
+  },
+  "stem": "What can Congress do to pass the bill after a presidential veto?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "Ask the Supreme Court to sign it",
+      "correct": false
+    },
+    {
+      "id": "B",
+      "text": "Vote again with a two-thirds majority",
+      "correct": true
+    },
+    {
+      "id": "C",
+      "text": "Hold a national vote by all citizens",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "Send the bill to the state governors",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "Congress can override a presidential veto by voting again with a two-thirds majority in both the House and Senate. The Supreme Court cannot sign bills into law. National citizen votes and state governors are not part of this process.",
+  "difficulty": "hard",
+  "tags": [
+    "lawmaking-process",
+    "veto",
+    "override",
+    "congress"
+  ],
+  "generated_at": "2026-04-13T12:24:00Z"
+}

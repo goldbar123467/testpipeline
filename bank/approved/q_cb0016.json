@@ -1,0 +1,43 @@
+{
+  "id": "q_cb0016",
+  "standard_code": "5.C.9",
+  "standard_essential": false,
+  "reporting_category": "Civics and Government",
+  "domain": "Civics",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "A Senator proposes a bill about school lunches. A small group of Senators called a committee studies the bill first. They decide if the bill is good enough to share with the full Senate."
+  },
+  "stem": "Why does a committee review a bill before the full Senate votes on it?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "To let the President read it first",
+      "correct": false
+    },
+    {
+      "id": "B",
+      "text": "To study the bill and suggest changes",
+      "correct": true
+    },
+    {
+      "id": "C",
+      "text": "To send the bill to state leaders",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "To ask citizens to vote on the bill",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "Committees are small groups in Congress that study bills carefully. They review the details and may suggest changes before the full Senate or House votes. The President sees the bill only after both chambers pass it.",
+  "difficulty": "medium",
+  "tags": [
+    "lawmaking-process",
+    "committees",
+    "senate"
+  ],
+  "generated_at": "2026-04-13T12:25:00Z"
+}

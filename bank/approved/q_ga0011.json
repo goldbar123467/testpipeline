@@ -1,0 +1,43 @@
+{
+  "id": "q_ga0011",
+  "standard_code": "5.G.6",
+  "standard_essential": true,
+  "reporting_category": "Geography and Economics",
+  "domain": "Geography",
+  "question_type": "multi_select",
+  "stimulus": {
+    "type": "text",
+    "content": "The Middle colonies had fertile river valleys, thick forests, and access to the ocean. Farmers grew wheat and grain in the rich soil. Other colonists used iron ore from the ground to make tools. Merchants shipped goods from busy ports like Philadelphia."
+  },
+  "stem": "Which TWO natural resources helped the Middle colonies grow their economy?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "Fertile soil for growing wheat and grain",
+      "correct": true
+    },
+    {
+      "id": "B",
+      "text": "Gold deposits found in the mountains",
+      "correct": false
+    },
+    {
+      "id": "C",
+      "text": "Iron ore used to make tools and goods",
+      "correct": true
+    },
+    {
+      "id": "D",
+      "text": "Cotton fields along the river banks",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "The Middle colonies used their fertile soil to grow wheat and grain, and they mined iron ore to produce tools and other goods. Gold was not a major resource in the Middle colonies, and cotton farming was not common there.",
+  "difficulty": "hard",
+  "tags": [
+    "natural-resources",
+    "middle-colonies",
+    "economic-development"
+  ],
+  "generated_at": "2026-04-13T12:20:00Z"
+}

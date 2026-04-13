@@ -1,0 +1,43 @@
+{
+  "id": "q_ca0013",
+  "standard_code": "5.C.5",
+  "standard_essential": true,
+  "reporting_category": "Civics and Government",
+  "domain": "Civics",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "Read the passage below:\n\nSome powers belong only to the federal government. Some belong only to the states. But a few powers are shared. Both the federal government and the states can collect taxes and build roads."
+  },
+  "stem": "Based on the passage, what is an example of a shared power?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "Declaring war on other countries",
+      "correct": false
+    },
+    {
+      "id": "B",
+      "text": "Collecting taxes from the people",
+      "correct": true
+    },
+    {
+      "id": "C",
+      "text": "Setting up local school systems",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "Printing coins and paper money",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "The passage states that both the federal government and the states can collect taxes. This makes it a shared power. Declaring war and printing money are federal powers. Setting up schools is mainly a state power.",
+  "difficulty": "medium",
+  "tags": [
+    "federalism",
+    "shared-powers",
+    "concurrent-powers"
+  ],
+  "generated_at": "2026-04-13T12:10:00Z"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "q_ha0011",
+  "standard_code": "5.H.4",
+  "standard_essential": true,
+  "reporting_category": "History",
+  "domain": "History",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "In 1781, American and French forces trapped the British army at Yorktown, Virginia. British General Cornwallis had no way to escape by land or sea. He was forced to surrender. This victory helped end the American Revolution."
+  },
+  "stem": "What happened at the Battle of Yorktown in 1781?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "The British captured the American capital",
+      "correct": false
+    },
+    {
+      "id": "B",
+      "text": "France decided to leave the war early",
+      "correct": false
+    },
+    {
+      "id": "C",
+      "text": "The British army surrendered to the Americans",
+      "correct": true
+    },
+    {
+      "id": "D",
+      "text": "George Washington was taken as a prisoner",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "The passage explains that British General Cornwallis was trapped and forced to surrender at Yorktown. This victory helped end the American Revolution. The other choices did not happen.",
+  "difficulty": "medium",
+  "tags": [
+    "american-revolution",
+    "yorktown",
+    "major-events",
+    "surrender"
+  ],
+  "generated_at": "2026-04-13T12:20:00Z"
+}

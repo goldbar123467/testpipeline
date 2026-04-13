@@ -1,0 +1,44 @@
+{
+  "id": "q_ca0014",
+  "standard_code": "5.C.5",
+  "standard_essential": true,
+  "reporting_category": "Civics and Government",
+  "domain": "Civics",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "Read the passage below:\n\nThe Constitution gives certain powers only to the national government. For example, only Congress can declare war. States are not allowed to make agreements with foreign countries on their own."
+  },
+  "stem": "Why does the Constitution give the power to declare war only to Congress?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "So each state can build its own army",
+      "correct": false
+    },
+    {
+      "id": "B",
+      "text": "So the nation acts as one in foreign affairs",
+      "correct": true
+    },
+    {
+      "id": "C",
+      "text": "So the President can act without any limits",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "So governors can lead troops into battle",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "The Constitution gives war powers to Congress so the nation speaks with one voice in foreign affairs. States cannot declare war on their own. The President does not have unlimited power, and governors do not lead national troops.",
+  "difficulty": "hard",
+  "tags": [
+    "federal-powers",
+    "declare-war",
+    "congress",
+    "federalism"
+  ],
+  "generated_at": "2026-04-13T12:10:00Z"
+}

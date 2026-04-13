@@ -1,0 +1,43 @@
+{
+  "id": "q_ea0006",
+  "standard_code": "5.E.3",
+  "standard_essential": true,
+  "reporting_category": "Geography and Economics",
+  "domain": "Economics",
+  "question_type": "multi_select",
+  "stimulus": {
+    "type": "text",
+    "content": "During the colonial era, ships carried goods across the Atlantic Ocean in a pattern called triangular trade. Ships moved between Europe, Africa, and the Americas, carrying different goods on each leg of the journey."
+  },
+  "stem": "Which TWO goods were commonly shipped from the colonies to England as part of this trade?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "Tobacco and raw cotton",
+      "correct": true
+    },
+    {
+      "id": "B",
+      "text": "Wool clothing and tools",
+      "correct": false
+    },
+    {
+      "id": "C",
+      "text": "Lumber and dried fish",
+      "correct": true
+    },
+    {
+      "id": "D",
+      "text": "Tea leaves and fine silk",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "The colonies shipped raw materials to England, including tobacco, cotton, lumber, and fish. Wool clothing, tools, tea, and silk were finished goods that came from England or Asia, not from the colonies.",
+  "difficulty": "hard",
+  "tags": [
+    "triangular-trade",
+    "colonial-exports",
+    "atlantic-trade"
+  ],
+  "generated_at": "2026-04-13T12:15:00Z"
+}

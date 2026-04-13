@@ -1,0 +1,43 @@
+{
+  "id": "q_ga0003",
+  "standard_code": "5.G.2",
+  "standard_essential": true,
+  "reporting_category": "Geography and Economics",
+  "domain": "Geography",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "Early settlers in North America often built towns near rivers. Rivers gave them fresh water for drinking and farming. Rivers also let settlers move goods by boat to other towns."
+  },
+  "stem": "Why did early settlers often build their towns near rivers?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "Rivers kept wild animals away from towns",
+      "correct": false
+    },
+    {
+      "id": "B",
+      "text": "Rivers gave water and a way to move goods",
+      "correct": true
+    },
+    {
+      "id": "C",
+      "text": "Rivers blocked enemies from attacking",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "Rivers made the land flat for building",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "Rivers provided fresh water for drinking and farming and also served as transportation routes for moving goods between settlements. The other options are not the primary reasons settlers chose to live near rivers.",
+  "difficulty": "easy",
+  "tags": [
+    "settlement-patterns",
+    "rivers",
+    "physical-features"
+  ],
+  "generated_at": "2026-04-13T12:12:00Z"
+}

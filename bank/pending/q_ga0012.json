@@ -1,0 +1,23 @@
+{
+  "id": "q_ga0012",
+  "standard_code": "5.G.4",
+  "standard_essential": false,
+  "reporting_category": "Geography and Economics",
+  "domain": "Geography",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "In the early 1800s, many American families moved west. They followed rivers and pushed through gaps in the mountains. The Cumberland Gap was one path through the Appalachian Mountains. Flat grasslands beyond the mountains offered new farmland."
+  },
+  "stem": "How did rivers and mountain gaps help settlers move west?",
+  "choices": [
+    {"id": "A", "text": "They served as natural paths through rough land", "correct": true},
+    {"id": "B", "text": "They kept settlers safe from harsh winter storms", "correct": false},
+    {"id": "C", "text": "They provided gold and silver along the route", "correct": false},
+    {"id": "D", "text": "They blocked other countries from claiming land", "correct": false}
+  ],
+  "answer_explanation": "Rivers and mountain gaps like the Cumberland Gap served as natural routes that allowed settlers to travel through difficult terrain. These geographic features made westward migration possible by providing passable paths through mountains and across the landscape.",
+  "difficulty": "medium",
+  "tags": ["westward-expansion", "cumberland-gap", "migration-routes"],
+  "generated_at": "2026-04-13T12:21:00Z"
+}

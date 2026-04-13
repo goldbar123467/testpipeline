@@ -11,13 +11,33 @@
   },
   "stem": "Based on this example, what happened to the demand for lemonade when the weather got cooler?",
   "choices": [
-    {"id": "A", "text": "Demand went up", "correct": false},
-    {"id": "B", "text": "Demand went down", "correct": true},
-    {"id": "C", "text": "Demand stayed the same", "correct": false},
-    {"id": "D", "text": "Demand disappeared fully", "correct": false}
+    {
+      "id": "A",
+      "text": "Demand went up",
+      "correct": false
+    },
+    {
+      "id": "B",
+      "text": "Demand went down",
+      "correct": true
+    },
+    {
+      "id": "C",
+      "text": "Demand stayed the same",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "Demand disappeared fully",
+      "correct": false
+    }
   ],
   "answer_explanation": "When the weather got cooler, fewer people wanted to buy lemonade. This shows that demand went down. The stimulus shows sales dropped from 80 cups to 20 cups, indicating lower demand in cooler weather.",
   "difficulty": "easy",
-  "tags": ["supply-and-demand", "demand", "real-world-scenario"],
+  "tags": [
+    "supply-and-demand",
+    "demand",
+    "real-world-scenario"
+  ],
   "generated_at": "2026-04-13T12:10:00Z"
 }

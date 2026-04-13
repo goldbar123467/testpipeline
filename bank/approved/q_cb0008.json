@@ -1,0 +1,43 @@
+{
+  "id": "q_cb0008",
+  "standard_code": "5.C.7",
+  "standard_essential": false,
+  "reporting_category": "Civics and Government",
+  "domain": "Civics",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "On Election Day, Mr. and Mrs. Lee go to their polling place. They each fill out a ballot to choose the next President of the United States."
+  },
+  "stem": "What is the main way Mr. and Mrs. Lee are taking part in their government?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "By paying their federal taxes",
+      "correct": false
+    },
+    {
+      "id": "B",
+      "text": "By casting votes in an election",
+      "correct": true
+    },
+    {
+      "id": "C",
+      "text": "By serving on a local jury",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "By writing laws for Congress",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "Voting is one of the most important ways citizens take part in government. By casting ballots on Election Day, Mr. and Mrs. Lee help choose their leaders. Paying taxes, serving on juries, and writing laws are different civic activities.",
+  "difficulty": "easy",
+  "tags": [
+    "citizen-participation",
+    "voting",
+    "elections"
+  ],
+  "generated_at": "2026-04-13T12:17:00Z"
+}

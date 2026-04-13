@@ -1,0 +1,43 @@
+{
+  "id": "q_ca0010",
+  "standard_code": "5.C.4",
+  "standard_essential": true,
+  "reporting_category": "Civics and Government",
+  "domain": "Civics",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "Read the scenario below:\n\nCongress passed a new law about free speech. A group of citizens said the law took away their rights. The case went to the Supreme Court. The Court ruled that the law went against the Constitution and could not be enforced."
+  },
+  "stem": "How did the Supreme Court use checks and balances in this scenario?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "It wrote a new law to replace the old one",
+      "correct": false
+    },
+    {
+      "id": "B",
+      "text": "It struck down a law that broke the Constitution",
+      "correct": true
+    },
+    {
+      "id": "C",
+      "text": "It asked the President to veto the law",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "It held an election to let citizens decide",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "The Supreme Court checked Congress by ruling the law unconstitutional. Courts do not write laws, ask for vetoes, or hold elections. Judicial review is one of the key checks in the system.",
+  "difficulty": "hard",
+  "tags": [
+    "checks-and-balances",
+    "judicial-review",
+    "supreme-court"
+  ],
+  "generated_at": "2026-04-13T12:10:00Z"
+}

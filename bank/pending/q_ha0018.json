@@ -1,0 +1,23 @@
+{
+  "id": "q_ha0018",
+  "standard_code": "5.H.7",
+  "standard_essential": false,
+  "reporting_category": "History",
+  "domain": "History",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "After the Constitution was written in 1787, Americans debated whether to approve it. Federalists supported the new plan because it created a stronger national government. Anti-Federalists worried it gave too much power to the central government and did not protect individual rights."
+  },
+  "stem": "What was the main concern of the Anti-Federalists?",
+  "choices": [
+    {"id": "A", "text": "The national government would be too weak", "correct": false},
+    {"id": "B", "text": "The central government would have too much power", "correct": true},
+    {"id": "C", "text": "The states would have no role in government", "correct": false},
+    {"id": "D", "text": "The president would serve for life in office", "correct": false}
+  ],
+  "answer_explanation": "The passage states Anti-Federalists worried the Constitution gave too much power to the central government and did not protect individual rights. The other choices are not stated in the passage.",
+  "difficulty": "medium",
+  "tags": ["constitution", "anti-federalists", "federalists-debate"],
+  "generated_at": "2026-04-13T12:27:00Z"
+}

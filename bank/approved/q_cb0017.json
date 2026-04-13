@@ -1,0 +1,44 @@
+{
+  "id": "q_cb0017",
+  "standard_code": "5.C.10",
+  "standard_essential": false,
+  "reporting_category": "Civics and Government",
+  "domain": "Civics",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "The mayor of a small city meets with citizens every week. She listens to their concerns about roads, parks, and safety. She uses this information to make decisions for the city."
+  },
+  "stem": "What is the mayor's main role as a public servant in this city?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "To make laws for the whole country",
+      "correct": false
+    },
+    {
+      "id": "B",
+      "text": "To lead the city and help its people",
+      "correct": true
+    },
+    {
+      "id": "C",
+      "text": "To judge court cases in the state",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "To collect taxes for the military",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "A mayor is a local political leader whose main job is to lead the city and serve its people. Mayors do not make national laws, judge state court cases, or collect military taxes. They focus on the needs of their local community.",
+  "difficulty": "easy",
+  "tags": [
+    "political-leaders",
+    "public-servants",
+    "mayor",
+    "local-government"
+  ],
+  "generated_at": "2026-04-13T12:26:00Z"
+}

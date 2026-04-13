@@ -1,0 +1,44 @@
+{
+  "id": "q_ca0012",
+  "standard_code": "5.C.4",
+  "standard_essential": true,
+  "reporting_category": "Civics and Government",
+  "domain": "Civics",
+  "question_type": "multi_select",
+  "stimulus": {
+    "type": "text",
+    "content": "Read the passage below:\n\nThe founders wanted to make sure no single branch of government had too much power. They gave each branch ways to limit the others. This system keeps the government balanced."
+  },
+  "stem": "Which TWO actions are examples of checks and balances?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "The President vetoes a bill from Congress",
+      "correct": true
+    },
+    {
+      "id": "B",
+      "text": "A citizen writes a letter to a newspaper",
+      "correct": false
+    },
+    {
+      "id": "C",
+      "text": "The Senate rejects a court nominee",
+      "correct": true
+    },
+    {
+      "id": "D",
+      "text": "A governor gives a speech about education",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "A presidential veto checks Congress, and the Senate rejecting a nominee checks the President. Writing to a newspaper and giving a speech are civic actions, but they are not part of the checks and balances system between branches.",
+  "difficulty": "medium",
+  "tags": [
+    "checks-and-balances",
+    "veto",
+    "senate-confirmation",
+    "separation-of-powers"
+  ],
+  "generated_at": "2026-04-13T12:10:00Z"
+}

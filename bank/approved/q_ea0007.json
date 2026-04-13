@@ -1,0 +1,44 @@
+{
+  "id": "q_ea0007",
+  "standard_code": "5.E.4",
+  "standard_essential": false,
+  "reporting_category": "Geography and Economics",
+  "domain": "Economics",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "In 1607, English settlers founded Jamestown in Virginia. The Virginia Company of London paid for the trip. The company hoped the settlers would find gold and other valuable resources to send back to England."
+  },
+  "stem": "Based on this passage, what was the main economic reason the Virginia Company funded the colony?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "To set up schools for settlers",
+      "correct": false
+    },
+    {
+      "id": "B",
+      "text": "To earn profit from new resources",
+      "correct": true
+    },
+    {
+      "id": "C",
+      "text": "To build a strong colonial army",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "To create a new form of government",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "The Virginia Company funded the Jamestown colony primarily to make a profit. The company expected settlers to find gold and other valuable resources that could be sent back to England and sold. Economic gain was the main motivation for many early colonial ventures.",
+  "difficulty": "easy",
+  "tags": [
+    "colonization",
+    "economic-motives",
+    "jamestown",
+    "virginia-company"
+  ],
+  "generated_at": "2026-04-13T12:16:00Z"
+}

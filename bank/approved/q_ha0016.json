@@ -1,0 +1,43 @@
+{
+  "id": "q_ha0016",
+  "standard_code": "5.H.6",
+  "standard_essential": true,
+  "reporting_category": "History",
+  "domain": "History",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "The Declaration of Independence was adopted on July 4, 1776. It told the world that the thirteen colonies were free from British rule. The document listed the colonists' complaints against King George III and explained why they had the right to form their own government."
+  },
+  "stem": "What was the main purpose of the Declaration of Independence?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "To set up rules for a new government",
+      "correct": false
+    },
+    {
+      "id": "B",
+      "text": "To declare the colonies free from Britain",
+      "correct": true
+    },
+    {
+      "id": "C",
+      "text": "To ask France for military help in the war",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "To create a trade agreement with Spain",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "The passage states the Declaration told the world the thirteen colonies were free from British rule. It was not a plan of government, a request for French aid, or a trade deal.",
+  "difficulty": "easy",
+  "tags": [
+    "declaration-of-independence",
+    "purpose",
+    "independence"
+  ],
+  "generated_at": "2026-04-13T12:25:00Z"
+}

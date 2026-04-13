@@ -1,0 +1,43 @@
+{
+  "id": "q_ca0007",
+  "standard_code": "5.C.3",
+  "standard_essential": true,
+  "reporting_category": "Civics and Government",
+  "domain": "Civics",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "Read the passage below:\n\nThe President of the United States leads the executive branch. The President signs bills into law, commands the military, and works with leaders of other countries."
+  },
+  "stem": "Based on the passage, what is one main job of the executive branch?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "Writing new bills for Congress to vote on",
+      "correct": false
+    },
+    {
+      "id": "B",
+      "text": "Carrying out the laws of the country",
+      "correct": true
+    },
+    {
+      "id": "C",
+      "text": "Deciding if laws follow the Constitution",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "Choosing which cases go to trial",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "The executive branch, led by the President, carries out and enforces the laws. Writing bills is the job of Congress. Deciding if laws are constitutional is done by the judicial branch. Choosing cases for trial is also a court function.",
+  "difficulty": "medium",
+  "tags": [
+    "executive-branch",
+    "president",
+    "government-structure"
+  ],
+  "generated_at": "2026-04-13T12:10:00Z"
+}

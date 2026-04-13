@@ -11,13 +11,33 @@
   },
   "stem": "How does the Fifth Amendment help a person accused of a crime?",
   "choices": [
-    {"id": "A", "text": "It lets them pick their own judge", "correct": false},
-    {"id": "B", "text": "It stops them from being put in jail", "correct": false},
-    {"id": "C", "text": "It says they do not have to speak against themselves", "correct": true},
-    {"id": "D", "text": "It gives them a lawyer free of charge", "correct": false}
+    {
+      "id": "A",
+      "text": "It lets them pick their own judge",
+      "correct": false
+    },
+    {
+      "id": "B",
+      "text": "It stops them from being put in jail",
+      "correct": false
+    },
+    {
+      "id": "C",
+      "text": "It says they do not have to speak against themselves",
+      "correct": true
+    },
+    {
+      "id": "D",
+      "text": "It gives them a lawyer free of charge",
+      "correct": false
+    }
   ],
   "answer_explanation": "The Fifth Amendment protects people from being forced to testify against themselves. This is the right to remain silent. Picking a judge, avoiding jail, and free lawyers are not Fifth Amendment protections. The right to a lawyer comes from the Sixth Amendment.",
   "difficulty": "hard",
-  "tags": ["bill-of-rights", "fifth-amendment", "right-to-silence"],
+  "tags": [
+    "bill-of-rights",
+    "fifth-amendment",
+    "right-to-silence"
+  ],
   "generated_at": "2026-04-13T12:12:00Z"
 }

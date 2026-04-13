@@ -1,0 +1,43 @@
+{
+  "id": "q_cb0006",
+  "standard_code": "5.C.7",
+  "standard_essential": false,
+  "reporting_category": "Civics and Government",
+  "domain": "Civics",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "Mr. Johnson writes a letter to his U.S. Senator. In the letter, he asks the Senator to vote for a new clean air law. He says the law would help protect the environment."
+  },
+  "stem": "How is Mr. Johnson taking part in government at the national level?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "By voting in a local election",
+      "correct": false
+    },
+    {
+      "id": "B",
+      "text": "By running for a state office",
+      "correct": false
+    },
+    {
+      "id": "C",
+      "text": "By writing to a national leader",
+      "correct": true
+    },
+    {
+      "id": "D",
+      "text": "By paying his state taxes on time",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "Writing to a U.S. Senator is a way citizens take part in national government. A Senator serves at the national level in Congress. Voting in local elections and paying state taxes are forms of participation at other levels of government.",
+  "difficulty": "medium",
+  "tags": [
+    "citizen-participation",
+    "national-government",
+    "contacting-representatives"
+  ],
+  "generated_at": "2026-04-13T12:15:00Z"
+}

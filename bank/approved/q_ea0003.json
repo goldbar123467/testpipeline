@@ -1,0 +1,43 @@
+{
+  "id": "q_ea0003",
+  "standard_code": "5.E.2",
+  "standard_essential": false,
+  "reporting_category": "Geography and Economics",
+  "domain": "Economics",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "A farmer in Virginia grows tobacco to sell. He uses a plow and a wagon to work his fields. He also hires workers to help him harvest the crops each fall."
+  },
+  "stem": "In this example, the workers the farmer hires are best described as which type of resource?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "Natural resources",
+      "correct": false
+    },
+    {
+      "id": "B",
+      "text": "Capital resources",
+      "correct": false
+    },
+    {
+      "id": "C",
+      "text": "Human resources",
+      "correct": true
+    },
+    {
+      "id": "D",
+      "text": "Product resources",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "Human resources are the people who do the work to produce goods and services. The workers the farmer hires are human resources because they provide labor to help harvest the crops. The plow and wagon are capital resources, and the land is a natural resource.",
+  "difficulty": "easy",
+  "tags": [
+    "types-of-resources",
+    "human-resources",
+    "colonial-farming"
+  ],
+  "generated_at": "2026-04-13T12:12:00Z"
+}

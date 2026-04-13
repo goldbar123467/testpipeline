@@ -1,0 +1,43 @@
+{
+  "id": "q_cb0012",
+  "standard_code": "5.C.8",
+  "standard_essential": true,
+  "reporting_category": "Civics and Government",
+  "domain": "Civics",
+  "question_type": "multi_select",
+  "stimulus": {
+    "type": "text",
+    "content": "A class is making a poster about the key principles of American democracy. They want to include ideas that the founders believed were most important for the new country."
+  },
+  "stem": "Which TWO are key principles of American democracy?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "Rule of law for all people",
+      "correct": true
+    },
+    {
+      "id": "B",
+      "text": "Control by a single king",
+      "correct": false
+    },
+    {
+      "id": "C",
+      "text": "Popular sovereignty of citizens",
+      "correct": true
+    },
+    {
+      "id": "D",
+      "text": "Power given only to the rich",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "Rule of law and popular sovereignty are two key principles of American democracy. Rule of law means everyone follows the same laws. Popular sovereignty means the people hold the power. A king or rule by the rich goes against democratic ideas.",
+  "difficulty": "medium",
+  "tags": [
+    "american-democracy",
+    "principles",
+    "multi-select"
+  ],
+  "generated_at": "2026-04-13T12:21:00Z"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q_ga0005",
+  "standard_code": "5.G.2",
+  "standard_essential": true,
+  "reporting_category": "Geography and Economics",
+  "domain": "Geography",
+  "question_type": "multi_select",
+  "stimulus": {
+    "type": "text",
+    "content": "Many colonial cities grew near the Atlantic coast. Boston, New York, and Charleston all became busy ports. Settlers chose these spots because ships could dock there easily. Fresh water from nearby rivers also helped the cities grow."
+  },
+  "stem": "Which TWO reasons best explain why settlers built cities on the coast?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "Ships could use the harbors for trade",
+      "correct": true
+    },
+    {
+      "id": "B",
+      "text": "Mountains blocked travel to the coast",
+      "correct": false
+    },
+    {
+      "id": "C",
+      "text": "Rivers nearby gave fresh water to the cities",
+      "correct": true
+    },
+    {
+      "id": "D",
+      "text": "The coast had the coldest winter weather",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "Coastal cities grew because their harbors allowed ships to dock for trade and because nearby rivers provided fresh water. Mountains blocking travel and cold weather are not reasons settlers chose the coast.",
+  "difficulty": "hard",
+  "tags": [
+    "settlement-patterns",
+    "coastal-cities",
+    "harbors"
+  ],
+  "generated_at": "2026-04-13T12:14:00Z"
+}

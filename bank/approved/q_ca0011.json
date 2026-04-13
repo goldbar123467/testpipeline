@@ -1,0 +1,43 @@
+{
+  "id": "q_ca0011",
+  "standard_code": "5.C.4",
+  "standard_essential": true,
+  "reporting_category": "Civics and Government",
+  "domain": "Civics",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "Read the passage below:\n\nThe President chose a person to serve as a Supreme Court justice. Before the person could start, the Senate had to hold a vote. The Senate voted no, so the President had to pick someone else."
+  },
+  "stem": "What part of the checks and balances system does this passage describe?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "The Senate checking the power of the President",
+      "correct": true
+    },
+    {
+      "id": "B",
+      "text": "The President checking the power of Congress",
+      "correct": false
+    },
+    {
+      "id": "C",
+      "text": "The Supreme Court checking a state law",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "The states checking the federal government",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "The Senate checked the President's power by rejecting the nominee. This shows how one branch can limit another branch. The passage does not describe the President checking Congress or any court action.",
+  "difficulty": "hard",
+  "tags": [
+    "checks-and-balances",
+    "senate-confirmation",
+    "appointments"
+  ],
+  "generated_at": "2026-04-13T12:10:00Z"
+}

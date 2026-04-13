@@ -1,0 +1,44 @@
+{
+  "id": "q_ha0009",
+  "standard_code": "5.H.4",
+  "standard_essential": true,
+  "reporting_category": "History",
+  "domain": "History",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "In December 1773, colonists in Boston were angry about a tax on tea. A group of men dressed as Mohawk Indians boarded British ships at night. They dumped 342 chests of tea into Boston Harbor. This event became known as the Boston Tea Party."
+  },
+  "stem": "What were the colonists protesting during the Boston Tea Party?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "A British tax on tea",
+      "correct": true
+    },
+    {
+      "id": "B",
+      "text": "A ban on fishing in the harbor",
+      "correct": false
+    },
+    {
+      "id": "C",
+      "text": "A law closing Boston's churches",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "A rule requiring British uniforms",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "The passage states colonists were angry about a tax on tea, which led them to dump tea into Boston Harbor. The other choices are not mentioned in the passage.",
+  "difficulty": "easy",
+  "tags": [
+    "american-revolution",
+    "boston-tea-party",
+    "causes",
+    "taxation"
+  ],
+  "generated_at": "2026-04-13T12:18:00Z"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q_ha0012",
+  "standard_code": "5.H.5",
+  "standard_essential": true,
+  "reporting_category": "History",
+  "domain": "History",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "Benjamin Franklin was one of the most famous founders of the United States. He helped write the Declaration of Independence and later helped create the Constitution. He also served as ambassador to France during the Revolution and convinced France to help the American cause."
+  },
+  "stem": "Based on the passage, how did Benjamin Franklin help during the Revolution?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "He led troops into battle at Yorktown",
+      "correct": false
+    },
+    {
+      "id": "B",
+      "text": "He convinced France to support America",
+      "correct": true
+    },
+    {
+      "id": "C",
+      "text": "He served as the first president",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "He wrote the Bill of Rights by himself",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "The passage states Franklin served as ambassador to France and convinced France to help the American cause. He did not lead troops, serve as president, or write the Bill of Rights alone.",
+  "difficulty": "medium",
+  "tags": [
+    "founding-fathers",
+    "benjamin-franklin",
+    "key-individuals"
+  ],
+  "generated_at": "2026-04-13T12:21:00Z"
+}
