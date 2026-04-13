@@ -1,0 +1,44 @@
+{
+  "id": "q_ha0027",
+  "standard_code": "5.H.10",
+  "standard_essential": true,
+  "reporting_category": "History",
+  "domain": "History",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "In 1803, President Jefferson asked Meriwether Lewis and William Clark to explore the lands west of the Mississippi River. Their journey took over two years. They mapped rivers, studied plants and animals, and met many Native American groups along the way."
+  },
+  "stem": "What was one goal of the Lewis and Clark expedition?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "To build forts along the east coast",
+      "correct": false
+    },
+    {
+      "id": "B",
+      "text": "To explore and map the western lands",
+      "correct": true
+    },
+    {
+      "id": "C",
+      "text": "To fight battles with the British army",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "To set up new colonies for France",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "The passage states Lewis and Clark mapped rivers, studied plants and animals, and met Native American groups as they explored the western lands. They were not fighting the British or setting up French colonies.",
+  "difficulty": "easy",
+  "tags": [
+    "early-republic",
+    "lewis-and-clark",
+    "exploration",
+    "westward-expansion"
+  ],
+  "generated_at": "2026-04-13T12:36:00Z"
+}

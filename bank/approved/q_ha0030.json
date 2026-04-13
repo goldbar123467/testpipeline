@@ -1,0 +1,43 @@
+{
+  "id": "q_ha0030",
+  "standard_code": "5.H.12",
+  "standard_essential": false,
+  "reporting_category": "History",
+  "domain": "History",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "timeline",
+    "content": "1765 \u2014 Stamp Act passed | 1770 \u2014 Boston Massacre | 1773 \u2014 Boston Tea Party | 1775 \u2014 Battles of Lexington and Concord | 1776 \u2014 Declaration of Independence signed | 1781 \u2014 Battle of Yorktown | 1783 \u2014 Treaty of Paris signed"
+  },
+  "stem": "Based on the timeline, which event took place right before the Declaration of Independence?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "The Treaty of Paris was signed",
+      "correct": false
+    },
+    {
+      "id": "B",
+      "text": "The Boston Massacre took place",
+      "correct": false
+    },
+    {
+      "id": "C",
+      "text": "The Battles of Lexington and Concord",
+      "correct": true
+    },
+    {
+      "id": "D",
+      "text": "The Battle of Yorktown was fought",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "The timeline shows the Battles of Lexington and Concord in 1775 came right before the Declaration of Independence in 1776. The Boston Massacre was in 1770, and Yorktown and the Treaty of Paris came after.",
+  "difficulty": "medium",
+  "tags": [
+    "timelines",
+    "chronology",
+    "american-revolution"
+  ],
+  "generated_at": "2026-04-13T12:39:00Z"
+}
