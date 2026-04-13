@@ -1,0 +1,23 @@
+{
+  "id": "q_cb0020",
+  "standard_code": "5.C.10",
+  "standard_essential": false,
+  "reporting_category": "Civics and Government",
+  "domain": "Civics",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "The governor of a state gives a speech about a new plan. She wants to build more hospitals in rural areas. She says it is her duty to make sure all citizens can see a doctor."
+  },
+  "stem": "What does this speech show about the role of a governor?",
+  "choices": [
+    {"id": "A", "text": "Governors make laws for other countries", "correct": false},
+    {"id": "B", "text": "Governors work to meet the needs of their state", "correct": true},
+    {"id": "C", "text": "Governors serve as judges in local courts", "correct": false},
+    {"id": "D", "text": "Governors lead the armed forces in wars", "correct": false}
+  ],
+  "answer_explanation": "A governor is the elected leader of a state. The governor's role is to work on issues that affect the people of the state, such as health care. Governors do not make laws for other countries, serve as judges, or lead national armed forces.",
+  "difficulty": "medium",
+  "tags": ["political-leaders", "governor", "state-government"],
+  "generated_at": "2026-04-13T12:29:00Z"
+}

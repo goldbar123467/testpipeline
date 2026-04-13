@@ -1,0 +1,45 @@
+{
+  "id": "q_ea0013",
+  "standard_code": "5.E.7",
+  "standard_essential": false,
+  "reporting_category": "Geography and Economics",
+  "domain": "Economics",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "In the late 1700s, Eli Whitney invented the cotton gin. This machine could clean cotton fifty times faster than a person working by hand. Cotton production in the South grew rapidly after this invention."
+  },
+  "stem": "How did Eli Whitney's cotton gin affect the economy of the Southern states?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "It made cotton harder to grow and sell",
+      "correct": false
+    },
+    {
+      "id": "B",
+      "text": "It helped cotton become a major cash crop",
+      "correct": true
+    },
+    {
+      "id": "C",
+      "text": "It ended all farming in the South for good",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "It replaced cotton with wheat and corn crops",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "Eli Whitney's cotton gin greatly increased the speed at which cotton could be cleaned, making cotton production much more profitable. This invention helped cotton become the leading cash crop of the South, showing how inventors and entrepreneurs can shape economic development.",
+  "difficulty": "medium",
+  "tags": [
+    "entrepreneurs",
+    "inventors",
+    "cotton-gin",
+    "eli-whitney",
+    "economic-development"
+  ],
+  "generated_at": "2026-04-13T12:22:00Z"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "q_cb0019",
+  "standard_code": "5.C.10",
+  "standard_essential": false,
+  "reporting_category": "Civics and Government",
+  "domain": "Civics",
+  "question_type": "multi_select",
+  "stimulus": {
+    "type": "text",
+    "content": "A class is sorting cards into two groups. One group is for elected political leaders. The other group is for public servants who are not elected. The students must read each card and decide."
+  },
+  "stem": "Which TWO people on the cards are elected political leaders?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "A state governor",
+      "correct": true
+    },
+    {
+      "id": "B",
+      "text": "A city mail carrier",
+      "correct": false
+    },
+    {
+      "id": "C",
+      "text": "A United States Senator",
+      "correct": true
+    },
+    {
+      "id": "D",
+      "text": "A public school principal",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "Governors and U.S. Senators are elected by voters to serve in government. Mail carriers and school principals are public servants but they are hired, not elected. Elected leaders must win votes from citizens.",
+  "difficulty": "hard",
+  "tags": [
+    "political-leaders",
+    "elected-officials",
+    "public-servants",
+    "multi-select"
+  ],
+  "generated_at": "2026-04-13T12:28:00Z"
+}

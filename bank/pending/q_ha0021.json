@@ -1,0 +1,23 @@
+{
+  "id": "q_ha0021",
+  "standard_code": "5.H.8",
+  "standard_essential": false,
+  "reporting_category": "History",
+  "domain": "History",
+  "question_type": "multi_select",
+  "stimulus": {
+    "type": "text",
+    "content": "In 1786, farmers in Massachusetts rebelled because they could not pay their debts and taxes. This uprising, called Shays' Rebellion, showed that the national government under the Articles of Confederation was too weak to keep order. Leaders called for a convention to fix the problems."
+  },
+  "stem": "Which TWO statements describe problems shown by Shays' Rebellion?",
+  "choices": [
+    {"id": "A", "text": "The national government could not stop the uprising", "correct": true},
+    {"id": "B", "text": "The president used too much military force", "correct": false},
+    {"id": "C", "text": "The government had no power to help with debt issues", "correct": true},
+    {"id": "D", "text": "Too many states sent soldiers to crush the revolt", "correct": false}
+  ],
+  "answer_explanation": "Shays' Rebellion showed the national government was too weak to stop uprisings or address economic problems like debt. There was no president with military power, and states did not coordinate a strong response.",
+  "difficulty": "hard",
+  "tags": ["articles-of-confederation", "shays-rebellion", "weaknesses"],
+  "generated_at": "2026-04-13T12:30:00Z"
+}

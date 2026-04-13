@@ -1,0 +1,43 @@
+{
+  "id": "q_ea0012",
+  "standard_code": "5.E.6",
+  "standard_essential": false,
+  "reporting_category": "Geography and Economics",
+  "domain": "Economics",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "New England colonies caught fish and cut lumber. They shipped these goods to the Middle and Southern colonies. In return, the Middle colonies sent flour, and the Southern colonies sent tobacco. All three regions needed goods from the others."
+  },
+  "stem": "What does this trade between the three colonial regions show about their economies?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "Each region could meet all of its own needs",
+      "correct": false
+    },
+    {
+      "id": "B",
+      "text": "Only the Southern colonies had useful goods",
+      "correct": false
+    },
+    {
+      "id": "C",
+      "text": "The regions depended on each other for goods",
+      "correct": true
+    },
+    {
+      "id": "D",
+      "text": "The regions tried to stop trading with others",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "The passage shows that the three colonial regions were economically interdependent. Each region produced different goods and relied on the others to provide what it could not produce itself. This exchange of goods across regions is a clear example of economic interdependence.",
+  "difficulty": "easy",
+  "tags": [
+    "economic-interdependence",
+    "colonial-regions",
+    "intercolonial-trade"
+  ],
+  "generated_at": "2026-04-13T12:21:00Z"
+}

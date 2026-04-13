@@ -11,13 +11,33 @@
   },
   "stem": "This passage shows that the colonies and Britain both depended on each other. What is this called?",
   "choices": [
-    {"id": "A", "text": "Economic competition for markets", "correct": false},
-    {"id": "B", "text": "Economic interdependence in trade", "correct": true},
-    {"id": "C", "text": "Economic isolation from all trade", "correct": false},
-    {"id": "D", "text": "Economic freedom from all rules", "correct": false}
+    {
+      "id": "A",
+      "text": "Economic competition for markets",
+      "correct": false
+    },
+    {
+      "id": "B",
+      "text": "Economic interdependence in trade",
+      "correct": true
+    },
+    {
+      "id": "C",
+      "text": "Economic isolation from all trade",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "Economic freedom from all rules",
+      "correct": false
+    }
   ],
   "answer_explanation": "Economic interdependence means that two groups depend on each other for goods and services. The colonies needed British factories to turn raw cotton into cloth, and Britain needed colonial raw materials. This mutual reliance is the definition of economic interdependence.",
   "difficulty": "medium",
-  "tags": ["economic-interdependence", "colonial-trade", "britain-colonies"],
+  "tags": [
+    "economic-interdependence",
+    "colonial-trade",
+    "britain-colonies"
+  ],
   "generated_at": "2026-04-13T12:20:00Z"
 }

@@ -1,0 +1,43 @@
+{
+  "id": "q_ga0013",
+  "standard_code": "5.G.5",
+  "standard_essential": false,
+  "reporting_category": "Geography and Economics",
+  "domain": "Geography",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "Colonists in different regions found ways to live with their surroundings. In New England, people built stone walls from rocks they cleared off fields. In the South, planters dug ditches to drain swampy land for rice farming. On the frontier, settlers cut down forests to create open farmland."
+  },
+  "stem": "What do these examples show about how colonists dealt with their land?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "They changed the land to meet their needs",
+      "correct": true
+    },
+    {
+      "id": "B",
+      "text": "They moved away when farming was too hard",
+      "correct": false
+    },
+    {
+      "id": "C",
+      "text": "They asked England to send better tools",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "They only farmed on land that was flat",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "Each example shows colonists modifying their physical environment to make it more useful. New Englanders cleared rocks, Southerners drained swamps, and frontier settlers cleared forests. These are all ways people adapted to and changed the land around them.",
+  "difficulty": "hard",
+  "tags": [
+    "human-environment-interaction",
+    "adapting-environment",
+    "colonial-life"
+  ],
+  "generated_at": "2026-04-13T12:22:00Z"
+}

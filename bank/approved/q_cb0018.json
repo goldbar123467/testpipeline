@@ -1,0 +1,43 @@
+{
+  "id": "q_cb0018",
+  "standard_code": "5.C.10",
+  "standard_essential": false,
+  "reporting_category": "Civics and Government",
+  "domain": "Civics",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "A firefighter rescues a family from a burning building. A police officer directs traffic during a big storm. A teacher helps students learn to read. These workers are all paid by the government."
+  },
+  "stem": "What do these workers have in common as public servants?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "They all work for private companies",
+      "correct": false
+    },
+    {
+      "id": "B",
+      "text": "They all run for office in elections",
+      "correct": false
+    },
+    {
+      "id": "C",
+      "text": "They all serve the community with their jobs",
+      "correct": true
+    },
+    {
+      "id": "D",
+      "text": "They all write new laws for the state",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "Public servants are people who work for the government and serve the community. Firefighters, police officers, and public school teachers all help people through their jobs. They do not run for office or write laws.",
+  "difficulty": "medium",
+  "tags": [
+    "public-servants",
+    "community-service",
+    "government-workers"
+  ],
+  "generated_at": "2026-04-13T12:27:00Z"
+}

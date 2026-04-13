@@ -1,0 +1,43 @@
+{
+  "id": "q_ha0019",
+  "standard_code": "5.H.7",
+  "standard_essential": false,
+  "reporting_category": "History",
+  "domain": "History",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "At the Constitutional Convention, delegates from large and small states disagreed about representation in Congress. The Great Compromise solved this problem. It created two chambers: the Senate, where each state gets two votes, and the House, where seats are based on population."
+  },
+  "stem": "How did the Great Compromise settle the debate about representation?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "It gave every state the same number of seats",
+      "correct": false
+    },
+    {
+      "id": "B",
+      "text": "It created two chambers with different rules",
+      "correct": true
+    },
+    {
+      "id": "C",
+      "text": "It let the president pick each state's votes",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "It removed Congress from the new government",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "The passage explains the Great Compromise created two chambers: one with equal votes per state (Senate) and one based on population (House). This balanced the interests of large and small states.",
+  "difficulty": "hard",
+  "tags": [
+    "constitution",
+    "great-compromise",
+    "constitutional-convention"
+  ],
+  "generated_at": "2026-04-13T12:28:00Z"
+}
