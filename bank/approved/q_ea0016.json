@@ -11,13 +11,33 @@
   },
   "stem": "Which TWO features are part of a free enterprise system as described in this passage?",
   "choices": [
-    {"id": "A", "text": "People can start their own businesses", "correct": true},
-    {"id": "B", "text": "The government sets all prices for goods", "correct": false},
-    {"id": "C", "text": "Buyers are free to choose what they buy", "correct": true},
-    {"id": "D", "text": "Workers must make only what the state says", "correct": false}
+    {
+      "id": "A",
+      "text": "People can start their own businesses",
+      "correct": true
+    },
+    {
+      "id": "B",
+      "text": "The government sets all prices for goods",
+      "correct": false
+    },
+    {
+      "id": "C",
+      "text": "Buyers are free to choose what they buy",
+      "correct": true
+    },
+    {
+      "id": "D",
+      "text": "Workers must make only what the state says",
+      "correct": false
+    }
   ],
   "answer_explanation": "In a free enterprise system, individuals have the freedom to start businesses and consumers have the freedom to choose what they buy. The government does not control prices or tell people what to produce. These features distinguish free enterprise from command economies.",
   "difficulty": "medium",
-  "tags": ["free-enterprise", "economic-systems", "market-economy"],
+  "tags": [
+    "free-enterprise",
+    "economic-systems",
+    "market-economy"
+  ],
   "generated_at": "2026-04-13T12:25:00Z"
 }

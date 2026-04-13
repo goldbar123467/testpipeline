@@ -1,0 +1,44 @@
+{
+  "id": "q_ea0017",
+  "standard_code": "5.E.10",
+  "standard_essential": false,
+  "reporting_category": "Geography and Economics",
+  "domain": "Economics",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "Country A lets people own shops and set their own prices. Country B has the government decide what goods to make, how much to make, and what price to charge. Citizens in Country B cannot open their own stores."
+  },
+  "stem": "Which country has an economic system most like the American free enterprise system?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "Country A, because people control businesses",
+      "correct": true
+    },
+    {
+      "id": "B",
+      "text": "Country B, because the government sets prices",
+      "correct": false
+    },
+    {
+      "id": "C",
+      "text": "Country A, because the government owns all shops",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "Country B, because citizens pick what to make",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "Country A is most like the American free enterprise system because individuals can own businesses and set their own prices. In contrast, Country B represents a command economy where the government makes all economic decisions. The American economy developed around the idea of free enterprise.",
+  "difficulty": "hard",
+  "tags": [
+    "free-enterprise",
+    "command-economy",
+    "economic-systems",
+    "comparison"
+  ],
+  "generated_at": "2026-04-13T12:26:00Z"
+}
