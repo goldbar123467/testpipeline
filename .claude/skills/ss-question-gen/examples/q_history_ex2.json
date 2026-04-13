@@ -1,0 +1,23 @@
+{
+  "id": "q_his4d5e6f",
+  "standard_code": "5.H.4",
+  "standard_essential": true,
+  "reporting_category": "History",
+  "domain": "History",
+  "question_type": "multi_select",
+  "stimulus": {
+    "type": "text",
+    "content": "By the 1770s, many American colonists were unhappy with British rule. They felt that the British Parliament was making unfair decisions about the colonies without asking the colonists for their opinions."
+  },
+  "stem": "Which TWO events helped cause the American Revolution?",
+  "choices": [
+    {"id": "A", "text": "The Stamp Act placed taxes on printed materials in the colonies", "correct": true},
+    {"id": "B", "text": "The Louisiana Purchase doubled the size of the United States", "correct": false},
+    {"id": "C", "text": "British soldiers fired on colonists at the Boston Massacre", "correct": true},
+    {"id": "D", "text": "Lewis and Clark explored the western territories", "correct": false}
+  ],
+  "answer_explanation": "The Stamp Act (1765) angered colonists by taxing printed goods without colonial representation. The Boston Massacre (1770) increased anti-British feelings when soldiers killed five colonists. The Louisiana Purchase and Lewis and Clark expedition happened after the Revolution.",
+  "difficulty": "medium",
+  "tags": ["american-revolution", "causes", "stamp-act", "boston-massacre"],
+  "generated_at": "2026-04-13T10:05:00Z"
+}

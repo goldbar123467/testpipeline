@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.pyc
+
+# Exports (generated, not tracked)
+exports/gimkit.csv
+exports/studyguide.docx
+
+# OS
+.DS_Store
