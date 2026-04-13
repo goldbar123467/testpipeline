@@ -1,0 +1,44 @@
+{
+  "id": "q_d4e1c6a8",
+  "standard_code": "5.C.4",
+  "standard_essential": true,
+  "reporting_category": "Civics and Government",
+  "domain": "Civics",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "Congress passed a new law. The President did not agree with the law, so the President vetoed it. Congress then voted again, and two-thirds of the members voted to pass the law anyway."
+  },
+  "stem": "What does this example best show about the United States government?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "The President has the final say on all laws",
+      "correct": false
+    },
+    {
+      "id": "B",
+      "text": "Congress can never pass a law the President rejects",
+      "correct": false
+    },
+    {
+      "id": "C",
+      "text": "The branches of government can check each other's power",
+      "correct": true
+    },
+    {
+      "id": "D",
+      "text": "Only the judicial branch can decide if a law is fair",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "This is an example of checks and balances. The President checked Congress by using the veto. Congress then checked the President by overriding the veto with a two-thirds vote. This shows how the branches limit each other's power.",
+  "difficulty": "medium",
+  "tags": [
+    "checks-and-balances",
+    "veto",
+    "override",
+    "separation-of-powers"
+  ],
+  "generated_at": "2026-04-13T12:03:00Z"
+}

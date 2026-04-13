@@ -1,0 +1,43 @@
+{
+  "id": "q_a1c7b3e2",
+  "standard_code": "5.C.1",
+  "standard_essential": true,
+  "reporting_category": "Civics and Government",
+  "domain": "Civics",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "Read the passage below:\n\nMrs. Ruiz told her class about the duties of being a citizen. She said that some duties are required by law. Others are things that good citizens choose to do on their own."
+  },
+  "stem": "Based on the passage, which duty is required by law for citizens in the United States?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "Helping out at a food bank",
+      "correct": false
+    },
+    {
+      "id": "B",
+      "text": "Serving on a jury when called",
+      "correct": true
+    },
+    {
+      "id": "C",
+      "text": "Giving money to a charity",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "Going to community meetings",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "Jury duty is required by law. When citizens are called to serve on a jury, they must go to court. Helping at a food bank, giving to charity, and going to meetings are good things to do, but they are not required by law.",
+  "difficulty": "easy",
+  "tags": [
+    "civic-duty",
+    "jury-duty",
+    "citizen-responsibilities"
+  ],
+  "generated_at": "2026-04-13T12:00:00Z"
+}

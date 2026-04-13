@@ -1,0 +1,43 @@
+{
+  "id": "q_c3f9a5b7",
+  "standard_code": "5.C.3",
+  "standard_essential": true,
+  "reporting_category": "Civics and Government",
+  "domain": "Civics",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "A student made a chart about the United States government. The chart showed three parts: one that makes the laws, one that carries out the laws, and one that decides if laws follow the Constitution."
+  },
+  "stem": "Which branch of the government is in charge of making the laws?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "The executive branch",
+      "correct": false
+    },
+    {
+      "id": "B",
+      "text": "The judicial branch",
+      "correct": false
+    },
+    {
+      "id": "C",
+      "text": "The legislative branch",
+      "correct": true
+    },
+    {
+      "id": "D",
+      "text": "The military branch",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "The legislative branch, which is Congress, makes the laws. The executive branch carries out the laws. The judicial branch decides if laws follow the Constitution. There is no military branch of government.",
+  "difficulty": "easy",
+  "tags": [
+    "three-branches",
+    "legislative-branch",
+    "government-structure"
+  ],
+  "generated_at": "2026-04-13T12:02:00Z"
+}

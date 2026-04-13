@@ -1,0 +1,43 @@
+{
+  "id": "q_e5f2d7b9",
+  "standard_code": "5.C.5",
+  "standard_essential": true,
+  "reporting_category": "Civics and Government",
+  "domain": "Civics",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "The Constitution gives some powers to the federal government. Other powers are left to the state governments. For example, only the federal government can print money and make treaties with other countries."
+  },
+  "stem": "Based on the passage, which power is most likely left to state governments?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "Printing coins and paper money",
+      "correct": false
+    },
+    {
+      "id": "B",
+      "text": "Making treaties with other countries",
+      "correct": false
+    },
+    {
+      "id": "C",
+      "text": "Creating rules for driver's licenses",
+      "correct": true
+    },
+    {
+      "id": "D",
+      "text": "Running the armed forces",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "Driver's licenses are managed by state governments because the Constitution does not give that power to the federal government. Printing money, making treaties, and running the armed forces are all powers given to the federal government.",
+  "difficulty": "medium",
+  "tags": [
+    "federalism",
+    "state-powers",
+    "federal-powers"
+  ],
+  "generated_at": "2026-04-13T12:04:00Z"
+}
