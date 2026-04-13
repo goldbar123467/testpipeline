@@ -1,0 +1,43 @@
+{
+  "id": "q_ha0025",
+  "standard_code": "5.H.10",
+  "standard_essential": true,
+  "reporting_category": "History",
+  "domain": "History",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "After the Revolution, President Washington had to set up the new government. He chose leaders to help him run the country. He picked Thomas Jefferson as Secretary of State and Alexander Hamilton as Secretary of the Treasury. These advisors formed the first presidential cabinet."
+  },
+  "stem": "Why did President Washington create a cabinet of advisors?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "To help him run the new government",
+      "correct": true
+    },
+    {
+      "id": "B",
+      "text": "To replace the role of Congress",
+      "correct": false
+    },
+    {
+      "id": "C",
+      "text": "To lead the army during wartime",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "To write a new set of state laws",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "The passage states Washington chose leaders to help him run the country. The cabinet did not replace Congress, lead the army, or write state laws.",
+  "difficulty": "easy",
+  "tags": [
+    "early-republic",
+    "washington",
+    "presidential-cabinet"
+  ],
+  "generated_at": "2026-04-13T12:34:00Z"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q_ha0024",
+  "standard_code": "5.H.9",
+  "standard_essential": true,
+  "reporting_category": "History",
+  "domain": "History",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "Many Americans in the 1800s believed in Manifest Destiny. This was the idea that the United States was meant to stretch from the Atlantic Ocean to the Pacific Ocean. Settlers moved west in wagon trains looking for cheap land, gold, and a fresh start."
+  },
+  "stem": "What did Manifest Destiny push Americans to do?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "Return to Europe to find better jobs",
+      "correct": false
+    },
+    {
+      "id": "B",
+      "text": "Stay along the Atlantic coast for safety",
+      "correct": false
+    },
+    {
+      "id": "C",
+      "text": "Expand the country all the way to the Pacific",
+      "correct": true
+    },
+    {
+      "id": "D",
+      "text": "Give western lands back to Native groups",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "Manifest Destiny was the belief that the United States was meant to expand from the Atlantic to the Pacific Ocean. This idea encouraged settlers to move westward for land and opportunity.",
+  "difficulty": "medium",
+  "tags": [
+    "westward-expansion",
+    "manifest-destiny",
+    "settlement"
+  ],
+  "generated_at": "2026-04-13T12:33:00Z"
+}

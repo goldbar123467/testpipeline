@@ -1,0 +1,43 @@
+{
+  "id": "q_ga0009",
+  "standard_code": "5.G.6",
+  "standard_essential": true,
+  "reporting_category": "Geography and Economics",
+  "domain": "Geography",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "New England had many forests and was close to the Atlantic Ocean. Colonists cut down trees to build ships. They also caught cod and other fish to sell. These activities became the main source of income for the region."
+  },
+  "stem": "Which natural resources helped build the New England economy?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "Gold and silver from nearby mines",
+      "correct": false
+    },
+    {
+      "id": "B",
+      "text": "Forests for lumber and oceans for fishing",
+      "correct": true
+    },
+    {
+      "id": "C",
+      "text": "Rich soil for growing cotton and tobacco",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "Oil and coal found underground",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "New England's forests provided lumber for shipbuilding, and the nearby Atlantic Ocean provided fish. These natural resources drove the region's economy. Gold, silver, oil, and coal were not major New England resources, and the rocky soil was not good for cash crops.",
+  "difficulty": "easy",
+  "tags": [
+    "natural-resources",
+    "new-england",
+    "economic-development"
+  ],
+  "generated_at": "2026-04-13T12:18:00Z"
+}

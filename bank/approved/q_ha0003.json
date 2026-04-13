@@ -1,0 +1,43 @@
+{
+  "id": "q_ha0003",
+  "standard_code": "5.H.2",
+  "standard_essential": true,
+  "reporting_category": "History",
+  "domain": "History",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "In 1492, Christopher Columbus sailed west from Spain. He hoped to find a quick sea route to Asia. Instead, he landed on islands in the Caribbean. His voyage opened the way for more Europeans to come to the Americas."
+  },
+  "stem": "What was the main goal of Columbus when he sailed west from Spain?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "To find a sea route to Asia",
+      "correct": true
+    },
+    {
+      "id": "B",
+      "text": "To start colonies in the Caribbean",
+      "correct": false
+    },
+    {
+      "id": "C",
+      "text": "To map the coast of Africa",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "To trade with Native Americans",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "The passage states Columbus hoped to find a quick sea route to Asia. He did not set out to start colonies, map Africa, or trade with Native Americans.",
+  "difficulty": "easy",
+  "tags": [
+    "european-exploration",
+    "columbus",
+    "causes"
+  ],
+  "generated_at": "2026-04-13T12:12:00Z"
+}

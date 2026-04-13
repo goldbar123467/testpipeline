@@ -1,0 +1,43 @@
+{
+  "id": "q_ca0008",
+  "standard_code": "5.C.3",
+  "standard_essential": true,
+  "reporting_category": "Civics and Government",
+  "domain": "Civics",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "Read the passage below:\n\nThe Supreme Court is the highest court in the United States. Its nine justices decide whether laws follow the rules set by the Constitution. Their decisions affect the entire country."
+  },
+  "stem": "Which branch of government does the Supreme Court belong to?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "The legislative branch",
+      "correct": false
+    },
+    {
+      "id": "B",
+      "text": "The executive branch",
+      "correct": false
+    },
+    {
+      "id": "C",
+      "text": "The judicial branch",
+      "correct": true
+    },
+    {
+      "id": "D",
+      "text": "The electoral branch",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "The Supreme Court is part of the judicial branch. The legislative branch is Congress, and the executive branch is led by the President. There is no electoral branch of government.",
+  "difficulty": "easy",
+  "tags": [
+    "judicial-branch",
+    "supreme-court",
+    "government-structure"
+  ],
+  "generated_at": "2026-04-13T12:10:00Z"
+}

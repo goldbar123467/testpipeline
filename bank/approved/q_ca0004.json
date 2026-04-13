@@ -1,0 +1,43 @@
+{
+  "id": "q_ca0004",
+  "standard_code": "5.C.2",
+  "standard_essential": true,
+  "reporting_category": "Civics and Government",
+  "domain": "Civics",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "Read the passage below:\n\nWhen the Constitution was first written, some people worried it did not protect individual freedoms. So the founders added ten amendments. These amendments are called the Bill of Rights."
+  },
+  "stem": "Based on the passage, what was the main purpose of the Bill of Rights?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "To create the three branches of government",
+      "correct": false
+    },
+    {
+      "id": "B",
+      "text": "To protect the rights of individual people",
+      "correct": true
+    },
+    {
+      "id": "C",
+      "text": "To set up rules for collecting taxes",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "To explain how states would be added",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "The Bill of Rights was added to protect individual freedoms. It does not create the branches of government, set tax rules, or explain how new states join the country.",
+  "difficulty": "easy",
+  "tags": [
+    "bill-of-rights",
+    "constitution",
+    "individual-rights"
+  ],
+  "generated_at": "2026-04-13T12:10:00Z"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q_cb0005",
+  "standard_code": "5.C.7",
+  "standard_essential": false,
+  "reporting_category": "Civics and Government",
+  "domain": "Civics",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "Maria's mom goes to the school board meeting in their town. She tells the board that the playground needs new equipment. She asks them to add it to the budget."
+  },
+  "stem": "At what level of government is Maria's mom taking part?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "The national level",
+      "correct": false
+    },
+    {
+      "id": "B",
+      "text": "The state level",
+      "correct": false
+    },
+    {
+      "id": "C",
+      "text": "The local level",
+      "correct": true
+    },
+    {
+      "id": "D",
+      "text": "The global level",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "A school board meeting is part of local government. Maria's mom is taking part at the local level by speaking at a meeting in her town. National government deals with the whole country, and state government deals with the entire state.",
+  "difficulty": "easy",
+  "tags": [
+    "citizen-participation",
+    "local-government"
+  ],
+  "generated_at": "2026-04-13T12:14:00Z"
+}

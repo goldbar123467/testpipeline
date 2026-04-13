@@ -1,0 +1,43 @@
+{
+  "id": "q_ha0020",
+  "standard_code": "5.H.8",
+  "standard_essential": false,
+  "reporting_category": "History",
+  "domain": "History",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "The Articles of Confederation was the first plan of government for the United States. Under this plan, the national government could not collect taxes or raise an army on its own. Each state acted almost like a separate country. Many leaders felt the government was too weak to solve big problems."
+  },
+  "stem": "Why did many leaders think the Articles of Confederation was too weak?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "The government could not collect taxes or raise an army",
+      "correct": true
+    },
+    {
+      "id": "B",
+      "text": "The government gave the president too much power",
+      "correct": false
+    },
+    {
+      "id": "C",
+      "text": "The government forced states to follow strict rules",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "The government spent too much money on roads",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "The passage states the national government could not collect taxes or raise an army, making it too weak. There was no strong president, and states were not forced to follow strict rules under the Articles.",
+  "difficulty": "medium",
+  "tags": [
+    "articles-of-confederation",
+    "weaknesses",
+    "early-government"
+  ],
+  "generated_at": "2026-04-13T12:29:00Z"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q_ha0017",
+  "standard_code": "5.H.6",
+  "standard_essential": true,
+  "reporting_category": "History",
+  "domain": "History",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "The Declaration of Independence states that governments get their power from the consent of the governed. This means the people must agree to be ruled. If a government harms the people's rights, the people can change or replace it."
+  },
+  "stem": "According to the Declaration, what should people do if a government harms their rights?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "They should wait for the king to fix it",
+      "correct": false
+    },
+    {
+      "id": "B",
+      "text": "They should pay higher taxes for protection",
+      "correct": false
+    },
+    {
+      "id": "C",
+      "text": "They can change or replace the government",
+      "correct": true
+    },
+    {
+      "id": "D",
+      "text": "They should move to a different country",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "The passage says people can change or replace a government that harms their rights. This idea of consent of the governed is a key principle of the Declaration.",
+  "difficulty": "hard",
+  "tags": [
+    "declaration-of-independence",
+    "consent-of-governed",
+    "key-ideas"
+  ],
+  "generated_at": "2026-04-13T12:26:00Z"
+}

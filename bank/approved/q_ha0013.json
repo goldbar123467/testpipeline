@@ -1,0 +1,43 @@
+{
+  "id": "q_ha0013",
+  "standard_code": "5.H.5",
+  "standard_essential": true,
+  "reporting_category": "History",
+  "domain": "History",
+  "question_type": "multi_select",
+  "stimulus": {
+    "type": "text",
+    "content": "Many people played key roles in founding the United States. Some led armies, while others wrote important documents or spoke out for liberty. Their actions helped shape the new nation."
+  },
+  "stem": "Which TWO people helped write the Declaration of Independence?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "Thomas Jefferson drafted the document",
+      "correct": true
+    },
+    {
+      "id": "B",
+      "text": "Paul Revere rode to warn the colonists",
+      "correct": false
+    },
+    {
+      "id": "C",
+      "text": "Benjamin Franklin helped edit the draft",
+      "correct": true
+    },
+    {
+      "id": "D",
+      "text": "Betsy Ross sewed the first American flag",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "Thomas Jefferson was the main author of the Declaration of Independence, and Benjamin Franklin was on the committee that helped edit it. Paul Revere and Betsy Ross played other roles in the Revolution.",
+  "difficulty": "hard",
+  "tags": [
+    "founding-fathers",
+    "declaration-of-independence",
+    "key-individuals"
+  ],
+  "generated_at": "2026-04-13T12:22:00Z"
+}

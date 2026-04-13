@@ -1,0 +1,43 @@
+{
+  "id": "q_ha0028",
+  "standard_code": "5.H.11",
+  "standard_essential": false,
+  "reporting_category": "History",
+  "domain": "History",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "A primary source is created by someone who was there when an event happened. Examples include diaries, letters, and photographs from the time period. A secondary source is created later by someone who studied the event. Textbooks and encyclopedias are examples of secondary sources."
+  },
+  "stem": "Which item is an example of a primary source from the American Revolution?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "A textbook chapter about the war",
+      "correct": false
+    },
+    {
+      "id": "B",
+      "text": "A letter written by a soldier in 1778",
+      "correct": true
+    },
+    {
+      "id": "C",
+      "text": "A website about colonial history",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "A film made about George Washington",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "A letter written by a soldier during the Revolution is a primary source because the writer was there at the time. Textbooks, websites, and films about the era are secondary sources created later.",
+  "difficulty": "easy",
+  "tags": [
+    "primary-sources",
+    "secondary-sources",
+    "historical-thinking"
+  ],
+  "generated_at": "2026-04-13T12:37:00Z"
+}

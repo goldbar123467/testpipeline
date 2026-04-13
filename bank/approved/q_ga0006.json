@@ -1,0 +1,43 @@
+{
+  "id": "q_ga0006",
+  "standard_code": "5.G.3",
+  "standard_essential": true,
+  "reporting_category": "Geography and Economics",
+  "domain": "Geography",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "The New England colonies had thin, rocky soil and long, cold winters. Because farming was hard, many colonists turned to the sea. They caught fish and built ships to earn a living."
+  },
+  "stem": "What did New England colonists do because their soil was rocky?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "They grew tobacco on large plantations",
+      "correct": false
+    },
+    {
+      "id": "B",
+      "text": "They turned to fishing and shipbuilding",
+      "correct": true
+    },
+    {
+      "id": "C",
+      "text": "They moved south to find better land",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "They traded fur with European countries",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "Because the rocky soil and cold climate made farming difficult, New England colonists relied on the ocean for their economy, turning to fishing and shipbuilding. Tobacco plantations were a Southern colony activity.",
+  "difficulty": "easy",
+  "tags": [
+    "colonial-regions",
+    "new-england",
+    "geography-economy"
+  ],
+  "generated_at": "2026-04-13T12:15:00Z"
+}

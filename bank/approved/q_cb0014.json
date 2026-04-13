@@ -1,0 +1,43 @@
+{
+  "id": "q_cb0014",
+  "standard_code": "5.C.9",
+  "standard_essential": false,
+  "reporting_category": "Civics and Government",
+  "domain": "Civics",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "Both the House and the Senate have passed the same version of a bill. The bill is now sent to the President. The President reads the bill and decides what to do next."
+  },
+  "stem": "What happens if the President signs the bill?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "It goes back to the Senate for changes",
+      "correct": false
+    },
+    {
+      "id": "B",
+      "text": "It is sent to the Supreme Court for review",
+      "correct": false
+    },
+    {
+      "id": "C",
+      "text": "It becomes a law for the whole country",
+      "correct": true
+    },
+    {
+      "id": "D",
+      "text": "It is voted on by the citizens next",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "When the President signs a bill that has been passed by both the House and Senate, it becomes a law. The bill does not go back to Congress or to the Supreme Court. Citizens do not vote on bills in the national lawmaking process.",
+  "difficulty": "medium",
+  "tags": [
+    "lawmaking-process",
+    "president",
+    "signing-bills"
+  ],
+  "generated_at": "2026-04-13T12:23:00Z"
+}

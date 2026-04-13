@@ -1,0 +1,43 @@
+{
+  "id": "q_ca0006",
+  "standard_code": "5.C.2",
+  "standard_essential": true,
+  "reporting_category": "Civics and Government",
+  "domain": "Civics",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "Read the excerpt below:\n\nThe Constitution begins with the words \"We the People.\" The founders chose these words to show that the government gets its power from the citizens of the country."
+  },
+  "stem": "Why did the founders begin the Constitution with the words \"We the People\"?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "To show that only leaders could make laws",
+      "correct": false
+    },
+    {
+      "id": "B",
+      "text": "To show that government power comes from citizens",
+      "correct": true
+    },
+    {
+      "id": "C",
+      "text": "To list the names of all the founders",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "To explain how judges are chosen",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "The words 'We the People' show that the government gets its power from the people. The phrase does not limit lawmaking to leaders, list names of founders, or explain how judges are selected.",
+  "difficulty": "medium",
+  "tags": [
+    "constitution",
+    "popular-sovereignty",
+    "we-the-people"
+  ],
+  "generated_at": "2026-04-13T12:10:00Z"
+}

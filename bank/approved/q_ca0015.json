@@ -1,0 +1,43 @@
+{
+  "id": "q_ca0015",
+  "standard_code": "5.C.5",
+  "standard_essential": true,
+  "reporting_category": "Civics and Government",
+  "domain": "Civics",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "Read the passage below:\n\nEach state can set its own speed limits on highways. States also issue marriage licenses and run their own elections. These are powers not given to the federal government."
+  },
+  "stem": "What do these examples show about the power of state governments?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "States handle many everyday matters for their people",
+      "correct": true
+    },
+    {
+      "id": "B",
+      "text": "States have more power than the federal government",
+      "correct": false
+    },
+    {
+      "id": "C",
+      "text": "States can ignore laws made by Congress",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "States do not need to follow the Constitution",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "The examples show that states handle many daily matters such as speed limits and licenses. States do not have more power than the federal government, they cannot ignore federal laws, and they must still follow the Constitution.",
+  "difficulty": "medium",
+  "tags": [
+    "state-powers",
+    "reserved-powers",
+    "federalism"
+  ],
+  "generated_at": "2026-04-13T12:10:00Z"
+}

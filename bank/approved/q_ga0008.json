@@ -1,0 +1,43 @@
+{
+  "id": "q_ga0008",
+  "standard_code": "5.G.3",
+  "standard_essential": true,
+  "reporting_category": "Geography and Economics",
+  "domain": "Geography",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "table",
+    "content": "Colonial Region | Climate | Soil | Main Economic Activities\nNew England | Cold winters, short summers | Rocky, thin | Fishing, shipbuilding, lumber\nMiddle | Mild winters, warm summers | Fertile river valleys | Wheat, grain farming, trade\nSouthern | Warm, long growing season | Rich coastal plains | Tobacco, rice, indigo plantations"
+  },
+  "stem": "Based on the table, how did geography create different economies in each region?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "Each region had the same crops but different trade partners",
+      "correct": false
+    },
+    {
+      "id": "B",
+      "text": "Climate and soil led each region to develop different activities",
+      "correct": true
+    },
+    {
+      "id": "C",
+      "text": "All regions relied on fishing as their main source of income",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "The Southern region had the poorest soil for growing crops",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "The table shows that each colonial region had different climate and soil conditions, which led to different economic activities. New England's rocky soil pushed colonists toward the sea, the Middle colonies' fertile valleys supported grain farming, and the South's warm climate and rich soil enabled plantation agriculture.",
+  "difficulty": "hard",
+  "tags": [
+    "colonial-regions",
+    "comparing-regions",
+    "geography-economy"
+  ],
+  "generated_at": "2026-04-13T12:17:00Z"
+}

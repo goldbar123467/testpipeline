@@ -1,0 +1,43 @@
+{
+  "id": "q_ga0007",
+  "standard_code": "5.G.3",
+  "standard_essential": true,
+  "reporting_category": "Geography and Economics",
+  "domain": "Geography",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "The Southern colonies had warm weather and a long growing season. The flat land near the coast had rich soil. Planters used this land to grow cash crops like tobacco, rice, and indigo on large farms called plantations."
+  },
+  "stem": "Which geographic feature helped the Southern colonies grow cash crops?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "Rocky mountains and cold winters",
+      "correct": false
+    },
+    {
+      "id": "B",
+      "text": "Warm climate and rich coastal soil",
+      "correct": true
+    },
+    {
+      "id": "C",
+      "text": "Deep harbors and fast-moving rivers",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "Thick forests and narrow valleys",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "The Southern colonies benefited from a warm climate with a long growing season and rich soil in the coastal lowlands. These geographic features made the region ideal for growing cash crops like tobacco, rice, and indigo on large plantations.",
+  "difficulty": "medium",
+  "tags": [
+    "colonial-regions",
+    "southern-colonies",
+    "cash-crops"
+  ],
+  "generated_at": "2026-04-13T12:16:00Z"
+}

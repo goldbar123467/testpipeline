@@ -1,0 +1,43 @@
+{
+  "id": "q_ha0006",
+  "standard_code": "5.H.3",
+  "standard_essential": true,
+  "reporting_category": "History",
+  "domain": "History",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "The Southern colonies had warm weather and rich soil. Colonists there grew cash crops like tobacco, rice, and indigo on large farms called plantations. Enslaved Africans were forced to do most of the hard labor on these plantations."
+  },
+  "stem": "What was the main reason plantations developed in the Southern colonies?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "The region had warm weather and rich soil",
+      "correct": true
+    },
+    {
+      "id": "B",
+      "text": "The region had many rivers for shipping",
+      "correct": false
+    },
+    {
+      "id": "C",
+      "text": "The region had large forests for lumber",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "The region had cold winters for storing food",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "The passage explains that warm weather and rich soil in the Southern colonies allowed colonists to grow cash crops on plantations. The other options do not explain why plantations formed there.",
+  "difficulty": "easy",
+  "tags": [
+    "colonial-regions",
+    "southern-colonies",
+    "plantations"
+  ],
+  "generated_at": "2026-04-13T12:15:00Z"
+}

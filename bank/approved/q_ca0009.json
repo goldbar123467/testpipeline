@@ -1,0 +1,44 @@
+{
+  "id": "q_ca0009",
+  "standard_code": "5.C.3",
+  "standard_essential": true,
+  "reporting_category": "Civics and Government",
+  "domain": "Civics",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "Read the passage below:\n\nCongress is made up of two parts. The Senate has 100 members, two from each state. The House of Representatives has 435 members. The number from each state depends on how many people live there."
+  },
+  "stem": "What do the Senate and the House of Representatives together form?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "The judicial branch of government",
+      "correct": false
+    },
+    {
+      "id": "B",
+      "text": "The executive branch of government",
+      "correct": false
+    },
+    {
+      "id": "C",
+      "text": "The United States Congress",
+      "correct": true
+    },
+    {
+      "id": "D",
+      "text": "The United States Supreme Court",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "The Senate and the House of Representatives together make up Congress, which is the legislative branch. They are not part of the judicial branch, executive branch, or Supreme Court.",
+  "difficulty": "hard",
+  "tags": [
+    "congress",
+    "senate",
+    "house-of-representatives",
+    "legislative-branch"
+  ],
+  "generated_at": "2026-04-13T12:10:00Z"
+}

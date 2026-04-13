@@ -1,0 +1,43 @@
+{
+  "id": "q_ha0029",
+  "standard_code": "5.H.11",
+  "standard_essential": false,
+  "reporting_category": "History",
+  "domain": "History",
+  "question_type": "multi_select",
+  "stimulus": {
+    "type": "text",
+    "content": "A student is writing a report about life in the thirteen colonies. She wants to use both primary and secondary sources for her research. Her teacher tells her that using different types of sources will give her a more complete picture of the past."
+  },
+  "stem": "Which TWO items would be primary sources for this report?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "A diary kept by a colonial girl in 1740",
+      "correct": true
+    },
+    {
+      "id": "B",
+      "text": "A modern textbook about colonial America",
+      "correct": false
+    },
+    {
+      "id": "C",
+      "text": "A map drawn by a colonist in the 1750s",
+      "correct": true
+    },
+    {
+      "id": "D",
+      "text": "An online article about colonial farming",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "A diary from 1740 and a map drawn by a colonist in the 1750s are primary sources because they were created during the colonial period. A modern textbook and an online article are secondary sources.",
+  "difficulty": "medium",
+  "tags": [
+    "primary-sources",
+    "secondary-sources",
+    "research-skills"
+  ],
+  "generated_at": "2026-04-13T12:38:00Z"
+}

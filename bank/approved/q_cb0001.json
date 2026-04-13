@@ -1,0 +1,43 @@
+{
+  "id": "q_cb0001",
+  "standard_code": "5.C.6",
+  "standard_essential": true,
+  "reporting_category": "Civics and Government",
+  "domain": "Civics",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "A student reads the First Amendment to the United States Constitution. It says that Congress shall make no law taking away the freedom of speech or the freedom of the press."
+  },
+  "stem": "What does the First Amendment protect people's right to do?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "Own guns for protection",
+      "correct": false
+    },
+    {
+      "id": "B",
+      "text": "Share their ideas freely",
+      "correct": true
+    },
+    {
+      "id": "C",
+      "text": "Vote in all elections",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "Serve on a jury trial",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "The First Amendment protects freedom of speech and the press, which means people can share their ideas freely. Owning guns is protected by the Second Amendment. Voting and jury duty are civic duties, not First Amendment rights.",
+  "difficulty": "easy",
+  "tags": [
+    "bill-of-rights",
+    "first-amendment",
+    "freedom-of-speech"
+  ],
+  "generated_at": "2026-04-13T12:10:00Z"
+}

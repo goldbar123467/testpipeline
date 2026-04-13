@@ -1,0 +1,43 @@
+{
+  "id": "q_ha0010",
+  "standard_code": "5.H.4",
+  "standard_essential": true,
+  "reporting_category": "History",
+  "domain": "History",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "On April 19, 1775, British soldiers marched to Lexington and Concord in Massachusetts. Colonial militia met them on the town green. Shots were fired, and the fighting marked the start of the American Revolution. These battles are known as 'the shot heard round the world.'"
+  },
+  "stem": "Why are the battles at Lexington and Concord important in American history?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "They ended the French and Indian War",
+      "correct": false
+    },
+    {
+      "id": "B",
+      "text": "They started the American Revolution",
+      "correct": true
+    },
+    {
+      "id": "C",
+      "text": "They led to the signing of a peace treaty",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "They forced Britain to lower all taxes",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "The passage states that the fighting at Lexington and Concord marked the start of the American Revolution. The other choices describe events that did not result from these battles.",
+  "difficulty": "medium",
+  "tags": [
+    "american-revolution",
+    "lexington-concord",
+    "major-events"
+  ],
+  "generated_at": "2026-04-13T12:19:00Z"
+}

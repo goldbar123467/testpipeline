@@ -1,0 +1,43 @@
+{
+  "id": "q_cb0009",
+  "standard_code": "5.C.8",
+  "standard_essential": true,
+  "reporting_category": "Civics and Government",
+  "domain": "Civics",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "A teacher explains that in the United States, the people hold the power. The government can only do what the people allow it to do. This idea is called popular sovereignty."
+  },
+  "stem": "Based on the passage, what does popular sovereignty mean?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "The president makes all decisions alone",
+      "correct": false
+    },
+    {
+      "id": "B",
+      "text": "The power of government comes from the people",
+      "correct": true
+    },
+    {
+      "id": "C",
+      "text": "Only judges can create new laws for states",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "The military runs the country during a war",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "Popular sovereignty means that the power of government comes from the people. Citizens give the government its authority. It does not mean one person or group holds all power.",
+  "difficulty": "easy",
+  "tags": [
+    "popular-sovereignty",
+    "american-democracy",
+    "principles"
+  ],
+  "generated_at": "2026-04-13T12:18:00Z"
+}

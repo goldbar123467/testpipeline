@@ -1,0 +1,43 @@
+{
+  "id": "q_ca0002",
+  "standard_code": "5.C.1",
+  "standard_essential": true,
+  "reporting_category": "Civics and Government",
+  "domain": "Civics",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "Read the scenario below:\n\nA group of neighbors met at the town hall. They wanted to ask the city council to build a new park. They made signs and spoke at the meeting to share their ideas."
+  },
+  "stem": "What type of civic action are the neighbors taking in this scenario?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "Running for elected office",
+      "correct": false
+    },
+    {
+      "id": "B",
+      "text": "Paying their federal taxes",
+      "correct": false
+    },
+    {
+      "id": "C",
+      "text": "Taking part in community action",
+      "correct": true
+    },
+    {
+      "id": "D",
+      "text": "Serving on a criminal jury",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "The neighbors are participating in their community by attending a public meeting and speaking to their leaders. They are not running for office, paying taxes, or serving on a jury.",
+  "difficulty": "medium",
+  "tags": [
+    "community-participation",
+    "civic-action",
+    "local-government"
+  ],
+  "generated_at": "2026-04-13T12:10:00Z"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q_ea0002",
+  "standard_code": "5.E.1",
+  "standard_essential": false,
+  "reporting_category": "Geography and Economics",
+  "domain": "Economics",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "A toy store has 200 units of a popular new video game. Hundreds of kids want to buy it, but the store cannot get more from the maker. The store manager must decide what to do about the price."
+  },
+  "stem": "What will most likely happen to the price of the video game when supply is low and demand is high?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "The price will go down",
+      "correct": false
+    },
+    {
+      "id": "B",
+      "text": "The price will stay the same",
+      "correct": false
+    },
+    {
+      "id": "C",
+      "text": "The price will go up",
+      "correct": true
+    },
+    {
+      "id": "D",
+      "text": "The price will be removed",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "When supply is low and demand is high, prices tend to rise. The store has limited units but many buyers, so the price will most likely increase. This is a basic principle of supply and demand.",
+  "difficulty": "medium",
+  "tags": [
+    "supply-and-demand",
+    "prices",
+    "scarcity"
+  ],
+  "generated_at": "2026-04-13T12:11:00Z"
+}

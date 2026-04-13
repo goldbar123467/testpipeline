@@ -1,0 +1,44 @@
+{
+  "id": "q_ea0004",
+  "standard_code": "5.E.3",
+  "standard_essential": true,
+  "reporting_category": "Geography and Economics",
+  "domain": "Economics",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "In the 1700s, colonial merchants shipped tobacco and rice from the Southern colonies to England. In return, English ships brought finished goods like cloth, tools, and tea back to the colonies."
+  },
+  "stem": "This passage best describes which type of economic activity between the colonies and England?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "A boycott of English products",
+      "correct": false
+    },
+    {
+      "id": "B",
+      "text": "A trade of raw goods for products",
+      "correct": true
+    },
+    {
+      "id": "C",
+      "text": "A sharing of new farming methods",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "A collection of taxes on imports",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "The passage describes colonial merchants sending raw materials (tobacco, rice) to England and receiving finished goods (cloth, tools, tea) in return. This is an example of trade connecting the colonies to Europe through the exchange of raw materials for manufactured products.",
+  "difficulty": "medium",
+  "tags": [
+    "colonial-trade",
+    "triangular-trade",
+    "raw-materials",
+    "finished-goods"
+  ],
+  "generated_at": "2026-04-13T12:13:00Z"
+}

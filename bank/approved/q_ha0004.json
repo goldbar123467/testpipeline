@@ -1,0 +1,43 @@
+{
+  "id": "q_ha0004",
+  "standard_code": "5.H.2",
+  "standard_essential": true,
+  "reporting_category": "History",
+  "domain": "History",
+  "question_type": "multi_select",
+  "stimulus": {
+    "type": "text",
+    "content": "When Europeans arrived in the Americas, they brought new plants, animals, and diseases. This exchange of goods and germs between Europe and the Americas is called the Columbian Exchange. It changed life on both sides of the Atlantic Ocean."
+  },
+  "stem": "Which TWO items were effects of the Columbian Exchange?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "New diseases spread to Native Americans",
+      "correct": true
+    },
+    {
+      "id": "B",
+      "text": "Europeans learned to build longhouses",
+      "correct": false
+    },
+    {
+      "id": "C",
+      "text": "Horses were brought to the Americas",
+      "correct": true
+    },
+    {
+      "id": "D",
+      "text": "Native Americans sailed ships to Europe",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "The Columbian Exchange brought diseases like smallpox to Native Americans and introduced horses to the Americas. Europeans did not adopt longhouses, and Native Americans did not sail to Europe as part of this exchange.",
+  "difficulty": "medium",
+  "tags": [
+    "european-exploration",
+    "columbian-exchange",
+    "effects"
+  ],
+  "generated_at": "2026-04-13T12:13:00Z"
+}

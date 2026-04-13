@@ -1,0 +1,44 @@
+{
+  "id": "q_ea0008",
+  "standard_code": "5.E.5",
+  "standard_essential": true,
+  "reporting_category": "Geography and Economics",
+  "domain": "Economics",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "In 1765, the British Parliament passed the Stamp Act. This law required colonists to pay a tax on all printed paper, including newspapers, legal documents, and even playing cards. The colonists had no representatives in Parliament to vote on this tax."
+  },
+  "stem": "Why did the Stamp Act make many colonists angry with British rule?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "They could no longer print newspapers",
+      "correct": false
+    },
+    {
+      "id": "B",
+      "text": "They were taxed without any voice in Parliament",
+      "correct": true
+    },
+    {
+      "id": "C",
+      "text": "They wanted to charge their own higher taxes",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "They did not know how to use stamped paper",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "The Stamp Act angered colonists because they were being taxed by the British Parliament without having any elected representatives there. This led to the famous protest cry 'no taxation without representation.' Colonists believed it was unfair to be taxed by a government in which they had no voice.",
+  "difficulty": "medium",
+  "tags": [
+    "stamp-act",
+    "taxation",
+    "no-taxation-without-representation",
+    "colonial-dissatisfaction"
+  ],
+  "generated_at": "2026-04-13T12:17:00Z"
+}

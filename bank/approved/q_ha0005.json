@@ -1,0 +1,44 @@
+{
+  "id": "q_ha0005",
+  "standard_code": "5.H.2",
+  "standard_essential": true,
+  "reporting_category": "History",
+  "domain": "History",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "Spain sent explorers called conquistadors to the Americas in the 1500s. Hernan Cortes conquered the Aztec Empire in Mexico. Francisco Pizarro defeated the Inca Empire in South America. Spain wanted gold, land, and to spread its religion."
+  },
+  "stem": "What motivated Spain to send conquistadors to the Americas?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "To escape religious persecution at home",
+      "correct": false
+    },
+    {
+      "id": "B",
+      "text": "To gain gold, land, and spread religion",
+      "correct": true
+    },
+    {
+      "id": "C",
+      "text": "To form alliances with French explorers",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "To set up fishing ports along the coast",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "The passage states Spain wanted gold, land, and to spread its religion. The other choices do not match Spain's main reasons for sending conquistadors.",
+  "difficulty": "easy",
+  "tags": [
+    "european-exploration",
+    "spain",
+    "conquistadors",
+    "causes"
+  ],
+  "generated_at": "2026-04-13T12:14:00Z"
+}

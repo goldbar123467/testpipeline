@@ -1,0 +1,44 @@
+{
+  "id": "q_ea0009",
+  "standard_code": "5.E.5",
+  "standard_essential": true,
+  "reporting_category": "Geography and Economics",
+  "domain": "Economics",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "After Britain passed the Tea Act of 1773, a group of colonists in Boston dressed as Mohawk Indians. They boarded British ships at night and dumped 342 chests of tea into the harbor. This event became known as the Boston Tea Party."
+  },
+  "stem": "What does the Boston Tea Party show about how colonists felt about British tax policies?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "Colonists supported the taxes on tea",
+      "correct": false
+    },
+    {
+      "id": "B",
+      "text": "Colonists wanted to trade more tea",
+      "correct": false
+    },
+    {
+      "id": "C",
+      "text": "Colonists protested taxes they saw as unfair",
+      "correct": true
+    },
+    {
+      "id": "D",
+      "text": "Colonists preferred coffee over tea leaves",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "The Boston Tea Party was a direct protest against the Tea Act and British taxation policies. By destroying the tea, colonists showed their strong opposition to taxes imposed on them without their consent. This event is one of the most famous examples of colonial dissatisfaction with British economic policies.",
+  "difficulty": "easy",
+  "tags": [
+    "boston-tea-party",
+    "tea-act",
+    "colonial-protest",
+    "taxation"
+  ],
+  "generated_at": "2026-04-13T12:18:00Z"
+}

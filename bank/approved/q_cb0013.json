@@ -1,0 +1,43 @@
+{
+  "id": "q_cb0013",
+  "standard_code": "5.C.9",
+  "standard_essential": false,
+  "reporting_category": "Civics and Government",
+  "domain": "Civics",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "A member of the House of Representatives has an idea for a new law. She writes it down as a bill and presents it to the House. Other members discuss the bill and vote on it."
+  },
+  "stem": "What is the first step this leader takes to create a new law?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "She asks the President to sign it",
+      "correct": false
+    },
+    {
+      "id": "B",
+      "text": "She introduces a bill in Congress",
+      "correct": true
+    },
+    {
+      "id": "C",
+      "text": "She sends it to the Supreme Court",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "She holds a vote with all citizens",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "The first step in making a law at the national level is introducing a bill in Congress. The bill must be discussed and voted on by Congress before it goes to the President. The Supreme Court does not make laws, and citizens do not vote on bills directly.",
+  "difficulty": "easy",
+  "tags": [
+    "lawmaking-process",
+    "congress",
+    "bills"
+  ],
+  "generated_at": "2026-04-13T12:22:00Z"
+}

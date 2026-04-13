@@ -1,0 +1,44 @@
+{
+  "id": "q_ha0008",
+  "standard_code": "5.H.3",
+  "standard_essential": true,
+  "reporting_category": "History",
+  "domain": "History",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "The Middle colonies had mild weather and fertile land. Farmers grew wheat, oats, and barley, which earned the region the nickname 'the breadbasket colonies.' People from many countries and faiths settled there, making the region very diverse."
+  },
+  "stem": "Why were the Middle colonies called the breadbasket colonies?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "They made baskets to sell in markets",
+      "correct": false
+    },
+    {
+      "id": "B",
+      "text": "They imported bread from England",
+      "correct": false
+    },
+    {
+      "id": "C",
+      "text": "They grew large amounts of grain crops",
+      "correct": true
+    },
+    {
+      "id": "D",
+      "text": "They traded wheat only with the South",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "The passage explains that farmers in the Middle colonies grew wheat, oats, and barley, which is why the region was called the breadbasket colonies. The nickname refers to grain production, not basket-making or imports.",
+  "difficulty": "medium",
+  "tags": [
+    "colonial-regions",
+    "middle-colonies",
+    "economy",
+    "agriculture"
+  ],
+  "generated_at": "2026-04-13T12:17:00Z"
+}

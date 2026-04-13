@@ -1,0 +1,43 @@
+{
+  "id": "q_b2d8e4f1",
+  "standard_code": "5.C.2",
+  "standard_essential": true,
+  "reporting_category": "Civics and Government",
+  "domain": "Civics",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "Read the excerpt below:\n\n\"We the People of the United States, in Order to form a more perfect Union, establish Justice, insure domestic Tranquility, provide for the common defence, promote the general Welfare, and secure the Blessings of Liberty to ourselves and our Posterity, do ordain and establish this Constitution.\"\n\u2014 Preamble to the United States Constitution"
+  },
+  "stem": "What is the main purpose of the Preamble to the Constitution?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "To list the rights of every citizen",
+      "correct": false
+    },
+    {
+      "id": "B",
+      "text": "To explain the goals of the new government",
+      "correct": true
+    },
+    {
+      "id": "C",
+      "text": "To describe the three branches of government",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "To set rules for electing a president",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "The Preamble states the goals of the Constitution, such as forming a union, providing justice, and protecting liberty. It does not list individual rights, describe the branches, or set election rules. Those topics appear in other parts of the Constitution.",
+  "difficulty": "medium",
+  "tags": [
+    "constitution",
+    "preamble",
+    "government-purpose"
+  ],
+  "generated_at": "2026-04-13T12:01:00Z"
+}

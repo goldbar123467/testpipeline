@@ -1,0 +1,44 @@
+{
+  "id": "q_ha0026",
+  "standard_code": "5.H.10",
+  "standard_essential": true,
+  "reporting_category": "History",
+  "domain": "History",
+  "question_type": "multi_select",
+  "stimulus": {
+    "type": "text",
+    "content": "Alexander Hamilton and Thomas Jefferson had different views on how the country should be run. Hamilton wanted a strong national bank and supported industry. Jefferson wanted a nation of farmers and believed states should hold more power. Their disagreements led to the first political parties."
+  },
+  "stem": "Which TWO ideas did Alexander Hamilton support for the new nation?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "Creating a strong national bank",
+      "correct": true
+    },
+    {
+      "id": "B",
+      "text": "Keeping the nation focused on farming",
+      "correct": false
+    },
+    {
+      "id": "C",
+      "text": "Giving more power to state governments",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "Building up American industry and trade",
+      "correct": true
+    }
+  ],
+  "answer_explanation": "The passage states Hamilton wanted a strong national bank and supported industry. Jefferson, not Hamilton, favored farming and stronger state power.",
+  "difficulty": "hard",
+  "tags": [
+    "early-republic",
+    "hamilton",
+    "jefferson",
+    "political-parties"
+  ],
+  "generated_at": "2026-04-13T12:35:00Z"
+}

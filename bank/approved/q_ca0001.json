@@ -1,0 +1,43 @@
+{
+  "id": "q_ca0001",
+  "standard_code": "5.C.1",
+  "standard_essential": true,
+  "reporting_category": "Civics and Government",
+  "domain": "Civics",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "Read the passage below:\n\nEvery four years, Americans choose a new president. Citizens who are 18 or older can go to a polling place and cast a vote. Many people say voting is one of the most important things a citizen can do."
+  },
+  "stem": "Based on the passage, why is voting an important responsibility for citizens?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "It lets citizens pick their leaders",
+      "correct": true
+    },
+    {
+      "id": "B",
+      "text": "It is required by federal law",
+      "correct": false
+    },
+    {
+      "id": "C",
+      "text": "It earns money for the voter",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "It replaces the need for courts",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "Voting lets citizens choose who will lead the government. It is not required by federal law in the United States, it does not earn money, and it does not replace the court system.",
+  "difficulty": "easy",
+  "tags": [
+    "voting",
+    "civic-responsibility",
+    "elections"
+  ],
+  "generated_at": "2026-04-13T12:10:00Z"
+}

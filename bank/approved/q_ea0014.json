@@ -1,0 +1,43 @@
+{
+  "id": "q_ea0014",
+  "standard_code": "5.E.8",
+  "standard_essential": false,
+  "reporting_category": "Geography and Economics",
+  "domain": "Economics",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "Jake has saved ten dollars. He wants to buy a book for ten dollars. He also wants to buy a model airplane for ten dollars. He can only afford one item, so he chooses the book."
+  },
+  "stem": "In this example, what is Jake's opportunity cost of buying the book?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "The ten dollars he spent on the book",
+      "correct": false
+    },
+    {
+      "id": "B",
+      "text": "The model airplane he gave up",
+      "correct": true
+    },
+    {
+      "id": "C",
+      "text": "The time he spent saving his money",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "The store where he bought the book",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "Opportunity cost is the value of the next best option you give up when you make a choice. Jake chose the book, so his opportunity cost is the model airplane he could not buy. Opportunity cost helps explain the trade-offs people face in economic decisions.",
+  "difficulty": "medium",
+  "tags": [
+    "opportunity-cost",
+    "decision-making",
+    "trade-offs"
+  ],
+  "generated_at": "2026-04-13T12:23:00Z"
+}

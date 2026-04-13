@@ -1,0 +1,43 @@
+{
+  "id": "q_ea0005",
+  "standard_code": "5.E.3",
+  "standard_essential": true,
+  "reporting_category": "Geography and Economics",
+  "domain": "Economics",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "New England colonies caught fish and built ships. The Middle colonies grew wheat and grain. The Southern colonies grew tobacco and cotton. Each region sold its goods to the other regions and to Europe."
+  },
+  "stem": "How did trade connect the three colonial regions to each other?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "Each region made the same products to sell",
+      "correct": false
+    },
+    {
+      "id": "B",
+      "text": "Each region sold different goods others needed",
+      "correct": true
+    },
+    {
+      "id": "C",
+      "text": "Each region refused to buy from the others",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "Each region only traded with countries abroad",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "The colonial regions were connected through trade because each produced different goods that the others needed. New England provided fish and ships, the Middle colonies provided grain, and the Southern colonies provided tobacco and cotton. This exchange linked the regions economically.",
+  "difficulty": "medium",
+  "tags": [
+    "colonial-trade",
+    "colonial-regions",
+    "economic-connections"
+  ],
+  "generated_at": "2026-04-13T12:14:00Z"
+}

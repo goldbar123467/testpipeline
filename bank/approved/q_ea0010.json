@@ -1,0 +1,44 @@
+{
+  "id": "q_ea0010",
+  "standard_code": "5.E.5",
+  "standard_essential": true,
+  "reporting_category": "Geography and Economics",
+  "domain": "Economics",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "In 1767, the Townshend Acts placed taxes on glass, lead, paint, paper, and tea shipped to the colonies. Many colonists responded by refusing to buy British goods. They called this action a boycott."
+  },
+  "stem": "How did colonists use boycotts to fight against British economic policies?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "They stopped buying British goods to hurt British trade",
+      "correct": true
+    },
+    {
+      "id": "B",
+      "text": "They asked Parliament to lower prices on all goods",
+      "correct": false
+    },
+    {
+      "id": "C",
+      "text": "They sent extra payments to British merchants at sea",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "They traded only with France to punish the British",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "Colonists used boycotts by refusing to purchase British goods. This hurt British merchants and manufacturers financially, putting economic pressure on Parliament to repeal the unpopular taxes. Boycotts were a key form of colonial protest against British taxation.",
+  "difficulty": "hard",
+  "tags": [
+    "townshend-acts",
+    "boycotts",
+    "colonial-protest",
+    "economic-resistance"
+  ],
+  "generated_at": "2026-04-13T12:19:00Z"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q_cb0002",
+  "standard_code": "5.C.6",
+  "standard_essential": true,
+  "reporting_category": "Civics and Government",
+  "domain": "Civics",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "Police come to a man's house and want to search inside. The man tells them they need a warrant first. He says the Fourth Amendment gives him this right."
+  },
+  "stem": "Why does the Fourth Amendment require police to get a warrant before a search?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "To keep people safe in their homes",
+      "correct": true
+    },
+    {
+      "id": "B",
+      "text": "To help police do their jobs faster",
+      "correct": false
+    },
+    {
+      "id": "C",
+      "text": "To make sure crimes are not reported",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "To let judges run the police force",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "The Fourth Amendment protects people from unreasonable searches and seizures. It requires a warrant so that people can feel safe and secure in their homes. It is not about helping police work faster or giving judges control over police.",
+  "difficulty": "medium",
+  "tags": [
+    "bill-of-rights",
+    "fourth-amendment",
+    "search-and-seizure"
+  ],
+  "generated_at": "2026-04-13T12:11:00Z"
+}

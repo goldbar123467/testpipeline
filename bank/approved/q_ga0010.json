@@ -1,0 +1,43 @@
+{
+  "id": "q_ga0010",
+  "standard_code": "5.G.6",
+  "standard_essential": true,
+  "reporting_category": "Geography and Economics",
+  "domain": "Geography",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "In the 1700s, the Southern colonies grew tobacco, rice, and indigo. These crops needed a lot of land and workers. Planters sold the crops to England for high prices. The rich soil and warm climate made this possible."
+  },
+  "stem": "How did the soil and climate shape the Southern colonies' economy?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "Colonists built factories near iron deposits",
+      "correct": false
+    },
+    {
+      "id": "B",
+      "text": "Rich soil allowed planters to grow valuable cash crops",
+      "correct": true
+    },
+    {
+      "id": "C",
+      "text": "Forests gave colonists wood to build trading ships",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "Mountain streams powered mills to grind wheat",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "The Southern colonies' rich soil and warm climate were natural resources that allowed planters to grow valuable cash crops like tobacco, rice, and indigo. These crops were sold to England and became the foundation of the Southern economy.",
+  "difficulty": "medium",
+  "tags": [
+    "natural-resources",
+    "southern-colonies",
+    "cash-crops"
+  ],
+  "generated_at": "2026-04-13T12:19:00Z"
+}

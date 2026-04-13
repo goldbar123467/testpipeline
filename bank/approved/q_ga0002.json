@@ -1,0 +1,43 @@
+{
+  "id": "q_ga0002",
+  "standard_code": "5.G.1",
+  "standard_essential": false,
+  "reporting_category": "Geography and Economics",
+  "domain": "Geography",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "map",
+    "content": "A physical map of North America shows mountain ranges, rivers, and plains. The Appalachian Mountains run along the eastern part of the continent. The Mississippi River flows from north to south through the center. The Rocky Mountains are in the west."
+  },
+  "stem": "A student wants to find the river that divided the eastern and western United States. Which feature on the map should the student use?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "The Appalachian Mountains",
+      "correct": false
+    },
+    {
+      "id": "B",
+      "text": "The Rocky Mountains",
+      "correct": false
+    },
+    {
+      "id": "C",
+      "text": "The Mississippi River",
+      "correct": true
+    },
+    {
+      "id": "D",
+      "text": "The Great Plains",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "The Mississippi River runs north to south through the center of the country and was historically seen as the dividing line between east and west. The Appalachian and Rocky Mountains are mountain ranges, not rivers, and the Great Plains is a flat region.",
+  "difficulty": "medium",
+  "tags": [
+    "maps",
+    "physical-features",
+    "mississippi-river"
+  ],
+  "generated_at": "2026-04-13T12:11:00Z"
+}
