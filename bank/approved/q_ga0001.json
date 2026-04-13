@@ -1,0 +1,43 @@
+{
+  "id": "q_ga0001",
+  "standard_code": "5.G.1",
+  "standard_essential": false,
+  "reporting_category": "Geography and Economics",
+  "domain": "Geography",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "map",
+    "content": "A map of the thirteen colonies shows Boston in the north, Philadelphia in the middle, and Charleston in the south. A map key shows symbols for major ports and capital cities."
+  },
+  "stem": "Based on the map, which city is located in the New England region?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "Charleston",
+      "correct": false
+    },
+    {
+      "id": "B",
+      "text": "Philadelphia",
+      "correct": false
+    },
+    {
+      "id": "C",
+      "text": "Boston",
+      "correct": true
+    },
+    {
+      "id": "D",
+      "text": "Jamestown",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "Boston is located in Massachusetts, which is part of the New England region. Charleston is in the Southern colonies, Philadelphia is in the Middle colonies, and Jamestown is in Virginia (Southern colonies).",
+  "difficulty": "easy",
+  "tags": [
+    "maps",
+    "colonial-cities",
+    "new-england"
+  ],
+  "generated_at": "2026-04-13T12:10:00Z"
+}

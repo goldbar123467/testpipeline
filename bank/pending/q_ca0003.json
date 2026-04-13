@@ -1,0 +1,23 @@
+{
+  "id": "q_ca0003",
+  "standard_code": "5.C.1",
+  "standard_essential": true,
+  "reporting_category": "Civics and Government",
+  "domain": "Civics",
+  "question_type": "multi_select",
+  "stimulus": {
+    "type": "text",
+    "content": "Read the list below:\n\nA teacher asked students to name ways that citizens help their community. The students came up with a long list of different actions people can take."
+  },
+  "stem": "Which TWO actions are examples of citizens helping their community?",
+  "choices": [
+    {"id": "A", "text": "Cleaning up a local river", "correct": true},
+    {"id": "B", "text": "Buying a new television", "correct": false},
+    {"id": "C", "text": "Volunteering at a shelter", "correct": true},
+    {"id": "D", "text": "Playing video games at home", "correct": false}
+  ],
+  "answer_explanation": "Cleaning up a local river and volunteering at a shelter are both ways citizens help their community. Buying a television and playing video games are personal activities, not community service.",
+  "difficulty": "easy",
+  "tags": ["community-service", "civic-participation", "volunteering"],
+  "generated_at": "2026-04-13T12:10:00Z"
+}

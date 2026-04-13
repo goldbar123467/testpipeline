@@ -1,0 +1,43 @@
+{
+  "id": "q_ha0001",
+  "standard_code": "5.H.1",
+  "standard_essential": false,
+  "reporting_category": "History",
+  "domain": "History",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "The Iroquois lived in the woodlands of the Northeast. They built longhouses from wood and bark. Many families shared one longhouse. The Iroquois formed a league of five nations to keep peace among their tribes."
+  },
+  "stem": "Based on the passage, what was one reason the Iroquois formed a league?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "To trade furs with European settlers",
+      "correct": false
+    },
+    {
+      "id": "B",
+      "text": "To keep peace among their tribes",
+      "correct": true
+    },
+    {
+      "id": "C",
+      "text": "To build larger longhouses together",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "To move west across the plains",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "The passage states the Iroquois formed a league of five nations to keep peace among their tribes. The other choices are not supported by the passage.",
+  "difficulty": "easy",
+  "tags": [
+    "native-americans",
+    "iroquois",
+    "pre-european"
+  ],
+  "generated_at": "2026-04-13T12:10:00Z"
+}

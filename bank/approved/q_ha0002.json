@@ -1,0 +1,44 @@
+{
+  "id": "q_ha0002",
+  "standard_code": "5.H.1",
+  "standard_essential": false,
+  "reporting_category": "History",
+  "domain": "History",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "Before Europeans came to North America, the Pueblo people lived in the dry Southwest. They built homes from adobe, a mix of clay and straw dried in the sun. They grew corn, beans, and squash using irrigation canals."
+  },
+  "stem": "How did the Pueblo people adapt to their dry environment?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "They hunted buffalo on the Great Plains",
+      "correct": false
+    },
+    {
+      "id": "B",
+      "text": "They used canals to water their crops",
+      "correct": true
+    },
+    {
+      "id": "C",
+      "text": "They fished along the Pacific coast",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "They moved often to find new rivers",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "The passage explains that the Pueblo used irrigation canals to grow crops in the dry Southwest. The other options describe practices of different Native American groups, not the Pueblo.",
+  "difficulty": "medium",
+  "tags": [
+    "native-americans",
+    "pueblo",
+    "adaptation",
+    "pre-european"
+  ],
+  "generated_at": "2026-04-13T12:11:00Z"
+}
