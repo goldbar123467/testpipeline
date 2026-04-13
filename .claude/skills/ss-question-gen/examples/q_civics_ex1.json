@@ -1,0 +1,23 @@
+{
+  "id": "q_civ1a2b3c",
+  "standard_code": "5.C.5",
+  "standard_essential": true,
+  "reporting_category": "Civics and Government",
+  "domain": "Civics",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "Read the excerpt below from the United States Constitution:\n\n\"The powers not delegated to the United States by the Constitution, nor prohibited by it to the States, are reserved to the States respectively, or to the people.\"\n— Tenth Amendment"
+  },
+  "stem": "Based on this amendment, which power would most likely belong to a state government?",
+  "choices": [
+    {"id": "A", "text": "Setting up public schools", "correct": true},
+    {"id": "B", "text": "Printing national currency", "correct": false},
+    {"id": "C", "text": "Declaring war on countries", "correct": false},
+    {"id": "D", "text": "Making treaties with nations", "correct": false}
+  ],
+  "answer_explanation": "The Tenth Amendment reserves powers not given to the federal government to the states. Education is not mentioned in the Constitution, so it is a power reserved to the states. Printing money, declaring war, and making treaties are all federal powers listed in the Constitution.",
+  "difficulty": "medium",
+  "tags": ["federalism", "tenth-amendment", "state-powers"],
+  "generated_at": "2026-04-13T10:00:00Z"
+}

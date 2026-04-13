@@ -1,0 +1,99 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "ILEARN Grade 5 Social Studies Question",
+  "type": "object",
+  "required": [
+    "id", "standard_code", "standard_essential", "reporting_category",
+    "domain", "question_type", "stimulus", "stem", "choices",
+    "answer_explanation", "difficulty", "tags", "generated_at"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^q_[a-z0-9]{6,12}$"
+    },
+    "standard_code": {
+      "type": "string",
+      "pattern": "^5\\.[CHGE]\\.[0-9]{1,2}$"
+    },
+    "standard_essential": {
+      "type": "boolean"
+    },
+    "reporting_category": {
+      "type": "string",
+      "enum": ["Civics and Government", "History", "Geography and Economics"]
+    },
+    "domain": {
+      "type": "string",
+      "enum": ["Civics", "History", "Geography", "Economics"]
+    },
+    "question_type": {
+      "type": "string",
+      "enum": ["multiple_choice", "multi_select", "ordering"]
+    },
+    "stimulus": {
+      "type": "object",
+      "required": ["type", "content"],
+      "properties": {
+        "type": {
+          "type": "string",
+          "enum": ["text", "map", "image", "table", "timeline"]
+        },
+        "content": {
+          "type": "string",
+          "minLength": 1
+        }
+      },
+      "additionalProperties": false
+    },
+    "stem": {
+      "type": "string",
+      "minLength": 1
+    },
+    "choices": {
+      "type": "array",
+      "minItems": 3,
+      "maxItems": 6,
+      "items": {
+        "type": "object",
+        "required": ["id", "text", "correct"],
+        "properties": {
+          "id": {
+            "type": "string"
+          },
+          "text": {
+            "type": "string",
+            "minLength": 1
+          },
+          "correct": {
+            "type": "boolean"
+          }
+        },
+        "additionalProperties": false
+      }
+    },
+    "answer_explanation": {
+      "type": "string",
+      "minLength": 1
+    },
+    "difficulty": {
+      "type": "string",
+      "enum": ["easy", "medium", "hard"]
+    },
+    "tags": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "minItems": 1
+    },
+    "generated_at": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "rejection_reason": {
+      "type": "string"
+    }
+  },
+  "additionalProperties": false
+}

@@ -1,0 +1,37 @@
+{
+  "assessment": "ILEARN",
+  "grade": 5,
+  "subject": "Social Studies",
+  "reporting_categories": [
+    {
+      "name": "Civics and Government",
+      "target_min_pct": 38,
+      "target_max_pct": 43,
+      "standard_codes": [
+        "5.C.1", "5.C.2", "5.C.3", "5.C.4", "5.C.5",
+        "5.C.6", "5.C.7", "5.C.8", "5.C.9", "5.C.10"
+      ]
+    },
+    {
+      "name": "History",
+      "target_min_pct": 28,
+      "target_max_pct": 33,
+      "standard_codes": [
+        "5.H.1", "5.H.2", "5.H.3", "5.H.4", "5.H.5",
+        "5.H.6", "5.H.7", "5.H.8", "5.H.9", "5.H.10",
+        "5.H.11", "5.H.12"
+      ]
+    },
+    {
+      "name": "Geography and Economics",
+      "target_min_pct": 28,
+      "target_max_pct": 33,
+      "standard_codes": [
+        "5.G.1", "5.G.2", "5.G.3", "5.G.4", "5.G.5",
+        "5.G.6", "5.G.7", "5.G.8",
+        "5.E.1", "5.E.2", "5.E.3", "5.E.4", "5.E.5",
+        "5.E.6", "5.E.7", "5.E.8", "5.E.9", "5.E.10"
+      ]
+    }
+  ]
+}

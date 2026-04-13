@@ -1,0 +1,23 @@
+{
+  "id": "q_geo7a8b9c",
+  "standard_code": "5.G.3",
+  "standard_essential": true,
+  "reporting_category": "Geography and Economics",
+  "domain": "Geography",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "The New England colonies had rocky soil and cold winters. The Southern colonies had rich soil and a warm climate with a long growing season. The Middle colonies had fertile river valleys and a mild climate."
+  },
+  "stem": "How did geography most affect the economy of the Southern colonies?",
+  "choices": [
+    {"id": "A", "text": "Farmers grew large amounts of cash crops like tobacco and rice", "correct": true},
+    {"id": "B", "text": "Colonists built factories to manufacture goods", "correct": false},
+    {"id": "C", "text": "Most people worked in fishing and shipbuilding", "correct": false},
+    {"id": "D", "text": "Colonists traded mainly in fur and lumber", "correct": false}
+  ],
+  "answer_explanation": "The warm climate and rich soil of the Southern colonies made them ideal for growing cash crops like tobacco, rice, and indigo on large plantations. Fishing and shipbuilding were New England industries, manufacturing came later, and fur trading was more common in the frontier areas.",
+  "difficulty": "easy",
+  "tags": ["colonial-regions", "southern-colonies", "geography-economy"],
+  "generated_at": "2026-04-13T10:10:00Z"
+}
