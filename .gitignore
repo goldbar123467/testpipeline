@@ -2,9 +2,7 @@
 __pycache__/
 *.pyc
 
-# Exports (generated, not tracked)
-exports/gimkit.csv
-exports/studyguide.docx
+# OS
 
 # OS
 .DS_Store
