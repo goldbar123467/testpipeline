@@ -1,0 +1,43 @@
+{
+  "id": "q_pg0021",
+  "standard_code": "6-8.PG.7",
+  "standard_essential": false,
+  "reporting_category": "Physical Geography",
+  "domain": "Physical Geography",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "Hurricanes form over warm ocean water near the equator. As warm, moist air rises quickly, it creates a spinning storm system. These storms bring heavy rain, strong winds, and can cause flooding when they reach land."
+  },
+  "stem": "Based on the passage, what geographic condition is needed for a hurricane to form?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "Cold air moving quickly across flat plains",
+      "correct": false
+    },
+    {
+      "id": "B",
+      "text": "Warm ocean water found near the equator",
+      "correct": true
+    },
+    {
+      "id": "C",
+      "text": "Dry conditions found in a desert climate",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "Snow melting rapidly in mountain valleys",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "The passage states that hurricanes form over warm ocean water near the equator. The warm, moist air rising from the ocean surface provides the energy that drives hurricane formation.",
+  "difficulty": "easy",
+  "tags": [
+    "natural-disasters",
+    "hurricanes",
+    "weather"
+  ],
+  "generated_at": "2026-04-14T10:00:00Z"
+}

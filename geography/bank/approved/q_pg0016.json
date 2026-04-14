@@ -1,0 +1,44 @@
+{
+  "id": "q_pg0016",
+  "standard_code": "6-8.PG.5",
+  "standard_essential": false,
+  "reporting_category": "Physical Geography",
+  "domain": "Physical Geography",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "Tropical rainforests are found near the equator where it is warm and rainy throughout the year. These forests have more types of plants and animals than any other biome on Earth. The trees grow so tall and thick that very little sunlight reaches the forest floor."
+  },
+  "stem": "Based on the passage, what makes tropical rainforests different from other biomes?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "They have the greatest variety of living things",
+      "correct": true
+    },
+    {
+      "id": "B",
+      "text": "They experience all four seasons during the year",
+      "correct": false
+    },
+    {
+      "id": "C",
+      "text": "They are located in the coldest parts of Earth",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "They have very few trees due to heavy rainfall",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "The passage states that tropical rainforests have more types of plants and animals than any other biome, giving them the greatest biodiversity on Earth.",
+  "difficulty": "easy",
+  "tags": [
+    "biomes",
+    "rainforest",
+    "biodiversity",
+    "climate-vegetation"
+  ],
+  "generated_at": "2026-04-14T10:00:00Z"
+}

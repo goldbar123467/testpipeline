@@ -1,0 +1,43 @@
+{
+  "id": "q_pg0007",
+  "standard_code": "6-8.PG.2",
+  "standard_essential": true,
+  "reporting_category": "Physical Geography",
+  "domain": "Physical Geography",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "The San Andreas Fault in California is a place where two tectonic plates slide past each other. This type of boundary is called a transform boundary. Movement along the fault has caused many earthquakes in the region."
+  },
+  "stem": "Based on the passage, what causes so many earthquakes in California?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "Two tectonic plates slide past each other there",
+      "correct": true
+    },
+    {
+      "id": "B",
+      "text": "The state is located near an active volcano",
+      "correct": false
+    },
+    {
+      "id": "C",
+      "text": "Ocean waves wear down the coastline over time",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "Strong winds push against the mountain ranges",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "The passage explains that California's earthquakes are caused by two tectonic plates sliding past each other along the San Andreas Fault, which is a transform boundary.",
+  "difficulty": "medium",
+  "tags": [
+    "plate-tectonics",
+    "earthquakes",
+    "transform-boundary"
+  ],
+  "generated_at": "2026-04-14T10:00:00Z"
+}

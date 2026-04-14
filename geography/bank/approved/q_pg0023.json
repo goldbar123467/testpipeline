@@ -1,0 +1,44 @@
+{
+  "id": "q_pg0023",
+  "standard_code": "6-8.PG.8",
+  "standard_essential": true,
+  "reporting_category": "Physical Geography",
+  "domain": "Physical Geography",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "Many of the world's earliest civilizations developed along major rivers. The Nile River in Egypt, the Tigris and Euphrates in Mesopotamia, and the Indus River in South Asia all supported large farming communities because the rivers provided water and rich soil."
+  },
+  "stem": "Why did early human communities often settle and grow near major rivers?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "Rivers provided water and fertile soil for farming",
+      "correct": true
+    },
+    {
+      "id": "B",
+      "text": "Rivers created natural walls to block enemy armies",
+      "correct": false
+    },
+    {
+      "id": "C",
+      "text": "Rivers made the climate cooler and more comfortable",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "Rivers kept dangerous animals away from villages",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "Early civilizations settled near rivers because rivers provided fresh water for drinking and irrigation, and periodic flooding deposited rich soil ideal for farming.",
+  "difficulty": "easy",
+  "tags": [
+    "settlement-patterns",
+    "rivers",
+    "agriculture",
+    "civilization"
+  ],
+  "generated_at": "2026-04-14T10:00:00Z"
+}

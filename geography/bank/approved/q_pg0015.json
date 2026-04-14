@@ -1,0 +1,44 @@
+{
+  "id": "q_pg0015",
+  "standard_code": "6-8.PG.5",
+  "standard_essential": false,
+  "reporting_category": "Physical Geography",
+  "domain": "Physical Geography",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "The Sahara Desert in northern Africa receives less than 25 centimeters of rain per year. Temperatures can reach over 50 degrees Celsius during the day but drop sharply at night. Few plants and animals can survive these harsh conditions."
+  },
+  "stem": "Which characteristic of the Sahara makes it difficult for most living things to survive?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "Very low rainfall and extreme temperature changes",
+      "correct": true
+    },
+    {
+      "id": "B",
+      "text": "Heavy flooding that occurs during winter months",
+      "correct": false
+    },
+    {
+      "id": "C",
+      "text": "Thick forests that block sunlight from the ground",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "Frequent earthquakes that damage the landscape",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "The Sahara has very little rain and extreme temperature swings between day and night, making survival difficult for most plants and animals.",
+  "difficulty": "easy",
+  "tags": [
+    "biomes",
+    "desert",
+    "sahara",
+    "climate-vegetation"
+  ],
+  "generated_at": "2026-04-14T10:00:00Z"
+}

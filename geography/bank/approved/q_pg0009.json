@@ -1,0 +1,43 @@
+{
+  "id": "q_pg0009",
+  "standard_code": "6-8.PG.3",
+  "standard_essential": true,
+  "reporting_category": "Physical Geography",
+  "domain": "Physical Geography",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "After hiking up a mountain on a warm day, a student notices that clouds are forming near the top. The student remembers learning that warm air rises and cools as it goes higher in the atmosphere."
+  },
+  "stem": "Which part of the water cycle explains why clouds form near the mountain top?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "Evaporation turns water into gas near the peak",
+      "correct": false
+    },
+    {
+      "id": "B",
+      "text": "Condensation occurs when rising air cools down",
+      "correct": true
+    },
+    {
+      "id": "C",
+      "text": "Precipitation falls from clouds to the ground",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "Collection gathers water in lakes and streams",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "Condensation is the process where water vapor cools and turns back into tiny water droplets, forming clouds. As warm air rises up the mountain and cools, condensation occurs.",
+  "difficulty": "medium",
+  "tags": [
+    "water-cycle",
+    "condensation",
+    "clouds"
+  ],
+  "generated_at": "2026-04-14T10:00:00Z"
+}

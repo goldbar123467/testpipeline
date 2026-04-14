@@ -1,0 +1,44 @@
+{
+  "id": "q_pg0020",
+  "standard_code": "6-8.PG.6",
+  "standard_essential": false,
+  "reporting_category": "Physical Geography",
+  "domain": "Physical Geography",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "During the last Ice Age, massive sheets of ice called glaciers covered much of North America. As these glaciers moved slowly across the land, they scraped away soil and rock. When the glaciers melted, they left behind U-shaped valleys and large lakes."
+  },
+  "stem": "How did glaciers change the landscape of North America during the Ice Age?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "They deposited sand to create new mountain ranges",
+      "correct": false
+    },
+    {
+      "id": "B",
+      "text": "They scraped land and carved valleys and lakes",
+      "correct": true
+    },
+    {
+      "id": "C",
+      "text": "They blocked rivers and created large waterfalls",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "They heated the ground and formed new volcanoes",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "Glaciers scraped away soil and rock as they moved, carving U-shaped valleys. When they melted, the depressions they left behind filled with water to form large lakes like the Great Lakes.",
+  "difficulty": "medium",
+  "tags": [
+    "weathering",
+    "erosion",
+    "glaciers",
+    "ice-age"
+  ],
+  "generated_at": "2026-04-14T10:00:00Z"
+}

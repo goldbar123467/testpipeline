@@ -1,0 +1,44 @@
+{
+  "id": "q_pg0017",
+  "standard_code": "6-8.PG.5",
+  "standard_essential": false,
+  "reporting_category": "Physical Geography",
+  "domain": "Physical Geography",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "The tundra biome is found in the far north near the Arctic. Winters are long and bitterly cold, and the ground stays frozen for most of the year. Only small, low-growing plants like mosses and shrubs can survive because the growing season is very short."
+  },
+  "stem": "Why are trees unable to grow in the tundra biome?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "The soil is too wet from constant rainfall",
+      "correct": false
+    },
+    {
+      "id": "B",
+      "text": "The growing season is too short and cold",
+      "correct": true
+    },
+    {
+      "id": "C",
+      "text": "Strong ocean waves wash away the topsoil",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "There is too much sunlight during the summer",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "The tundra has a very short growing season and frozen ground most of the year, which prevents trees from establishing roots and growing tall enough to survive.",
+  "difficulty": "easy",
+  "tags": [
+    "biomes",
+    "tundra",
+    "arctic",
+    "climate-vegetation"
+  ],
+  "generated_at": "2026-04-14T10:00:00Z"
+}
