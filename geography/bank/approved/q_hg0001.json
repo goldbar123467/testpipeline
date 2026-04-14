@@ -1,0 +1,43 @@
+{
+  "id": "q_hg0001",
+  "standard_code": "6-8.HG.1",
+  "standard_essential": true,
+  "reporting_category": "Human Geography",
+  "domain": "Human Geography",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "A student studies a population map of Africa. The map shows that most people live along rivers, coastlines, and areas with regular rainfall. Large desert areas like the Sahara have very few people."
+  },
+  "stem": "Based on the map, what factor has the greatest influence on where people live in Africa?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "Access to water and fertile land",
+      "correct": true
+    },
+    {
+      "id": "B",
+      "text": "Distance from other countries",
+      "correct": false
+    },
+    {
+      "id": "C",
+      "text": "The number of roads in each area",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "How close an area is to the equator",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "The map shows population concentrated near water sources and rainfall areas. Access to water for drinking and farming is the main factor influencing settlement in Africa.",
+  "difficulty": "easy",
+  "tags": [
+    "population-distribution",
+    "water",
+    "settlement-factors"
+  ],
+  "generated_at": "2026-04-14T10:00:00Z"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "q_hg0016",
+  "standard_code": "6-8.HG.5",
+  "standard_essential": false,
+  "reporting_category": "Human Geography",
+  "domain": "Human Geography",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "The Inuit people of the Arctic have lived in one of the coldest places on Earth for thousands of years. They traditionally built igloos from snow blocks to stay warm. They wore thick fur clothing and hunted seals and fish for food."
+  },
+  "stem": "How did the Inuit people adapt to their harsh physical environment?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "They used local materials for shelter and clothing",
+      "correct": true
+    },
+    {
+      "id": "B",
+      "text": "They changed the climate to make it warmer",
+      "correct": false
+    },
+    {
+      "id": "C",
+      "text": "They moved to a tropical region to avoid cold",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "They built large stone buildings for protection",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "The Inuit adapted to Arctic conditions by using available resources: snow for igloos, animal furs for warm clothing, and local wildlife for food. This is an example of humans adapting to their environment.",
+  "difficulty": "easy",
+  "tags": [
+    "human-environment",
+    "adaptation",
+    "inuit",
+    "arctic"
+  ],
+  "generated_at": "2026-04-14T10:00:00Z"
+}

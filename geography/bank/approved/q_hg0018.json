@@ -1,0 +1,43 @@
+{
+  "id": "q_hg0018",
+  "standard_code": "6-8.HG.5",
+  "standard_essential": false,
+  "reporting_category": "Human Geography",
+  "domain": "Human Geography",
+  "question_type": "multi_select",
+  "stimulus": {
+    "type": "text",
+    "content": "People depend on the physical environment for many of their basic needs. Farmers need soil and rain to grow food. Cities need rivers and lakes for drinking water. Factories need natural resources like oil, coal, and metals."
+  },
+  "stem": "Which TWO examples show how humans depend on the physical environment?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "Farmers need soil and rain to grow their crops",
+      "correct": true
+    },
+    {
+      "id": "B",
+      "text": "Factories use oil and metals from the earth",
+      "correct": true
+    },
+    {
+      "id": "C",
+      "text": "People build roads to connect two cities together",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "Students attend school to learn new subjects",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "Farming depends on soil and rain from the environment, and factories depend on natural resources like oil and metals. Building roads and attending school are human activities, not examples of depending on the physical environment.",
+  "difficulty": "easy",
+  "tags": [
+    "human-environment",
+    "dependence",
+    "natural-resources"
+  ],
+  "generated_at": "2026-04-14T10:00:00Z"
+}

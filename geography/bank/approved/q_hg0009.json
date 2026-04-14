@@ -1,0 +1,44 @@
+{
+  "id": "q_hg0009",
+  "standard_code": "6-8.HG.3",
+  "standard_essential": true,
+  "reporting_category": "Human Geography",
+  "domain": "Human Geography",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "Spanish is spoken in Spain and in most countries of Central and South America. This is because Spain established colonies in the Americas during the 1500s and 1600s. Spanish settlers brought their language to these regions."
+  },
+  "stem": "What process explains why Spanish is spoken across so many countries today?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "Cultural diffusion through colonization",
+      "correct": true
+    },
+    {
+      "id": "B",
+      "text": "Natural language change over many centuries",
+      "correct": false
+    },
+    {
+      "id": "C",
+      "text": "Geographic isolation on different continents",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "Similar climates producing similar languages",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "Spanish spread to the Americas through cultural diffusion during colonization. When Spain established colonies, settlers brought their language, which became the dominant language in many regions.",
+  "difficulty": "medium",
+  "tags": [
+    "cultural-traits",
+    "language",
+    "cultural-diffusion",
+    "colonization"
+  ],
+  "generated_at": "2026-04-14T10:00:00Z"
+}

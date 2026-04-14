@@ -1,0 +1,44 @@
+{
+  "id": "q_hg0011",
+  "standard_code": "6-8.HG.3",
+  "standard_essential": true,
+  "reporting_category": "Human Geography",
+  "domain": "Human Geography",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "The Silk Road was a network of trade routes that connected China to Europe for hundreds of years. Merchants traveling these routes traded goods like silk, spices, and glass. They also shared ideas, religions, and inventions along the way."
+  },
+  "stem": "How did the Silk Road contribute to cultural diffusion between regions?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "It kept all cultures completely separated",
+      "correct": false
+    },
+    {
+      "id": "B",
+      "text": "Traders spread ideas and customs along the routes",
+      "correct": true
+    },
+    {
+      "id": "C",
+      "text": "It only moved physical goods and no ideas",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "It replaced local cultures with a single culture",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "The Silk Road promoted cultural diffusion as traders exchanged not just goods but also ideas, religions, and inventions between China, Central Asia, and Europe.",
+  "difficulty": "medium",
+  "tags": [
+    "cultural-diffusion",
+    "silk-road",
+    "trade",
+    "ideas"
+  ],
+  "generated_at": "2026-04-14T10:00:00Z"
+}

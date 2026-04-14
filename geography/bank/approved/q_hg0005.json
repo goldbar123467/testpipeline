@@ -1,0 +1,44 @@
+{
+  "id": "q_hg0005",
+  "standard_code": "6-8.HG.2",
+  "standard_essential": true,
+  "reporting_category": "Human Geography",
+  "domain": "Human Geography",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "In the 1840s, a disease destroyed most of the potato crop in Ireland. Potatoes were the main food source for millions of Irish people. As a result, over one million people left Ireland and moved to the United States and other countries."
+  },
+  "stem": "What type of migration factor caused so many Irish people to leave their country?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "A push factor caused by a food shortage",
+      "correct": true
+    },
+    {
+      "id": "B",
+      "text": "A pull factor from better jobs in Ireland",
+      "correct": false
+    },
+    {
+      "id": "C",
+      "text": "A push factor caused by overcrowded cities",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "A pull factor from warmer weather elsewhere",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "The Irish Potato Famine was a push factor, a negative condition that forced people to leave. The food shortage pushed over one million people to migrate to other countries.",
+  "difficulty": "easy",
+  "tags": [
+    "migration",
+    "push-factors",
+    "famine",
+    "ireland"
+  ],
+  "generated_at": "2026-04-14T10:00:00Z"
+}

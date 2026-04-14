@@ -1,0 +1,44 @@
+{
+  "id": "q_hg0017",
+  "standard_code": "6-8.HG.5",
+  "standard_essential": false,
+  "reporting_category": "Human Geography",
+  "domain": "Human Geography",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "The Netherlands is a country in Europe where much of the land is below sea level. Over hundreds of years, the Dutch people built walls called dikes to hold back the sea. They also pumped water out of low areas to create dry land for farming and building."
+  },
+  "stem": "How did the people of the Netherlands modify their physical environment?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "They moved their entire country to higher ground",
+      "correct": false
+    },
+    {
+      "id": "B",
+      "text": "They built dikes and pumped water to create dry land",
+      "correct": true
+    },
+    {
+      "id": "C",
+      "text": "They filled the ocean with rocks to raise sea level",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "They planted trees to stop the rain from falling",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "The Dutch modified their environment by building dikes to hold back the sea and pumping water to create dry land. This is a classic example of humans changing the physical environment to meet their needs.",
+  "difficulty": "medium",
+  "tags": [
+    "human-environment",
+    "modification",
+    "netherlands",
+    "dikes"
+  ],
+  "generated_at": "2026-04-14T10:00:00Z"
+}

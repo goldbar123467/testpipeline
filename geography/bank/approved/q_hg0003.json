@@ -1,0 +1,43 @@
+{
+  "id": "q_hg0003",
+  "standard_code": "6-8.HG.1",
+  "standard_essential": true,
+  "reporting_category": "Human Geography",
+  "domain": "Human Geography",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "A table shows population density for four regions:\n\n\u2022 Region A: 5 people per square kilometer (desert)\n\u2022 Region B: 350 people per square kilometer (river delta)\n\u2022 Region C: 2 people per square kilometer (arctic tundra)\n\u2022 Region D: 90 people per square kilometer (grassland)"
+  },
+  "stem": "Which region most likely has the highest population density, and why?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "Region B, because river deltas provide rich farmland",
+      "correct": true
+    },
+    {
+      "id": "B",
+      "text": "Region A, because deserts have plenty of open space",
+      "correct": false
+    },
+    {
+      "id": "C",
+      "text": "Region C, because cold areas attract many people",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "Region D, because grasslands have no other uses",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "Region B has the highest density at 350 people per square kilometer because river deltas provide fertile soil, fresh water, and flat land ideal for farming and settlement.",
+  "difficulty": "medium",
+  "tags": [
+    "population-density",
+    "river-delta",
+    "settlement-factors"
+  ],
+  "generated_at": "2026-04-14T10:00:00Z"
+}
