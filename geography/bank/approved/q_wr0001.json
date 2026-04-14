@@ -1,0 +1,44 @@
+{
+  "id": "q_wr0001",
+  "standard_code": "6-8.WR.1",
+  "standard_essential": true,
+  "reporting_category": "World Regions",
+  "domain": "World Regions",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "Africa is the second-largest continent. Its physical features include the Sahara Desert in the north, tropical rainforests near the equator, and the Great Rift Valley in the east. Africa is also home to more than 50 countries and hundreds of languages."
+  },
+  "stem": "Based on the passage, what makes Africa a diverse continent in terms of geography?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "It has deserts, rainforests, and rift valleys",
+      "correct": true
+    },
+    {
+      "id": "B",
+      "text": "It is completely covered by tropical rainforest",
+      "correct": false
+    },
+    {
+      "id": "C",
+      "text": "It has only one type of climate across the land",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "It is the smallest continent with few countries",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "Africa has a wide variety of physical features, including the Sahara Desert, tropical rainforests, and the Great Rift Valley, making it geographically diverse.",
+  "difficulty": "easy",
+  "tags": [
+    "world-regions",
+    "africa",
+    "physical-features",
+    "diversity"
+  ],
+  "generated_at": "2026-04-14T10:00:00Z"
+}

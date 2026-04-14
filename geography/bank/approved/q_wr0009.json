@@ -1,0 +1,45 @@
+{
+  "id": "q_wr0009",
+  "standard_code": "6-8.WR.3",
+  "standard_essential": true,
+  "reporting_category": "World Regions",
+  "domain": "World Regions",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "Egypt is a country in northeastern Africa. Its capital city is Cairo, one of the largest cities on the continent. The Nile River flows through Egypt and has been important to the country for thousands of years."
+  },
+  "stem": "Based on the passage, what is the capital of Egypt and what major river flows through it?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "Cairo is the capital, and the Nile River flows through it",
+      "correct": true
+    },
+    {
+      "id": "B",
+      "text": "Alexandria is the capital, and the Congo River flows through it",
+      "correct": false
+    },
+    {
+      "id": "C",
+      "text": "Cairo is the capital, and the Amazon River flows through it",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "Nairobi is the capital, and the Nile River flows through it",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "The passage states that Cairo is the capital of Egypt and that the Nile River flows through the country, making it one of the most important geographic features of Egypt.",
+  "difficulty": "easy",
+  "tags": [
+    "world-regions",
+    "africa",
+    "egypt",
+    "capitals",
+    "nile"
+  ],
+  "generated_at": "2026-04-14T10:00:00Z"
+}

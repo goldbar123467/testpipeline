@@ -1,0 +1,45 @@
+{
+  "id": "q_wr0011",
+  "standard_code": "6-8.WR.3",
+  "standard_essential": true,
+  "reporting_category": "World Regions",
+  "domain": "World Regions",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "Brazil is the largest country in South America. Its capital is Brasilia, although its largest city is Sao Paulo. The Amazon Rainforest covers a huge part of northern Brazil and is the largest tropical rainforest in the world."
+  },
+  "stem": "What is the capital of Brazil, and what major feature covers much of its northern area?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "Brasilia is the capital, and the Amazon Rainforest covers the north",
+      "correct": true
+    },
+    {
+      "id": "B",
+      "text": "Sao Paulo is the capital, and the Sahara Desert covers the north",
+      "correct": false
+    },
+    {
+      "id": "C",
+      "text": "Brasilia is the capital, and the Andes Mountains cover the north",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "Rio de Janeiro is the capital, and grasslands cover the north",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "The passage states that Brasilia is Brazil's capital and the Amazon Rainforest covers a huge part of northern Brazil. Sao Paulo is the largest city but not the capital.",
+  "difficulty": "easy",
+  "tags": [
+    "world-regions",
+    "south-america",
+    "brazil",
+    "capitals",
+    "amazon"
+  ],
+  "generated_at": "2026-04-14T10:00:00Z"
+}

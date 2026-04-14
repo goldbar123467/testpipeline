@@ -1,0 +1,44 @@
+{
+  "id": "q_wr0008",
+  "standard_code": "6-8.WR.2",
+  "standard_essential": true,
+  "reporting_category": "World Regions",
+  "domain": "World Regions",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "In a market economy, businesses and individuals make most economic decisions about what to produce and sell. In a command economy, the government controls most production and sets prices. Many countries today have a mix of both systems."
+  },
+  "stem": "What is the main difference between a market economy and a command economy?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "Who decides what goods are produced and sold",
+      "correct": true
+    },
+    {
+      "id": "B",
+      "text": "Whether the country has any natural resources",
+      "correct": false
+    },
+    {
+      "id": "C",
+      "text": "How large the population of the country is",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "What language the people of the country speak",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "In a market economy, individuals and businesses make economic decisions. In a command economy, the government controls production and prices. The key difference is who makes economic decisions.",
+  "difficulty": "medium",
+  "tags": [
+    "world-regions",
+    "economy",
+    "market",
+    "command"
+  ],
+  "generated_at": "2026-04-14T10:00:00Z"
+}

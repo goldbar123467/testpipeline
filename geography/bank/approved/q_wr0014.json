@@ -1,0 +1,45 @@
+{
+  "id": "q_wr0014",
+  "standard_code": "6-8.WR.4",
+  "standard_essential": false,
+  "reporting_category": "World Regions",
+  "domain": "World Regions",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "Countries in the Middle East produce a large share of the world's oil. This oil is shipped by tanker to countries in Europe, Asia, and North America that need fuel for their cars, factories, and power plants."
+  },
+  "stem": "What does this example show about how trade connects different world regions?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "Regions with resources sell to regions that need them",
+      "correct": true
+    },
+    {
+      "id": "B",
+      "text": "Every region produces all the resources it needs",
+      "correct": false
+    },
+    {
+      "id": "C",
+      "text": "Trade only happens between countries on the same continent",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "Oil is not an important product in global trade today",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "The Middle East has oil that other regions need. This shows how trade connects regions: areas rich in a resource export it to areas that lack that resource.",
+  "difficulty": "easy",
+  "tags": [
+    "trade",
+    "resources",
+    "oil",
+    "middle-east",
+    "global-trade"
+  ],
+  "generated_at": "2026-04-14T10:00:00Z"
+}

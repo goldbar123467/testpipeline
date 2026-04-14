@@ -1,0 +1,44 @@
+{
+  "id": "q_wr0016",
+  "standard_code": "6-8.WR.5",
+  "standard_essential": false,
+  "reporting_category": "World Regions",
+  "domain": "World Regions",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "Some country borders follow natural features like rivers and mountain ranges. For example, the Rhine River forms part of the border between France and Germany. Other borders are straight lines drawn by people, like many borders in Africa that were set by European colonial powers."
+  },
+  "stem": "What are two different ways that political borders between countries are established?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "By following natural features or by being drawn by people",
+      "correct": true
+    },
+    {
+      "id": "B",
+      "text": "By measuring population and by counting languages spoken",
+      "correct": false
+    },
+    {
+      "id": "C",
+      "text": "By climate zones and by the direction of ocean currents",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "By the age of the country and by its total land area",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "Political borders can follow natural features like rivers and mountains, or they can be straight lines drawn by people, often during colonial periods as seen in Africa.",
+  "difficulty": "medium",
+  "tags": [
+    "political-boundaries",
+    "borders",
+    "natural-features",
+    "colonialism"
+  ],
+  "generated_at": "2026-04-14T10:00:00Z"
+}

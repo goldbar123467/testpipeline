@@ -1,0 +1,44 @@
+{
+  "id": "q_wr0012",
+  "standard_code": "6-8.WR.3",
+  "standard_essential": true,
+  "reporting_category": "World Regions",
+  "domain": "World Regions",
+  "question_type": "multi_select",
+  "stimulus": {
+    "type": "text",
+    "content": "Europe has many well-known countries and capitals. France has its capital in Paris. Germany's capital is Berlin. The United Kingdom's capital is London. All three countries are located in Western Europe."
+  },
+  "stem": "Which TWO pairings of European countries and their capitals are correct?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "France and Paris",
+      "correct": true
+    },
+    {
+      "id": "B",
+      "text": "Germany and Berlin",
+      "correct": true
+    },
+    {
+      "id": "C",
+      "text": "France and London",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "Germany and Paris",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "France's capital is Paris and Germany's capital is Berlin. London is the capital of the United Kingdom, not France. Paris is France's capital, not Germany's.",
+  "difficulty": "easy",
+  "tags": [
+    "world-regions",
+    "europe",
+    "capitals",
+    "countries"
+  ],
+  "generated_at": "2026-04-14T10:00:00Z"
+}

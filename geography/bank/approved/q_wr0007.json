@@ -1,0 +1,44 @@
+{
+  "id": "q_wr0007",
+  "standard_code": "6-8.WR.2",
+  "standard_essential": true,
+  "reporting_category": "World Regions",
+  "domain": "World Regions",
+  "question_type": "multi_select",
+  "stimulus": {
+    "type": "text",
+    "content": "In India, many people practice Hinduism and celebrate festivals like Diwali. In Brazil, most people are Christian and celebrate Carnival. Both countries have rich cultural traditions that reflect their unique histories."
+  },
+  "stem": "Which TWO conclusions can be drawn from comparing India and Brazil?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "Different regions have different dominant religions",
+      "correct": true
+    },
+    {
+      "id": "B",
+      "text": "Cultural celebrations reflect a region's history and beliefs",
+      "correct": true
+    },
+    {
+      "id": "C",
+      "text": "Every country in the world celebrates the same holidays",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "Religion has no influence on culture in either country",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "India and Brazil show that different regions have different dominant religions and that cultural celebrations like Diwali and Carnival reflect each region's unique history and beliefs.",
+  "difficulty": "easy",
+  "tags": [
+    "world-regions",
+    "culture",
+    "religion",
+    "comparison"
+  ],
+  "generated_at": "2026-04-14T10:00:00Z"
+}

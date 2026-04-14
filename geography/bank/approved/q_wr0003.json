@@ -1,0 +1,44 @@
+{
+  "id": "q_wr0003",
+  "standard_code": "6-8.WR.1",
+  "standard_essential": true,
+  "reporting_category": "World Regions",
+  "domain": "World Regions",
+  "question_type": "multi_select",
+  "stimulus": {
+    "type": "text",
+    "content": "Europe is a small continent with many different countries, languages, and cultures packed closely together. Its physical features include the Alps mountain range, the Rhine and Danube rivers, and long coastlines along the Atlantic Ocean and Mediterranean Sea."
+  },
+  "stem": "Which TWO features describe the physical geography of Europe?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "The Alps mountain range crosses several countries",
+      "correct": true
+    },
+    {
+      "id": "B",
+      "text": "Major rivers like the Rhine and Danube flow through it",
+      "correct": true
+    },
+    {
+      "id": "C",
+      "text": "Europe has no coastline on any ocean or sea",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "Europe is the largest continent on the planet",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "Europe's physical geography includes the Alps mountain range and major rivers like the Rhine and Danube. Europe is actually one of the smallest continents and has extensive coastlines.",
+  "difficulty": "easy",
+  "tags": [
+    "world-regions",
+    "europe",
+    "physical-features",
+    "alps"
+  ],
+  "generated_at": "2026-04-14T10:00:00Z"
+}

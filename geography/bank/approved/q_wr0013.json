@@ -1,0 +1,44 @@
+{
+  "id": "q_wr0013",
+  "standard_code": "6-8.WR.4",
+  "standard_essential": false,
+  "reporting_category": "World Regions",
+  "domain": "World Regions",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "The Suez Canal in Egypt connects the Mediterranean Sea to the Red Sea. Before the canal was built, ships traveling from Europe to Asia had to sail all the way around the southern tip of Africa, adding thousands of kilometers to the journey."
+  },
+  "stem": "How did the Suez Canal change trade between Europe and Asia?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "It created a much shorter shipping route between them",
+      "correct": true
+    },
+    {
+      "id": "B",
+      "text": "It stopped all trade between Europe and Asia completely",
+      "correct": false
+    },
+    {
+      "id": "C",
+      "text": "It forced ships to travel a longer route around Africa",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "It connected the Pacific Ocean to the Atlantic Ocean",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "The Suez Canal created a shortcut between Europe and Asia by connecting the Mediterranean and Red Seas, eliminating the long route around Africa.",
+  "difficulty": "medium",
+  "tags": [
+    "trade",
+    "transportation",
+    "suez-canal",
+    "shipping"
+  ],
+  "generated_at": "2026-04-14T10:00:00Z"
+}

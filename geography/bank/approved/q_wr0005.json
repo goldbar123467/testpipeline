@@ -1,0 +1,44 @@
+{
+  "id": "q_wr0005",
+  "standard_code": "6-8.WR.2",
+  "standard_essential": true,
+  "reporting_category": "World Regions",
+  "domain": "World Regions",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "In the United States, citizens vote for their leaders in elections. In Saudi Arabia, the country is ruled by a king whose power is passed down through the royal family. Both systems are forms of government, but they work very differently."
+  },
+  "stem": "What is the key difference between these two forms of government?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "One elects leaders while the other has a hereditary ruler",
+      "correct": true
+    },
+    {
+      "id": "B",
+      "text": "Both countries choose leaders through popular elections",
+      "correct": false
+    },
+    {
+      "id": "C",
+      "text": "Neither country allows citizens to participate in government",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "Both countries are ruled by kings from royal families",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "The U.S. is a democracy where leaders are elected by citizens. Saudi Arabia is a monarchy where power passes through the royal family. The key difference is how leaders gain power.",
+  "difficulty": "medium",
+  "tags": [
+    "world-regions",
+    "government",
+    "democracy",
+    "monarchy"
+  ],
+  "generated_at": "2026-04-14T10:00:00Z"
+}

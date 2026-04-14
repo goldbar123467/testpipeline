@@ -1477,6 +1477,448 @@ ALL_QUESTIONS = [
         "tags": ["oceans", "pacific", "arctic", "world-geography"],
         "generated_at": TIMESTAMP
     },
+
+    # ── WORLD REGIONS (20 questions) ─────────────────────────────────
+
+    # WR.1 - Physical and human characteristics (Africa)
+    {
+        "id": "q_wr0001",
+        "standard_code": "6-8.WR.1",
+        "standard_essential": True,
+        "reporting_category": "World Regions",
+        "domain": "World Regions",
+        "question_type": "multiple_choice",
+        "stimulus": {"type": "text", "content": "Africa is the second-largest continent. Its physical features include the Sahara Desert in the north, tropical rainforests near the equator, and the Great Rift Valley in the east. Africa is also home to more than 50 countries and hundreds of languages."},
+        "stem": "Based on the passage, what makes Africa a diverse continent in terms of geography?",
+        "choices": [
+            {"id": "A", "text": "It has deserts, rainforests, and rift valleys", "correct": True},
+            {"id": "B", "text": "It is completely covered by tropical rainforest", "correct": False},
+            {"id": "C", "text": "It has only one type of climate across the land", "correct": False},
+            {"id": "D", "text": "It is the smallest continent with few countries", "correct": False}
+        ],
+        "answer_explanation": "Africa has a wide variety of physical features, including the Sahara Desert, tropical rainforests, and the Great Rift Valley, making it geographically diverse.",
+        "difficulty": "easy",
+        "tags": ["world-regions", "africa", "physical-features", "diversity"],
+        "generated_at": TIMESTAMP
+    },
+
+    # WR.1 - Physical and human characteristics (Asia)
+    {
+        "id": "q_wr0002",
+        "standard_code": "6-8.WR.1",
+        "standard_essential": True,
+        "reporting_category": "World Regions",
+        "domain": "World Regions",
+        "question_type": "multiple_choice",
+        "stimulus": {"type": "text", "content": "Asia contains the highest mountain range in the world, the Himalayas. It also has large deserts like the Gobi and fertile river valleys like those along the Ganges and Yangtze rivers. More than four billion people live in Asia."},
+        "stem": "What do the physical features of Asia tell us about the continent?",
+        "choices": [
+            {"id": "A", "text": "It has a wide range of landforms and environments", "correct": True},
+            {"id": "B", "text": "It is made up entirely of flat river plains", "correct": False},
+            {"id": "C", "text": "It has fewer people than any other continent", "correct": False},
+            {"id": "D", "text": "It has no mountains or deserts of any kind", "correct": False}
+        ],
+        "answer_explanation": "Asia has mountains (Himalayas), deserts (Gobi), and fertile river valleys (Ganges, Yangtze), showing it has a wide range of landforms and environments.",
+        "difficulty": "easy",
+        "tags": ["world-regions", "asia", "physical-features", "landforms"],
+        "generated_at": TIMESTAMP
+    },
+
+    # WR.1 - Physical and human characteristics (Europe)
+    {
+        "id": "q_wr0003",
+        "standard_code": "6-8.WR.1",
+        "standard_essential": True,
+        "reporting_category": "World Regions",
+        "domain": "World Regions",
+        "question_type": "multi_select",
+        "stimulus": {"type": "text", "content": "Europe is a small continent with many different countries, languages, and cultures packed closely together. Its physical features include the Alps mountain range, the Rhine and Danube rivers, and long coastlines along the Atlantic Ocean and Mediterranean Sea."},
+        "stem": "Which TWO features describe the physical geography of Europe?",
+        "choices": [
+            {"id": "A", "text": "The Alps mountain range crosses several countries", "correct": True},
+            {"id": "B", "text": "Major rivers like the Rhine and Danube flow through it", "correct": True},
+            {"id": "C", "text": "Europe has no coastline on any ocean or sea", "correct": False},
+            {"id": "D", "text": "Europe is the largest continent on the planet", "correct": False}
+        ],
+        "answer_explanation": "Europe's physical geography includes the Alps mountain range and major rivers like the Rhine and Danube. Europe is actually one of the smallest continents and has extensive coastlines.",
+        "difficulty": "easy",
+        "tags": ["world-regions", "europe", "physical-features", "alps"],
+        "generated_at": TIMESTAMP
+    },
+
+    # WR.1 - Physical and human characteristics (South America)
+    {
+        "id": "q_wr0004",
+        "standard_code": "6-8.WR.1",
+        "standard_essential": True,
+        "reporting_category": "World Regions",
+        "domain": "World Regions",
+        "question_type": "multiple_choice",
+        "stimulus": {"type": "text", "content": "South America is home to the Amazon River, which carries more water than any other river on Earth. The continent also has the Andes Mountains, the longest mountain range in the world, stretching along the western coast."},
+        "stem": "What are two major physical features that define the geography of South America?",
+        "choices": [
+            {"id": "A", "text": "The Amazon River and the Andes Mountains", "correct": True},
+            {"id": "B", "text": "The Nile River and the Rocky Mountains", "correct": False},
+            {"id": "C", "text": "The Sahara Desert and the Great Barrier Reef", "correct": False},
+            {"id": "D", "text": "The Mississippi River and the Alps Mountains", "correct": False}
+        ],
+        "answer_explanation": "The passage identifies the Amazon River (largest by water volume) and the Andes Mountains (longest mountain range) as two defining physical features of South America.",
+        "difficulty": "easy",
+        "tags": ["world-regions", "south-america", "amazon", "andes"],
+        "generated_at": TIMESTAMP
+    },
+
+    # WR.2 - Compare cultures/governments/economies (democracy vs monarchy)
+    {
+        "id": "q_wr0005",
+        "standard_code": "6-8.WR.2",
+        "standard_essential": True,
+        "reporting_category": "World Regions",
+        "domain": "World Regions",
+        "question_type": "multiple_choice",
+        "stimulus": {"type": "text", "content": "In the United States, citizens vote for their leaders in elections. In Saudi Arabia, the country is ruled by a king whose power is passed down through the royal family. Both systems are forms of government, but they work very differently."},
+        "stem": "What is the key difference between these two forms of government?",
+        "choices": [
+            {"id": "A", "text": "One elects leaders while the other has a hereditary ruler", "correct": True},
+            {"id": "B", "text": "Both countries choose leaders through popular elections", "correct": False},
+            {"id": "C", "text": "Neither country allows citizens to participate in government", "correct": False},
+            {"id": "D", "text": "Both countries are ruled by kings from royal families", "correct": False}
+        ],
+        "answer_explanation": "The U.S. is a democracy where leaders are elected by citizens. Saudi Arabia is a monarchy where power passes through the royal family. The key difference is how leaders gain power.",
+        "difficulty": "medium",
+        "tags": ["world-regions", "government", "democracy", "monarchy"],
+        "generated_at": TIMESTAMP
+    },
+
+    # WR.2 - Compare cultures/governments/economies (developed vs developing)
+    {
+        "id": "q_wr0006",
+        "standard_code": "6-8.WR.2",
+        "standard_essential": True,
+        "reporting_category": "World Regions",
+        "domain": "World Regions",
+        "question_type": "multiple_choice",
+        "stimulus": {"type": "text", "content": "Japan has a strong economy with advanced technology, high literacy rates, and modern hospitals. Many countries in Sub-Saharan Africa have growing economies but still face challenges with access to clean water, education, and healthcare."},
+        "stem": "What does the passage suggest about the difference between these two world regions?",
+        "choices": [
+            {"id": "A", "text": "They are at different levels of economic development", "correct": True},
+            {"id": "B", "text": "Japan has fewer natural resources than Africa does", "correct": False},
+            {"id": "C", "text": "African countries have stronger economies than Japan", "correct": False},
+            {"id": "D", "text": "Both regions face the exact same challenges today", "correct": False}
+        ],
+        "answer_explanation": "The passage contrasts Japan's advanced economy and services with the development challenges in Sub-Saharan Africa, showing they are at different levels of economic development.",
+        "difficulty": "medium",
+        "tags": ["world-regions", "economy", "development", "comparison"],
+        "generated_at": TIMESTAMP
+    },
+
+    # WR.2 - Compare cultures/governments/economies (cultural comparison)
+    {
+        "id": "q_wr0007",
+        "standard_code": "6-8.WR.2",
+        "standard_essential": True,
+        "reporting_category": "World Regions",
+        "domain": "World Regions",
+        "question_type": "multi_select",
+        "stimulus": {"type": "text", "content": "In India, many people practice Hinduism and celebrate festivals like Diwali. In Brazil, most people are Christian and celebrate Carnival. Both countries have rich cultural traditions that reflect their unique histories."},
+        "stem": "Which TWO conclusions can be drawn from comparing India and Brazil?",
+        "choices": [
+            {"id": "A", "text": "Different regions have different dominant religions", "correct": True},
+            {"id": "B", "text": "Cultural celebrations reflect a region's history and beliefs", "correct": True},
+            {"id": "C", "text": "Every country in the world celebrates the same holidays", "correct": False},
+            {"id": "D", "text": "Religion has no influence on culture in either country", "correct": False}
+        ],
+        "answer_explanation": "India and Brazil show that different regions have different dominant religions and that cultural celebrations like Diwali and Carnival reflect each region's unique history and beliefs.",
+        "difficulty": "easy",
+        "tags": ["world-regions", "culture", "religion", "comparison"],
+        "generated_at": TIMESTAMP
+    },
+
+    # WR.2 - Compare cultures/governments/economies (economic systems)
+    {
+        "id": "q_wr0008",
+        "standard_code": "6-8.WR.2",
+        "standard_essential": True,
+        "reporting_category": "World Regions",
+        "domain": "World Regions",
+        "question_type": "multiple_choice",
+        "stimulus": {"type": "text", "content": "In a market economy, businesses and individuals make most economic decisions about what to produce and sell. In a command economy, the government controls most production and sets prices. Many countries today have a mix of both systems."},
+        "stem": "What is the main difference between a market economy and a command economy?",
+        "choices": [
+            {"id": "A", "text": "Who decides what goods are produced and sold", "correct": True},
+            {"id": "B", "text": "Whether the country has any natural resources", "correct": False},
+            {"id": "C", "text": "How large the population of the country is", "correct": False},
+            {"id": "D", "text": "What language the people of the country speak", "correct": False}
+        ],
+        "answer_explanation": "In a market economy, individuals and businesses make economic decisions. In a command economy, the government controls production and prices. The key difference is who makes economic decisions.",
+        "difficulty": "medium",
+        "tags": ["world-regions", "economy", "market", "command"],
+        "generated_at": TIMESTAMP
+    },
+
+    # WR.3 - Countries, capitals, features (Africa)
+    {
+        "id": "q_wr0009",
+        "standard_code": "6-8.WR.3",
+        "standard_essential": True,
+        "reporting_category": "World Regions",
+        "domain": "World Regions",
+        "question_type": "multiple_choice",
+        "stimulus": {"type": "text", "content": "Egypt is a country in northeastern Africa. Its capital city is Cairo, one of the largest cities on the continent. The Nile River flows through Egypt and has been important to the country for thousands of years."},
+        "stem": "Based on the passage, what is the capital of Egypt and what major river flows through it?",
+        "choices": [
+            {"id": "A", "text": "Cairo is the capital, and the Nile River flows through it", "correct": True},
+            {"id": "B", "text": "Alexandria is the capital, and the Congo River flows through it", "correct": False},
+            {"id": "C", "text": "Cairo is the capital, and the Amazon River flows through it", "correct": False},
+            {"id": "D", "text": "Nairobi is the capital, and the Nile River flows through it", "correct": False}
+        ],
+        "answer_explanation": "The passage states that Cairo is the capital of Egypt and that the Nile River flows through the country, making it one of the most important geographic features of Egypt.",
+        "difficulty": "easy",
+        "tags": ["world-regions", "africa", "egypt", "capitals", "nile"],
+        "generated_at": TIMESTAMP
+    },
+
+    # WR.3 - Countries, capitals, features (Asia)
+    {
+        "id": "q_wr0010",
+        "standard_code": "6-8.WR.3",
+        "standard_essential": True,
+        "reporting_category": "World Regions",
+        "domain": "World Regions",
+        "question_type": "multiple_choice",
+        "stimulus": {"type": "text", "content": "China is the most populous country in the world and is located in East Asia. Its capital is Beijing. China's landscape includes the Gobi Desert in the north, the Himalaya Mountains in the southwest, and the Yangtze River, Asia's longest river."},
+        "stem": "Which physical feature described in the passage is the longest river in Asia?",
+        "choices": [
+            {"id": "A", "text": "The Yangtze River in China", "correct": True},
+            {"id": "B", "text": "The Gobi Desert in northern China", "correct": False},
+            {"id": "C", "text": "The Himalaya Mountains in the southwest", "correct": False},
+            {"id": "D", "text": "The capital city of Beijing in the east", "correct": False}
+        ],
+        "answer_explanation": "The passage identifies the Yangtze River as Asia's longest river. The Gobi is a desert, the Himalayas are mountains, and Beijing is a city, not a river.",
+        "difficulty": "easy",
+        "tags": ["world-regions", "asia", "china", "yangtze", "rivers"],
+        "generated_at": TIMESTAMP
+    },
+
+    # WR.3 - Countries, capitals, features (South America)
+    {
+        "id": "q_wr0011",
+        "standard_code": "6-8.WR.3",
+        "standard_essential": True,
+        "reporting_category": "World Regions",
+        "domain": "World Regions",
+        "question_type": "multiple_choice",
+        "stimulus": {"type": "text", "content": "Brazil is the largest country in South America. Its capital is Brasilia, although its largest city is Sao Paulo. The Amazon Rainforest covers a huge part of northern Brazil and is the largest tropical rainforest in the world."},
+        "stem": "What is the capital of Brazil, and what major feature covers much of its northern area?",
+        "choices": [
+            {"id": "A", "text": "Brasilia is the capital, and the Amazon Rainforest covers the north", "correct": True},
+            {"id": "B", "text": "Sao Paulo is the capital, and the Sahara Desert covers the north", "correct": False},
+            {"id": "C", "text": "Brasilia is the capital, and the Andes Mountains cover the north", "correct": False},
+            {"id": "D", "text": "Rio de Janeiro is the capital, and grasslands cover the north", "correct": False}
+        ],
+        "answer_explanation": "The passage states that Brasilia is Brazil's capital and the Amazon Rainforest covers a huge part of northern Brazil. Sao Paulo is the largest city but not the capital.",
+        "difficulty": "easy",
+        "tags": ["world-regions", "south-america", "brazil", "capitals", "amazon"],
+        "generated_at": TIMESTAMP
+    },
+
+    # WR.3 - Countries, capitals, features (Europe)
+    {
+        "id": "q_wr0012",
+        "standard_code": "6-8.WR.3",
+        "standard_essential": True,
+        "reporting_category": "World Regions",
+        "domain": "World Regions",
+        "question_type": "multi_select",
+        "stimulus": {"type": "text", "content": "Europe has many well-known countries and capitals. France has its capital in Paris. Germany's capital is Berlin. The United Kingdom's capital is London. All three countries are located in Western Europe."},
+        "stem": "Which TWO pairings of European countries and their capitals are correct?",
+        "choices": [
+            {"id": "A", "text": "France and Paris", "correct": True},
+            {"id": "B", "text": "Germany and Berlin", "correct": True},
+            {"id": "C", "text": "France and London", "correct": False},
+            {"id": "D", "text": "Germany and Paris", "correct": False}
+        ],
+        "answer_explanation": "France's capital is Paris and Germany's capital is Berlin. London is the capital of the United Kingdom, not France. Paris is France's capital, not Germany's.",
+        "difficulty": "easy",
+        "tags": ["world-regions", "europe", "capitals", "countries"],
+        "generated_at": TIMESTAMP
+    },
+
+    # WR.4 - Trade and transportation (global trade routes)
+    {
+        "id": "q_wr0013",
+        "standard_code": "6-8.WR.4",
+        "standard_essential": False,
+        "reporting_category": "World Regions",
+        "domain": "World Regions",
+        "question_type": "multiple_choice",
+        "stimulus": {"type": "text", "content": "The Suez Canal in Egypt connects the Mediterranean Sea to the Red Sea. Before the canal was built, ships traveling from Europe to Asia had to sail all the way around the southern tip of Africa, adding thousands of kilometers to the journey."},
+        "stem": "How did the Suez Canal change trade between Europe and Asia?",
+        "choices": [
+            {"id": "A", "text": "It created a much shorter shipping route between them", "correct": True},
+            {"id": "B", "text": "It stopped all trade between Europe and Asia completely", "correct": False},
+            {"id": "C", "text": "It forced ships to travel a longer route around Africa", "correct": False},
+            {"id": "D", "text": "It connected the Pacific Ocean to the Atlantic Ocean", "correct": False}
+        ],
+        "answer_explanation": "The Suez Canal created a shortcut between Europe and Asia by connecting the Mediterranean and Red Seas, eliminating the long route around Africa.",
+        "difficulty": "medium",
+        "tags": ["trade", "transportation", "suez-canal", "shipping"],
+        "generated_at": TIMESTAMP
+    },
+
+    # WR.4 - Trade and transportation (resources and trade)
+    {
+        "id": "q_wr0014",
+        "standard_code": "6-8.WR.4",
+        "standard_essential": False,
+        "reporting_category": "World Regions",
+        "domain": "World Regions",
+        "question_type": "multiple_choice",
+        "stimulus": {"type": "text", "content": "Countries in the Middle East produce a large share of the world's oil. This oil is shipped by tanker to countries in Europe, Asia, and North America that need fuel for their cars, factories, and power plants."},
+        "stem": "What does this example show about how trade connects different world regions?",
+        "choices": [
+            {"id": "A", "text": "Regions with resources sell to regions that need them", "correct": True},
+            {"id": "B", "text": "Every region produces all the resources it needs", "correct": False},
+            {"id": "C", "text": "Trade only happens between countries on the same continent", "correct": False},
+            {"id": "D", "text": "Oil is not an important product in global trade today", "correct": False}
+        ],
+        "answer_explanation": "The Middle East has oil that other regions need. This shows how trade connects regions: areas rich in a resource export it to areas that lack that resource.",
+        "difficulty": "easy",
+        "tags": ["trade", "resources", "oil", "middle-east", "global-trade"],
+        "generated_at": TIMESTAMP
+    },
+
+    # WR.4 - Trade and transportation (Panama Canal)
+    {
+        "id": "q_wr0015",
+        "standard_code": "6-8.WR.4",
+        "standard_essential": False,
+        "reporting_category": "World Regions",
+        "domain": "World Regions",
+        "question_type": "multiple_choice",
+        "stimulus": {"type": "text", "content": "The Panama Canal is a waterway that cuts through Central America. It allows ships to travel between the Atlantic and Pacific Oceans without sailing around the southern tip of South America, saving weeks of travel time."},
+        "stem": "Why is the Panama Canal important to world trade and transportation?",
+        "choices": [
+            {"id": "A", "text": "It provides a shortcut between the Atlantic and Pacific Oceans", "correct": True},
+            {"id": "B", "text": "It blocks ships from crossing between two oceans", "correct": False},
+            {"id": "C", "text": "It connects the Mediterranean Sea to the Indian Ocean", "correct": False},
+            {"id": "D", "text": "It allows trains to cross from North to South America", "correct": False}
+        ],
+        "answer_explanation": "The Panama Canal provides a shortcut for ships traveling between the Atlantic and Pacific Oceans, saving thousands of kilometers and weeks of travel compared to going around South America.",
+        "difficulty": "easy",
+        "tags": ["trade", "transportation", "panama-canal", "shipping"],
+        "generated_at": TIMESTAMP
+    },
+
+    # WR.5 - Political boundaries (how borders are set)
+    {
+        "id": "q_wr0016",
+        "standard_code": "6-8.WR.5",
+        "standard_essential": False,
+        "reporting_category": "World Regions",
+        "domain": "World Regions",
+        "question_type": "multiple_choice",
+        "stimulus": {"type": "text", "content": "Some country borders follow natural features like rivers and mountain ranges. For example, the Rhine River forms part of the border between France and Germany. Other borders are straight lines drawn by people, like many borders in Africa that were set by European colonial powers."},
+        "stem": "What are two different ways that political borders between countries are established?",
+        "choices": [
+            {"id": "A", "text": "By following natural features or by being drawn by people", "correct": True},
+            {"id": "B", "text": "By measuring population and by counting languages spoken", "correct": False},
+            {"id": "C", "text": "By climate zones and by the direction of ocean currents", "correct": False},
+            {"id": "D", "text": "By the age of the country and by its total land area", "correct": False}
+        ],
+        "answer_explanation": "Political borders can follow natural features like rivers and mountains, or they can be straight lines drawn by people, often during colonial periods as seen in Africa.",
+        "difficulty": "medium",
+        "tags": ["political-boundaries", "borders", "natural-features", "colonialism"],
+        "generated_at": TIMESTAMP
+    },
+
+    # WR.5 - Political boundaries (borders change over time)
+    {
+        "id": "q_wr0017",
+        "standard_code": "6-8.WR.5",
+        "standard_essential": False,
+        "reporting_category": "World Regions",
+        "domain": "World Regions",
+        "question_type": "multiple_choice",
+        "stimulus": {"type": "text", "content": "In 1991, the Soviet Union broke apart into 15 separate countries, including Russia, Ukraine, and Kazakhstan. Before 1991, all of these areas were part of one large country. This shows that political borders can change over time."},
+        "stem": "What does the breakup of the Soviet Union show about political borders?",
+        "choices": [
+            {"id": "A", "text": "Country borders can change due to political events", "correct": True},
+            {"id": "B", "text": "Country borders are permanent and never change", "correct": False},
+            {"id": "C", "text": "Borders only change when natural disasters strike", "correct": False},
+            {"id": "D", "text": "Borders are always decided by geographic features", "correct": False}
+        ],
+        "answer_explanation": "The Soviet Union splitting into 15 countries in 1991 is a major example of how political borders can change due to political events, wars, or independence movements.",
+        "difficulty": "medium",
+        "tags": ["political-boundaries", "soviet-union", "border-changes"],
+        "generated_at": TIMESTAMP
+    },
+
+    # WR.6 - Rivers/mountains shape civilizations (Nile and Egypt)
+    {
+        "id": "q_wr0018",
+        "standard_code": "6-8.WR.6",
+        "standard_essential": True,
+        "reporting_category": "World Regions",
+        "domain": "World Regions",
+        "question_type": "multiple_choice",
+        "stimulus": {"type": "text", "content": "Ancient Egypt developed along the Nile River in northeastern Africa. Each year, the Nile flooded and left behind rich soil on its banks. Egyptian farmers used this soil to grow crops that fed millions of people for thousands of years."},
+        "stem": "How did the Nile River help the civilization of ancient Egypt grow and thrive?",
+        "choices": [
+            {"id": "A", "text": "Annual floods left rich soil for growing crops", "correct": True},
+            {"id": "B", "text": "The river kept enemy armies from ever attacking", "correct": False},
+            {"id": "C", "text": "The Nile provided gold and silver for trade", "correct": False},
+            {"id": "D", "text": "The river created a cold climate good for farming", "correct": False}
+        ],
+        "answer_explanation": "The Nile's annual floods deposited rich, fertile soil along its banks, allowing Egyptian farmers to grow enough food to support a large civilization for thousands of years.",
+        "difficulty": "easy",
+        "tags": ["rivers", "nile", "egypt", "civilization", "agriculture"],
+        "generated_at": TIMESTAMP
+    },
+
+    # WR.6 - Rivers/mountains shape civilizations (mountains as trade barriers)
+    {
+        "id": "q_wr0019",
+        "standard_code": "6-8.WR.6",
+        "standard_essential": True,
+        "reporting_category": "World Regions",
+        "domain": "World Regions",
+        "question_type": "multiple_choice",
+        "stimulus": {"type": "text", "content": "The Andes Mountains run along the western coast of South America. These tall mountains made it very hard for people on the coast to trade with people living on the plains to the east. Ancient civilizations like the Inca built special roads and bridges to cross the mountains."},
+        "stem": "How did the Andes Mountains affect trade and civilization in South America?",
+        "choices": [
+            {"id": "A", "text": "They created a barrier that made east-west trade difficult", "correct": True},
+            {"id": "B", "text": "They provided a flat and easy path for trade wagons", "correct": False},
+            {"id": "C", "text": "They blocked all rivers from flowing to the ocean", "correct": False},
+            {"id": "D", "text": "They had no effect on how civilizations developed", "correct": False}
+        ],
+        "answer_explanation": "The Andes acted as a natural barrier between the coast and the interior, making trade difficult. The Inca built roads and bridges to overcome this challenge.",
+        "difficulty": "medium",
+        "tags": ["mountains", "andes", "trade-barriers", "inca", "civilization"],
+        "generated_at": TIMESTAMP
+    },
+
+    # WR.6 - Rivers/mountains shape civilizations (Mediterranean Sea and trade)
+    {
+        "id": "q_wr0020",
+        "standard_code": "6-8.WR.6",
+        "standard_essential": True,
+        "reporting_category": "World Regions",
+        "domain": "World Regions",
+        "question_type": "multiple_choice",
+        "stimulus": {"type": "text", "content": "The Mediterranean Sea is surrounded by parts of Europe, Africa, and Asia. For thousands of years, ancient civilizations like Greece, Rome, and Phoenicia used the sea for trade, fishing, and travel. The sea connected these cultures and helped them share goods and ideas."},
+        "stem": "Based on the passage, how did people around the Mediterranean Sea use it long ago?",
+        "choices": [
+            {"id": "A", "text": "It connected civilizations and helped them trade ideas and goods", "correct": True},
+            {"id": "B", "text": "It kept all ancient civilizations completely separated", "correct": False},
+            {"id": "C", "text": "It provided farmland for growing crops along its floor", "correct": False},
+            {"id": "D", "text": "It blocked travel between Europe, Africa, and Asia", "correct": False}
+        ],
+        "answer_explanation": "The Mediterranean Sea served as a highway for trade and travel, connecting civilizations in Europe, Africa, and Asia. This allowed them to share goods, ideas, and culture.",
+        "difficulty": "medium",
+        "tags": ["bodies-of-water", "mediterranean", "trade", "civilization"],
+        "generated_at": TIMESTAMP
+    },
 ]
 
 
