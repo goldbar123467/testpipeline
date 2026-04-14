@@ -1,0 +1,43 @@
+{
+  "id": "q_pg0022",
+  "standard_code": "6-8.PG.7",
+  "standard_essential": false,
+  "reporting_category": "Physical Geography",
+  "domain": "Physical Geography",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "In 2011, a powerful earthquake struck the ocean floor near Japan. The earthquake pushed a massive wall of water toward the coast. This giant wave, called a tsunami, flooded cities and caused widespread damage."
+  },
+  "stem": "According to the passage, what caused the tsunami that struck Japan in 2011?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "A powerful earthquake on the ocean floor",
+      "correct": true
+    },
+    {
+      "id": "B",
+      "text": "A volcanic eruption on a nearby island",
+      "correct": false
+    },
+    {
+      "id": "C",
+      "text": "Strong winds from a tropical hurricane",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "Heavy rainfall that overflowed the rivers",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "The passage explains that a powerful earthquake on the ocean floor near Japan displaced water and created the tsunami that struck the coast.",
+  "difficulty": "easy",
+  "tags": [
+    "natural-disasters",
+    "tsunamis",
+    "earthquakes"
+  ],
+  "generated_at": "2026-04-14T10:00:00Z"
+}

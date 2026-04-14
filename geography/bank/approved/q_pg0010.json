@@ -1,0 +1,44 @@
+{
+  "id": "q_pg0010",
+  "standard_code": "6-8.PG.3",
+  "standard_essential": true,
+  "reporting_category": "Physical Geography",
+  "domain": "Physical Geography",
+  "question_type": "multi_select",
+  "stimulus": {
+    "type": "text",
+    "content": "After a heavy rainstorm, water does not stay in one place. Some water soaks into the ground and becomes groundwater. Other water flows downhill across the land into rivers and streams."
+  },
+  "stem": "Which TWO processes describe what happens to rainwater after it reaches the ground?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "It can soak into the soil as infiltration",
+      "correct": true
+    },
+    {
+      "id": "B",
+      "text": "It can flow across land as surface runoff",
+      "correct": true
+    },
+    {
+      "id": "C",
+      "text": "It rises back into the air as condensation",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "It is absorbed directly by the sun above",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "After rain falls, water either infiltrates (soaks into) the soil to become groundwater, or flows across the surface as runoff into rivers and streams. Condensation occurs in the air, not on the ground.",
+  "difficulty": "medium",
+  "tags": [
+    "water-cycle",
+    "groundwater",
+    "runoff",
+    "infiltration"
+  ],
+  "generated_at": "2026-04-14T10:00:00Z"
+}

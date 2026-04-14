@@ -1,0 +1,44 @@
+{
+  "id": "q_pg0019",
+  "standard_code": "6-8.PG.6",
+  "standard_essential": false,
+  "reporting_category": "Physical Geography",
+  "domain": "Physical Geography",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "The Grand Canyon in Arizona was formed over millions of years. The Colorado River slowly cut through layers of rock, carving a canyon that is over 1,600 meters deep in some places."
+  },
+  "stem": "Which process was most responsible for forming the Grand Canyon over time?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "River erosion wearing away layers of rock",
+      "correct": true
+    },
+    {
+      "id": "B",
+      "text": "Volcanic eruptions that pushed rock apart",
+      "correct": false
+    },
+    {
+      "id": "C",
+      "text": "Glaciers sliding slowly across the desert",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "Earthquakes splitting the ground wide open",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "The Grand Canyon was carved by the Colorado River slowly eroding through layers of rock over millions of years. This is a classic example of river erosion shaping landforms.",
+  "difficulty": "easy",
+  "tags": [
+    "weathering",
+    "erosion",
+    "river-erosion",
+    "grand-canyon"
+  ],
+  "generated_at": "2026-04-14T10:00:00Z"
+}

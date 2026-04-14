@@ -1,0 +1,43 @@
+{
+  "id": "q_pg0008",
+  "standard_code": "6-8.PG.2",
+  "standard_essential": true,
+  "reporting_category": "Physical Geography",
+  "domain": "Physical Geography",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "The Ring of Fire is a horseshoe-shaped zone around the edges of the Pacific Ocean. About 75 percent of the world's active volcanoes are found along this zone. The Ring of Fire is also where about 90 percent of earthquakes happen."
+  },
+  "stem": "What is the best explanation for why so many volcanoes and earthquakes occur along the Ring of Fire?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "Many tectonic plate boundaries are located there",
+      "correct": true
+    },
+    {
+      "id": "B",
+      "text": "The Pacific Ocean creates strong ocean currents",
+      "correct": false
+    },
+    {
+      "id": "C",
+      "text": "The area receives more rainfall than other zones",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "Warm temperatures melt rocks beneath the surface",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "The Ring of Fire has so many volcanoes and earthquakes because it sits along many tectonic plate boundaries where plates collide, pull apart, or slide past each other.",
+  "difficulty": "medium",
+  "tags": [
+    "plate-tectonics",
+    "ring-of-fire",
+    "volcanoes"
+  ],
+  "generated_at": "2026-04-14T10:00:00Z"
+}

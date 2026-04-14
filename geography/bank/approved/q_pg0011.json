@@ -1,0 +1,43 @@
+{
+  "id": "q_pg0011",
+  "standard_code": "6-8.PG.4",
+  "standard_essential": true,
+  "reporting_category": "Physical Geography",
+  "domain": "Physical Geography",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "A geography class is studying three cities. City A is near the equator. City B is halfway between the equator and the North Pole. City C is near the North Pole."
+  },
+  "stem": "Based on their locations, which city most likely has the warmest average temperature all year?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "City A, because it is closest to the equator",
+      "correct": true
+    },
+    {
+      "id": "B",
+      "text": "City B, because it is in the middle latitude",
+      "correct": false
+    },
+    {
+      "id": "C",
+      "text": "City C, because it receives the most sunlight",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "City B, because middle zones trap the most heat",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "Places near the equator receive the most direct sunlight year-round, giving them the warmest average temperatures. City C near the pole would be the coldest.",
+  "difficulty": "easy",
+  "tags": [
+    "climate-zones",
+    "latitude",
+    "temperature"
+  ],
+  "generated_at": "2026-04-14T10:00:00Z"
+}

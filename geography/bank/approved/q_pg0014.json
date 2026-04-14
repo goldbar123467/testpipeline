@@ -1,0 +1,44 @@
+{
+  "id": "q_pg0014",
+  "standard_code": "6-8.PG.4",
+  "standard_essential": true,
+  "reporting_category": "Physical Geography",
+  "domain": "Physical Geography",
+  "question_type": "multi_select",
+  "stimulus": {
+    "type": "text",
+    "content": "Earth's surface can be divided into major climate zones based on distance from the equator. The zone nearest the equator is hot and wet. The zones nearest the poles are extremely cold. Between them are zones with moderate temperatures and changing seasons."
+  },
+  "stem": "Which TWO statements correctly describe Earth's major climate zones?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "Tropical zones near the equator are warm and wet",
+      "correct": true
+    },
+    {
+      "id": "B",
+      "text": "Polar zones near the poles are extremely cold",
+      "correct": true
+    },
+    {
+      "id": "C",
+      "text": "Temperate zones have the hottest temperatures",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "Desert zones are always found near the equator",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "Tropical zones near the equator are warm and wet, and polar zones near the poles are extremely cold. Temperate zones have moderate, not the hottest, temperatures. Deserts can be found at various latitudes.",
+  "difficulty": "easy",
+  "tags": [
+    "climate-zones",
+    "tropical",
+    "polar",
+    "temperate"
+  ],
+  "generated_at": "2026-04-14T10:00:00Z"
+}

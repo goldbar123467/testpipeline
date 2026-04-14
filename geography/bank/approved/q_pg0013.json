@@ -1,0 +1,43 @@
+{
+  "id": "q_pg0013",
+  "standard_code": "6-8.PG.4",
+  "standard_essential": true,
+  "reporting_category": "Physical Geography",
+  "domain": "Physical Geography",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "Two cities in the same country are located at the same latitude. City X is at sea level along the coast. City Y is high in the mountains at 3,000 meters above sea level."
+  },
+  "stem": "How would the average temperature of City Y most likely compare to City X?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "City Y would be warmer due to mountain sunshine",
+      "correct": false
+    },
+    {
+      "id": "B",
+      "text": "City Y would be cooler due to higher elevation",
+      "correct": true
+    },
+    {
+      "id": "C",
+      "text": "Both cities would have the same temperatures",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "City Y would be warmer because of thinner air",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "Temperature decreases as elevation increases. City Y at 3,000 meters would be significantly cooler than City X at sea level, even though both are at the same latitude.",
+  "difficulty": "medium",
+  "tags": [
+    "climate-zones",
+    "elevation",
+    "temperature"
+  ],
+  "generated_at": "2026-04-14T10:00:00Z"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q_pg0006",
+  "standard_code": "6-8.PG.1",
+  "standard_essential": true,
+  "reporting_category": "Physical Geography",
+  "domain": "Physical Geography",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "The Pacific Ocean covers more area than all of Earth's land combined. It stretches from Asia and Australia in the west to North and South America in the east."
+  },
+  "stem": "Based on the passage, what makes the Pacific Ocean a significant physical feature of Earth?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "It covers more area than all land on Earth",
+      "correct": true
+    },
+    {
+      "id": "B",
+      "text": "It is the warmest of all the world's oceans",
+      "correct": false
+    },
+    {
+      "id": "C",
+      "text": "It separates Europe from North America",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "It contains the most islands of any ocean",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "The passage states that the Pacific Ocean covers more area than all of Earth's land combined, making it the largest ocean and a major physical feature.",
+  "difficulty": "easy",
+  "tags": [
+    "oceans",
+    "pacific",
+    "physical-features"
+  ],
+  "generated_at": "2026-04-14T10:00:00Z"
+}

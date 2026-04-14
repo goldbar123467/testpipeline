@@ -1,0 +1,44 @@
+{
+  "id": "q_pg0018",
+  "standard_code": "6-8.PG.6",
+  "standard_essential": false,
+  "reporting_category": "Physical Geography",
+  "domain": "Physical Geography",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "Over many years, rainwater slowly dissolves limestone rock. This process creates caves, sinkholes, and underground rivers. The rainwater is slightly acidic, which helps break down the minerals in the rock."
+  },
+  "stem": "What type of weathering process is described in the passage?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "Mechanical weathering from freezing water",
+      "correct": false
+    },
+    {
+      "id": "B",
+      "text": "Chemical weathering from acidic rainwater",
+      "correct": true
+    },
+    {
+      "id": "C",
+      "text": "Erosion caused by strong winds blowing sand",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "Physical weathering from plant root growth",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "The passage describes chemical weathering, where acidic rainwater dissolves limestone rock over time to create caves, sinkholes, and underground rivers.",
+  "difficulty": "medium",
+  "tags": [
+    "weathering",
+    "chemical-weathering",
+    "erosion",
+    "limestone"
+  ],
+  "generated_at": "2026-04-14T10:00:00Z"
+}

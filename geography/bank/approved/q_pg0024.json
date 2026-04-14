@@ -1,0 +1,44 @@
+{
+  "id": "q_pg0024",
+  "standard_code": "6-8.PG.8",
+  "standard_essential": true,
+  "reporting_category": "Physical Geography",
+  "domain": "Physical Geography",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "Many of the world's largest cities are located along coastlines or near major ports. These locations give people access to fishing, shipping, and trade routes that connect different parts of the world."
+  },
+  "stem": "What is the main reason many large cities developed along coastlines?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "Coastal areas always have the best weather",
+      "correct": false
+    },
+    {
+      "id": "B",
+      "text": "Coasts provide access to fishing and trade",
+      "correct": true
+    },
+    {
+      "id": "C",
+      "text": "Coastlines are farther from earthquake zones",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "Coastal land is the easiest land to farm",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "Coastal cities developed because coastlines provide access to fishing, shipping, and trade routes. These economic advantages attracted large populations over time.",
+  "difficulty": "medium",
+  "tags": [
+    "settlement-patterns",
+    "coastal-cities",
+    "trade",
+    "economy"
+  ],
+  "generated_at": "2026-04-14T10:00:00Z"
+}
