@@ -1,0 +1,43 @@
+{
+  "id": "q_hg0014",
+  "standard_code": "6-8.HG.4",
+  "standard_essential": false,
+  "reporting_category": "Human Geography",
+  "domain": "Human Geography",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "Urban areas have many buildings, roads, and businesses close together. They offer jobs in offices, factories, and stores. Rural areas have open land used mostly for farming and ranching. People in rural areas live farther apart from one another."
+  },
+  "stem": "What is the main difference between urban and rural areas described in the passage?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "Urban areas are more crowded with varied jobs",
+      "correct": true
+    },
+    {
+      "id": "B",
+      "text": "Rural areas have more factories than urban areas",
+      "correct": false
+    },
+    {
+      "id": "C",
+      "text": "Urban areas are used mainly for farming crops",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "Rural areas have larger populations than cities",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "The passage describes urban areas as dense with buildings, roads, and diverse jobs, while rural areas have open land used for farming with people living farther apart.",
+  "difficulty": "easy",
+  "tags": [
+    "urbanization",
+    "urban-rural",
+    "land-use"
+  ],
+  "generated_at": "2026-04-14T10:00:00Z"
+}

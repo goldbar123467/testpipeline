@@ -1,0 +1,43 @@
+{
+  "id": "q_hg0008",
+  "standard_code": "6-8.HG.2",
+  "standard_essential": true,
+  "reporting_category": "Human Geography",
+  "domain": "Human Geography",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "When large numbers of people migrate to a new country, they bring their language, food, music, and traditions with them. Over time, these customs blend with the culture of their new home."
+  },
+  "stem": "What is one important effect of large-scale migration on the receiving country?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "The country's culture becomes more diverse",
+      "correct": true
+    },
+    {
+      "id": "B",
+      "text": "The country's population always decreases",
+      "correct": false
+    },
+    {
+      "id": "C",
+      "text": "The country loses all of its original customs",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "The country's borders change their location",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "When migrants bring their customs, food, and language to a new country, the receiving country becomes more culturally diverse as traditions blend together over time.",
+  "difficulty": "medium",
+  "tags": [
+    "migration",
+    "cultural-effects",
+    "diversity"
+  ],
+  "generated_at": "2026-04-14T10:00:00Z"
+}

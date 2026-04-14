@@ -1,0 +1,44 @@
+{
+  "id": "q_er0007",
+  "standard_code": "6-8.ER.2",
+  "standard_essential": true,
+  "reporting_category": "Environment and Resources",
+  "domain": "Environment",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "Climate change is causing some regions to receive less rainfall than before. In parts of Africa and the Middle East, droughts are becoming longer and more severe. Farmers in these areas struggle to grow enough food to feed their families."
+  },
+  "stem": "How is climate change affecting farming in parts of Africa and the Middle East?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "Longer droughts make it harder for farmers to grow food",
+      "correct": true
+    },
+    {
+      "id": "B",
+      "text": "Increased rainfall is flooding all the farmland",
+      "correct": false
+    },
+    {
+      "id": "C",
+      "text": "Colder temperatures are freezing crops in the fields",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "Farmers now have more water than they can ever use",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "Climate change is reducing rainfall in some regions, creating longer and more severe droughts that make it difficult for farmers to grow enough food.",
+  "difficulty": "medium",
+  "tags": [
+    "climate-change",
+    "drought",
+    "farming",
+    "food-security"
+  ],
+  "generated_at": "2026-04-14T10:00:00Z"
+}

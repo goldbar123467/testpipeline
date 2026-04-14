@@ -1,0 +1,43 @@
+{
+  "id": "q_hg0010",
+  "standard_code": "6-8.HG.3",
+  "standard_essential": true,
+  "reporting_category": "Human Geography",
+  "domain": "Human Geography",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "A map of world religions shows that Christianity is common in Europe and the Americas. Islam is the main religion in the Middle East and North Africa. Hinduism is mostly found in South Asia, especially India."
+  },
+  "stem": "What does the map reveal about how religions are distributed around the world?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "Every country practices the same religion",
+      "correct": false
+    },
+    {
+      "id": "B",
+      "text": "Religions are concentrated in specific regions",
+      "correct": true
+    },
+    {
+      "id": "C",
+      "text": "Religion has no connection to geography at all",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "Only one religion exists on each continent",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "The map shows that major religions are concentrated in specific world regions rather than being evenly spread. This reflects historical patterns of cultural development and diffusion.",
+  "difficulty": "easy",
+  "tags": [
+    "cultural-traits",
+    "religion",
+    "world-regions"
+  ],
+  "generated_at": "2026-04-14T10:00:00Z"
+}

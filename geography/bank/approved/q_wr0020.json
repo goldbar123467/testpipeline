@@ -1,0 +1,44 @@
+{
+  "id": "q_wr0020",
+  "standard_code": "6-8.WR.6",
+  "standard_essential": true,
+  "reporting_category": "World Regions",
+  "domain": "World Regions",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "The Mediterranean Sea is surrounded by parts of Europe, Africa, and Asia. For thousands of years, ancient civilizations like Greece, Rome, and Phoenicia used the sea for trade, fishing, and travel. The sea connected these cultures and helped them share goods and ideas."
+  },
+  "stem": "Based on the passage, how did people around the Mediterranean Sea use it long ago?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "It connected civilizations and helped them trade ideas and goods",
+      "correct": true
+    },
+    {
+      "id": "B",
+      "text": "It kept all ancient civilizations completely separated",
+      "correct": false
+    },
+    {
+      "id": "C",
+      "text": "It provided farmland for growing crops along its floor",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "It blocked travel between Europe, Africa, and Asia",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "The Mediterranean Sea served as a highway for trade and travel, connecting civilizations in Europe, Africa, and Asia. This allowed them to share goods, ideas, and culture.",
+  "difficulty": "medium",
+  "tags": [
+    "bodies-of-water",
+    "mediterranean",
+    "trade",
+    "civilization"
+  ],
+  "generated_at": "2026-04-14T10:00:00Z"
+}

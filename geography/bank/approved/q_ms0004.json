@@ -1,0 +1,43 @@
+{
+  "id": "q_ms0004",
+  "standard_code": "6-8.MS.2",
+  "standard_essential": true,
+  "reporting_category": "Map Skills and Tools",
+  "domain": "Map Skills",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "A map of the United States uses different colors to show how much rainfall each state receives per year. States with heavy rainfall are dark blue, and states with little rainfall are light yellow."
+  },
+  "stem": "What type of map is described in the passage?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "A political map showing state governments",
+      "correct": false
+    },
+    {
+      "id": "B",
+      "text": "A thematic map showing rainfall patterns",
+      "correct": true
+    },
+    {
+      "id": "C",
+      "text": "A physical map showing mountains and rivers",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "A road map showing highways between cities",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "A thematic map focuses on a specific topic or theme, such as rainfall, population, or temperature. This map uses color to show rainfall amounts across states.",
+  "difficulty": "easy",
+  "tags": [
+    "map-types",
+    "thematic-map",
+    "rainfall"
+  ],
+  "generated_at": "2026-04-14T10:00:00Z"
+}

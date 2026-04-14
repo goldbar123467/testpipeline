@@ -1,0 +1,44 @@
+{
+  "id": "q_wr0006",
+  "standard_code": "6-8.WR.2",
+  "standard_essential": true,
+  "reporting_category": "World Regions",
+  "domain": "World Regions",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "Japan has a strong economy with advanced technology, high literacy rates, and modern hospitals. Many countries in Sub-Saharan Africa have growing economies but still face challenges with access to clean water, education, and healthcare."
+  },
+  "stem": "What does the passage suggest about the difference between these two world regions?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "They are at different levels of economic development",
+      "correct": true
+    },
+    {
+      "id": "B",
+      "text": "Japan has fewer natural resources than Africa does",
+      "correct": false
+    },
+    {
+      "id": "C",
+      "text": "African countries have stronger economies than Japan",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "Both regions face the exact same challenges today",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "The passage contrasts Japan's advanced economy and services with the development challenges in Sub-Saharan Africa, showing they are at different levels of economic development.",
+  "difficulty": "medium",
+  "tags": [
+    "world-regions",
+    "economy",
+    "development",
+    "comparison"
+  ],
+  "generated_at": "2026-04-14T10:00:00Z"
+}

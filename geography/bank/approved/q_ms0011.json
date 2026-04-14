@@ -1,0 +1,44 @@
+{
+  "id": "q_ms0011",
+  "standard_code": "6-8.MS.1",
+  "standard_essential": true,
+  "reporting_category": "Map Skills and Tools",
+  "domain": "Map Skills",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "A treasure hunt game gives students a set of coordinates: 0 degrees latitude, 30 degrees East longitude. Students must use a world map to find the location. The coordinates point to a spot in the middle of Africa."
+  },
+  "stem": "What does 0 degrees latitude tell the students about this location on the map?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "The location is on the equator",
+      "correct": true
+    },
+    {
+      "id": "B",
+      "text": "The location is at the North Pole",
+      "correct": false
+    },
+    {
+      "id": "C",
+      "text": "The location is on the prime meridian",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "The location is in the Western Hemisphere",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "Zero degrees latitude is the equator, the imaginary line that circles Earth halfway between the North and South Poles. Zero degrees longitude would be the prime meridian.",
+  "difficulty": "easy",
+  "tags": [
+    "latitude",
+    "longitude",
+    "equator",
+    "coordinates"
+  ],
+  "generated_at": "2026-04-14T10:00:00Z"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "q_ms0012",
+  "standard_code": "6-8.MS.1",
+  "standard_essential": true,
+  "reporting_category": "Map Skills and Tools",
+  "domain": "Map Skills",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "City A is located at 10 degrees North latitude. City B is located at 60 degrees North latitude. Both cities are on the same continent."
+  },
+  "stem": "Based on their latitude, how would the climates of these two cities most likely compare?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "City A would be warmer because it is closer to the equator",
+      "correct": true
+    },
+    {
+      "id": "B",
+      "text": "City B would be warmer because it is farther from the equator",
+      "correct": false
+    },
+    {
+      "id": "C",
+      "text": "Both cities would have the same climate and temperatures",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "City A would be colder because of its lower latitude number",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "Places closer to the equator (lower latitude numbers) receive more direct sunlight and are generally warmer. City A at 10 degrees North is much closer to the equator than City B at 60 degrees North.",
+  "difficulty": "medium",
+  "tags": [
+    "latitude",
+    "climate",
+    "temperature",
+    "equator"
+  ],
+  "generated_at": "2026-04-14T10:00:00Z"
+}

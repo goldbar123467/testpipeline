@@ -1,0 +1,43 @@
+{
+  "id": "q_hg0007",
+  "standard_code": "6-8.HG.2",
+  "standard_essential": true,
+  "reporting_category": "Human Geography",
+  "domain": "Human Geography",
+  "question_type": "multi_select",
+  "stimulus": {
+    "type": "text",
+    "content": "A family decides to move from a small village to a large city in another country. In their village, there are no jobs and the schools have closed. In the city, there are many factories hiring workers and good schools for children."
+  },
+  "stem": "Which TWO statements correctly identify the push and pull factors in this example?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "No jobs in the village is a push factor",
+      "correct": true
+    },
+    {
+      "id": "B",
+      "text": "Factories hiring workers is a pull factor",
+      "correct": true
+    },
+    {
+      "id": "C",
+      "text": "Closed schools in the village is a pull factor",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "Good schools in the city is a push factor",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "Push factors are negative conditions in the home area (no jobs), while pull factors are positive conditions in the new area (factories hiring). Closed schools push people away; good schools pull people toward the city.",
+  "difficulty": "medium",
+  "tags": [
+    "migration",
+    "push-pull-factors",
+    "rural-urban"
+  ],
+  "generated_at": "2026-04-14T10:00:00Z"
+}

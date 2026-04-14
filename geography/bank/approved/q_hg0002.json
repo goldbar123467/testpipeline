@@ -1,0 +1,43 @@
+{
+  "id": "q_hg0002",
+  "standard_code": "6-8.HG.1",
+  "standard_essential": true,
+  "reporting_category": "Human Geography",
+  "domain": "Human Geography",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "More than half of the world's population lives in Asia. Within Asia, people are clustered in river valleys, coastal plains, and areas with mild climates. Mountain regions and dry deserts have far fewer people."
+  },
+  "stem": "What pattern does the passage show about where people live in Asia?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "People spread evenly across the whole continent",
+      "correct": false
+    },
+    {
+      "id": "B",
+      "text": "People cluster where land and climate support life",
+      "correct": true
+    },
+    {
+      "id": "C",
+      "text": "Most people live in the highest mountain regions",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "People prefer dry desert areas over river valleys",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "The passage shows that people in Asia cluster in areas with favorable conditions like river valleys, coastal plains, and mild climates, rather than spreading evenly.",
+  "difficulty": "easy",
+  "tags": [
+    "population-distribution",
+    "asia",
+    "settlement-patterns"
+  ],
+  "generated_at": "2026-04-14T10:00:00Z"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q_ms0018",
+  "standard_code": "6-8.MS.4",
+  "standard_essential": false,
+  "reporting_category": "Map Skills and Tools",
+  "domain": "Map Skills",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "Mapmakers have created many different map projections over the centuries. Some projections show the correct size of continents but distort their shape. Others keep the shape accurate but change the size. No single projection can show everything perfectly."
+  },
+  "stem": "Why have mapmakers created many different types of map projections?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "No single projection can avoid all types of distortion",
+      "correct": true
+    },
+    {
+      "id": "B",
+      "text": "Mapmakers enjoy creating as many maps as possible",
+      "correct": false
+    },
+    {
+      "id": "C",
+      "text": "Each country requires its own special map projection",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "Older projections were lost and had to be remade",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "Because a round Earth cannot be shown on a flat surface without distortion, different projections make different trade-offs between size, shape, distance, and direction.",
+  "difficulty": "medium",
+  "tags": [
+    "map-projections",
+    "distortion",
+    "trade-offs"
+  ],
+  "generated_at": "2026-04-14T10:00:00Z"
+}

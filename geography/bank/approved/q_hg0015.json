@@ -1,0 +1,43 @@
+{
+  "id": "q_hg0015",
+  "standard_code": "6-8.HG.4",
+  "standard_essential": false,
+  "reporting_category": "Human Geography",
+  "domain": "Human Geography",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "In many developing countries, young people leave their farming villages and move to large cities. They hope to find better-paying jobs, attend schools, and access hospitals and other services that are not available in rural areas."
+  },
+  "stem": "Why do many young people in developing countries move from villages to cities?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "Cities offer better jobs, schools, and services",
+      "correct": true
+    },
+    {
+      "id": "B",
+      "text": "Villages have too many job openings to fill",
+      "correct": false
+    },
+    {
+      "id": "C",
+      "text": "Cities have more farmland than rural villages",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "Villages are too crowded for young people",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "Young people move to cities for better economic and social opportunities, including higher-paying jobs, schools, and healthcare services not available in rural areas.",
+  "difficulty": "easy",
+  "tags": [
+    "urbanization",
+    "rural-to-urban",
+    "developing-countries"
+  ],
+  "generated_at": "2026-04-14T10:00:00Z"
+}

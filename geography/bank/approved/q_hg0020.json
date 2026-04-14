@@ -1,0 +1,43 @@
+{
+  "id": "q_hg0020",
+  "standard_code": "6-8.HG.6",
+  "standard_essential": false,
+  "reporting_category": "Human Geography",
+  "domain": "Human Geography",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "Population density measures how many people live in a given area. It is calculated by dividing the total population by the total land area. A city with 500,000 people in 100 square kilometers has a density of 5,000 people per square kilometer."
+  },
+  "stem": "What does a high population density tell us about a place?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "Many people are living in a small area of land",
+      "correct": true
+    },
+    {
+      "id": "B",
+      "text": "Very few people live anywhere in that country",
+      "correct": false
+    },
+    {
+      "id": "C",
+      "text": "The area has more land than it needs for people",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "People are spread out evenly across all regions",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "High population density means many people are concentrated in a small area. The example shows 5,000 people per square kilometer, indicating a crowded urban area.",
+  "difficulty": "easy",
+  "tags": [
+    "demographics",
+    "population-density",
+    "urban"
+  ],
+  "generated_at": "2026-04-14T10:00:00Z"
+}

@@ -14,7 +14,9 @@ DIFF_ORDER = {"easy": 0, "medium": 1, "hard": 2}
 # ── Category definitions ──────────────────────────────────────────────
 # Each category pulls from specific standard codes, in priority order.
 # The builder fills each category to exactly 5 questions.
+# Categories are grouped into rounds of 5 for the Jeopardy board.
 CATEGORY_DEFS = [
+    # ── Round 1: Physical Geography ──
     {
         "name": "Earth's Landforms",
         "codes": ["6-8.PG.1", "6-8.PG.6"],
@@ -35,6 +37,90 @@ CATEGORY_DEFS = [
         "name": "Shaping Our World",
         "codes": ["6-8.PG.6", "6-8.PG.8"],
     },
+    # ── Round 2: Human Geography ──
+    {
+        "name": "People & Places",
+        "codes": ["6-8.HG.1"],
+    },
+    {
+        "name": "On the Move",
+        "codes": ["6-8.HG.2"],
+    },
+    {
+        "name": "Culture Club",
+        "codes": ["6-8.HG.3"],
+    },
+    {
+        "name": "City vs. Country",
+        "codes": ["6-8.HG.4", "6-8.HG.5"],
+    },
+    {
+        "name": "By the Numbers",
+        "codes": ["6-8.HG.5", "6-8.HG.6"],
+    },
+    # ── Round 3: Map Skills ──
+    {
+        "name": "X Marks the Spot",
+        "codes": ["6-8.MS.1"],
+    },
+    {
+        "name": "Map Masters",
+        "codes": ["6-8.MS.2"],
+    },
+    {
+        "name": "Keys & Scales",
+        "codes": ["6-8.MS.3"],
+    },
+    {
+        "name": "Flat Earth Problems",
+        "codes": ["6-8.MS.4", "6-8.MS.5"],
+    },
+    {
+        "name": "Around the Globe",
+        "codes": ["6-8.MS.6", "6-8.MS.1"],
+    },
+    # ── Round 4: World Regions ──
+    {
+        "name": "Exploring Continents",
+        "codes": ["6-8.WR.1"],
+    },
+    {
+        "name": "World Matchup",
+        "codes": ["6-8.WR.2"],
+    },
+    {
+        "name": "Capitals & Landmarks",
+        "codes": ["6-8.WR.3"],
+    },
+    {
+        "name": "Trade Routes",
+        "codes": ["6-8.WR.4", "6-8.WR.5"],
+    },
+    {
+        "name": "Rivers of History",
+        "codes": ["6-8.WR.6", "6-8.WR.5"],
+    },
+    # ── Round 5: Environment & Resources ──
+    {
+        "name": "Resource Roundup",
+        "codes": ["6-8.ER.1"],
+    },
+    {
+        "name": "Heating Up",
+        "codes": ["6-8.ER.2"],
+    },
+    {
+        "name": "Save the Planet",
+        "codes": ["6-8.ER.3", "6-8.ER.4"],
+    },
+    {
+        "name": "Web of Life",
+        "codes": ["6-8.ER.4", "6-8.ER.3"],
+    },
+    {
+        "name": "Human Footprint",
+        "codes": ["6-8.ER.5"],
+    },
 ]
 
 CATEGORY_SIZE = 5
@@ -49,8 +135,8 @@ def load_questions():
     return questions
 
 
-def organize_categories(questions):
-    """Assign questions to 5 Jeopardy categories of 5 questions each."""
+def organize_into_rounds(questions):
+    """Assign questions to categories, then group into rounds of 5."""
     by_code = defaultdict(list)
     for q in questions:
         by_code[q["standard_code"]].append(q)
@@ -71,10 +157,11 @@ def organize_categories(questions):
                     used_ids.add(q["id"])
         # Sort by difficulty for point-value assignment
         cat_questions.sort(key=lambda q: DIFF_ORDER.get(q["difficulty"], 1))
-        categories.append({
-            "name": cdef["name"],
-            "questions": cat_questions,
-        })
+        if cat_questions:
+            categories.append({
+                "name": cdef["name"],
+                "questions": cat_questions,
+            })
 
     # If any category is short, fill from unused questions
     unused = [q for q in questions if q["id"] not in used_ids]
@@ -84,19 +171,25 @@ def organize_categories(questions):
             cat["questions"].append(unused.pop(0))
         cat["questions"].sort(key=lambda q: DIFF_ORDER.get(q["difficulty"], 1))
 
-    return categories
+    # Group into rounds of 5 categories each
+    rounds = []
+    for i in range(0, len(categories), 5):
+        rounds.append(categories[i:i+5])
+
+    return rounds
 
 
-def build_html(categories):
-    """Generate the complete Jeopardy HTML game."""
-    cats_json = json.dumps(categories, indent=2)
+def build_html(rounds):
+    """Generate the complete Jeopardy HTML game with round support."""
+    rounds_json = json.dumps(rounds, indent=2)
+    total_qs = sum(len(q["questions"]) for r in rounds for q in r)
 
     html = f"""<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Geography Jeopardy! - Physical Geography</title>
+<title>Geography Jeopardy!</title>
 <style>
 * {{ margin: 0; padding: 0; box-sizing: border-box; }}
 
@@ -605,6 +698,36 @@ body {{
 
 #play-again-btn:hover {{ transform: scale(1.05); }}
 
+/* Round Navigation */
+#round-nav {{
+  display: flex;
+  justify-content: center;
+  gap: 0.5rem;
+  margin-bottom: 1rem;
+}}
+
+.round-btn {{
+  padding: 0.5rem 1.5rem;
+  font-size: 1rem;
+  font-weight: bold;
+  border: 2px solid #4ADE80;
+  background: transparent;
+  color: #4ADE80;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: all 0.2s;
+}}
+
+.round-btn.active, .round-btn:hover {{
+  background: #4ADE80;
+  color: #0a2a1a;
+}}
+
+.round-btn.round-complete {{
+  opacity: 0.5;
+  text-decoration: line-through;
+}}
+
 /* ── Stats bar ── */
 #stats-bar {{
   text-align: center;
@@ -630,8 +753,8 @@ body {{
 <!-- SETUP SCREEN -->
 <div id="setup-screen">
   <h1>GEOGRAPHY JEOPARDY!</h1>
-  <h2>Physical Geography Edition</h2>
-  <h3>25 Questions &bull; 5 Categories &bull; Middle School</h3>
+  <h2>Middle School Edition</h2>
+  <h3>{total_qs} Questions &bull; {len(rounds)} Round{"s" if len(rounds) > 1 else ""} &bull; {sum(len(r) for r in rounds)} Categories</h3>
   <div class="setup-box">
     <label for="num-teams">Number of Teams</label>
     <select id="num-teams" onchange="updateTeamInputs()">
@@ -647,6 +770,7 @@ body {{
 <!-- GAME SCREEN -->
 <div id="game-screen">
   <div id="scoreboard"></div>
+  <div id="round-nav"></div>
   <div id="board"></div>
   <div id="stats-bar"></div>
   <div style="text-align:center; margin-top:1.5rem;">
@@ -692,7 +816,7 @@ body {{
 // ══════════════════════════════════════
 //  GAME DATA
 // ══════════════════════════════════════
-const CATEGORIES = {cats_json};
+const ROUNDS = {rounds_json};
 
 // ══════════════════════════════════════
 //  CONFIG
@@ -704,11 +828,12 @@ const POINT_VALUES = [200, 400, 600, 800, 1000];
 //  GAME STATE
 // ══════════════════════════════════════
 let teams = [];
+let currentRound = 0;
 let answered = {{}};
 let currentQuestion = null;
 let currentPoints = 0;
 let questionsAnswered = 0;
-const totalQuestions = CATEGORIES.reduce((s, c) => s + c.questions.length, 0);
+const totalQuestions = ROUNDS.reduce((s, r) => s + r.reduce((s2, c) => s2 + c.questions.length, 0), 0);
 
 // ══════════════════════════════════════
 //  SETUP
@@ -738,6 +863,7 @@ function startGame() {{
   document.getElementById('setup-screen').style.display = 'none';
   document.getElementById('game-screen').style.display = 'block';
   renderScoreboard();
+  renderRoundNav();
   renderBoard();
   updateStats();
 }}
@@ -771,21 +897,63 @@ function manualScore(teamIdx, amount) {{
 }}
 
 // ══════════════════════════════════════
+//  ROUND NAV
+// ══════════════════════════════════════
+function renderRoundNav() {{
+  const nav = document.getElementById('round-nav');
+  if (ROUNDS.length <= 1) {{ nav.innerHTML = ''; return; }}
+  nav.innerHTML = ROUNDS.map((_, i) => `
+    <button class="round-btn ${{i === currentRound ? 'active' : ''}}"
+            id="round-btn-${{i}}" onclick="switchRound(${{i}})">
+      Round ${{i+1}}
+    </button>
+  `).join('');
+}}
+
+function switchRound(r) {{
+  currentRound = r;
+  document.querySelectorAll('.round-btn').forEach((btn, i) => {{
+    btn.classList.toggle('active', i === r);
+  }});
+  renderBoard();
+  checkRoundComplete();
+}}
+
+function checkRoundComplete() {{
+  ROUNDS.forEach((round, ri) => {{
+    let total = round.reduce((s, c) => s + c.questions.length, 0);
+    let done = 0;
+    for (let c = 0; c < round.length; c++) {{
+      for (let row = 0; row < round[c].questions.length; row++) {{
+        if (answered[`${{ri}}-${{c}}-${{row}}`]) done++;
+      }}
+    }}
+    const btn = document.getElementById(`round-btn-${{ri}}`);
+    if (btn) btn.classList.toggle('round-complete', done === total && total > 0);
+  }});
+}}
+
+// ══════════════════════════════════════
 //  BOARD
 // ══════════════════════════════════════
 function renderBoard() {{
   const board = document.getElementById('board');
+  const round = ROUNDS[currentRound];
+  if (!round) return;
+
+  const numCols = round.length;
+  board.style.gridTemplateColumns = `repeat(${{numCols}}, 1fr)`;
   let html = '';
 
   // Category headers
-  CATEGORIES.forEach(cat => {{
+  round.forEach(cat => {{
     html += `<div class="category-header">${{cat.name}}</div>`;
   }});
 
   // Question cells (5 rows)
   for (let row = 0; row < 5; row++) {{
-    CATEGORIES.forEach((cat, col) => {{
-      const key = `${{col}}-${{row}}`;
+    round.forEach((cat, col) => {{
+      const key = `${{currentRound}}-${{col}}-${{row}}`;
       const isAnswered = answered[key];
       const hasQuestion = row < cat.questions.length;
       const points = POINT_VALUES[row];
@@ -812,10 +980,11 @@ function updateStats() {{
 //  QUESTION MODAL
 // ══════════════════════════════════════
 function openQuestion(col, row) {{
-  const key = `${{col}}-${{row}}`;
+  const key = `${{currentRound}}-${{col}}-${{row}}`;
   if (answered[key]) return;
 
-  const cat = CATEGORIES[col];
+  const round = ROUNDS[currentRound];
+  const cat = round[col];
   const q = cat.questions[row];
   if (!q) return;
 
@@ -904,6 +1073,7 @@ function closeModal() {{
     questionsAnswered++;
     renderBoard();
     updateStats();
+    checkRoundComplete();
   }}
   document.getElementById('modal-overlay').classList.remove('visible');
   currentQuestion = null;
@@ -954,16 +1124,20 @@ updateTeamInputs();
 
 def main():
     questions = load_questions()
-    # Filter to only PG questions for this build
-    pg_questions = [q for q in questions if q["standard_code"].startswith("6-8.PG")]
-    print(f"Loaded {len(pg_questions)} Physical Geography questions (of {len(questions)} total)")
+    print(f"Loaded {len(questions)} questions")
 
-    categories = organize_categories(pg_questions)
-    for cat in categories:
-        codes = set(q["standard_code"] for q in cat["questions"])
-        print(f"  {cat['name']:20s}  {len(cat['questions'])} Qs  [{', '.join(sorted(codes))}]")
+    rounds = organize_into_rounds(questions)
+    total = 0
+    for ri, rnd in enumerate(rounds):
+        print(f"\n  Round {ri+1}:")
+        for cat in rnd:
+            codes = set(q["standard_code"] for q in cat["questions"])
+            print(f"    {cat['name']:20s}  {len(cat['questions'])} Qs  [{', '.join(sorted(codes))}]")
+            total += len(cat["questions"])
 
-    html = build_html(categories)
+    print(f"\n  Total: {total} questions in {len(rounds)} round(s)")
+
+    html = build_html(rounds)
     with open(OUTPUT_FILE, "w") as f:
         f.write(html)
     print(f"\nGenerated: {OUTPUT_FILE}")

@@ -1,0 +1,43 @@
+{
+  "id": "q_ms0008",
+  "standard_code": "6-8.MS.5",
+  "standard_essential": false,
+  "reporting_category": "Map Skills and Tools",
+  "domain": "Map Skills",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "A hiker uses a device that receives signals from satellites orbiting Earth. The device shows her exact location on a digital map and gives her directions to the nearest trail. This technology is called the Global Positioning System."
+  },
+  "stem": "How does GPS technology help the hiker in this passage?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "It uses satellites to find her exact location",
+      "correct": true
+    },
+    {
+      "id": "B",
+      "text": "It measures the temperature of the air around her",
+      "correct": false
+    },
+    {
+      "id": "C",
+      "text": "It predicts the weather for the next week",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "It takes pictures of the trail from space",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "GPS uses signals from satellites to determine a person's exact location on Earth. The hiker's device receives these signals and displays her position on a digital map.",
+  "difficulty": "easy",
+  "tags": [
+    "geographic-tools",
+    "gps",
+    "technology"
+  ],
+  "generated_at": "2026-04-14T10:00:00Z"
+}

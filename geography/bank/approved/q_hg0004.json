@@ -1,0 +1,42 @@
+{
+  "id": "q_hg0004",
+  "standard_code": "6-8.HG.1",
+  "standard_essential": true,
+  "reporting_category": "Human Geography",
+  "domain": "Human Geography",
+  "question_type": "multi_select",
+  "stimulus": {
+    "type": "text",
+    "content": "Geographers study many factors that explain why some areas have large populations while other areas have very few people."
+  },
+  "stem": "Which TWO factors most influence where large numbers of people choose to live?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "Availability of fresh water and food sources",
+      "correct": true
+    },
+    {
+      "id": "B",
+      "text": "A mild climate that supports year-round living",
+      "correct": true
+    },
+    {
+      "id": "C",
+      "text": "Being located far from any ocean or coastline",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "Having very steep and rocky mountain terrain",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "Fresh water, food sources, and mild climates are the main factors that attract large populations. Remote inland locations and steep terrain discourage settlement.",
+  "difficulty": "easy",
+  "tags": [
+    "population-distribution",
+    "settlement-factors"
+  ],
+  "generated_at": "2026-04-14T10:00:00Z"
+}

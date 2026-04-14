@@ -1,0 +1,43 @@
+{
+  "id": "q_hg0012",
+  "standard_code": "6-8.HG.3",
+  "standard_essential": true,
+  "reporting_category": "Human Geography",
+  "domain": "Human Geography",
+  "question_type": "multi_select",
+  "stimulus": {
+    "type": "text",
+    "content": "People around the world celebrate different holidays, eat different foods, and follow different traditions. These cultural traits often reflect the history, geography, and beliefs of each region."
+  },
+  "stem": "Which TWO examples best show how cultural traits vary across regions?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "People in Japan eat rice daily while Mexicans eat corn tortillas",
+      "correct": true
+    },
+    {
+      "id": "B",
+      "text": "Diwali is celebrated in India while Thanksgiving is celebrated in the U.S.",
+      "correct": true
+    },
+    {
+      "id": "C",
+      "text": "All countries around the world speak the same language",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "Every culture celebrates the exact same holidays",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "Different food traditions (rice vs. corn tortillas) and different holidays (Diwali vs. Thanksgiving) are clear examples of how cultural traits vary by region based on history and geography.",
+  "difficulty": "easy",
+  "tags": [
+    "cultural-traits",
+    "customs",
+    "regional-variation"
+  ],
+  "generated_at": "2026-04-14T10:00:00Z"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q_ms0007",
+  "standard_code": "6-8.MS.4",
+  "standard_essential": false,
+  "reporting_category": "Map Skills and Tools",
+  "domain": "Map Skills",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "When mapmakers create a flat map of Earth, they must stretch or shrink parts of the round surface to make it fit. This means every flat map has some distortion. On many common maps, land near the poles looks much bigger than it really is."
+  },
+  "stem": "Why do all flat maps of Earth contain some form of distortion?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "Earth's round surface cannot be shown perfectly flat",
+      "correct": true
+    },
+    {
+      "id": "B",
+      "text": "Mapmakers always make mistakes when drawing lines",
+      "correct": false
+    },
+    {
+      "id": "C",
+      "text": "Flat maps are too small to show the whole planet",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "The continents are always moving to new places",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "A sphere cannot be perfectly represented on a flat surface without stretching or compressing some areas. This is why all map projections have some distortion of size, shape, or distance.",
+  "difficulty": "medium",
+  "tags": [
+    "map-projections",
+    "distortion",
+    "flat-maps"
+  ],
+  "generated_at": "2026-04-14T10:00:00Z"
+}

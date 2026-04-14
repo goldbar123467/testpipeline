@@ -1,0 +1,43 @@
+{
+  "id": "q_ms0014",
+  "standard_code": "6-8.MS.2",
+  "standard_essential": true,
+  "reporting_category": "Map Skills and Tools",
+  "domain": "Map Skills",
+  "question_type": "multi_select",
+  "stimulus": {
+    "type": "text",
+    "content": "Different types of maps are designed for different purposes. A physical map shows natural features. A political map shows borders and capitals. A thematic map focuses on a specific topic like climate or population."
+  },
+  "stem": "Which TWO tasks would require a student to use a political map?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "Finding the capital city of a country",
+      "correct": true
+    },
+    {
+      "id": "B",
+      "text": "Locating the border between two nations",
+      "correct": true
+    },
+    {
+      "id": "C",
+      "text": "Measuring the height of a mountain range",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "Comparing annual rainfall across a region",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "Political maps show human-made features like country borders and capital cities. Mountain heights require a physical map, and rainfall data requires a thematic map.",
+  "difficulty": "easy",
+  "tags": [
+    "map-types",
+    "political-map",
+    "map-purpose"
+  ],
+  "generated_at": "2026-04-14T10:00:00Z"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q_ms0003",
+  "standard_code": "6-8.MS.2",
+  "standard_essential": true,
+  "reporting_category": "Map Skills and Tools",
+  "domain": "Map Skills",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "A student needs to find the borders between countries in Africa. Another student wants to see where the tallest mountains are located on the continent."
+  },
+  "stem": "Which types of maps should each student use to find the information they need?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "A political map for borders, a physical map for mountains",
+      "correct": true
+    },
+    {
+      "id": "B",
+      "text": "A physical map for borders, a political map for mountains",
+      "correct": false
+    },
+    {
+      "id": "C",
+      "text": "A road map for borders, a weather map for mountains",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "A thematic map for both borders and mountains",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "Political maps show human-made boundaries like country borders. Physical maps show natural features like mountains, rivers, and elevation. Each map type has a different purpose.",
+  "difficulty": "easy",
+  "tags": [
+    "map-types",
+    "political-map",
+    "physical-map"
+  ],
+  "generated_at": "2026-04-14T10:00:00Z"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q_wr0017",
+  "standard_code": "6-8.WR.5",
+  "standard_essential": false,
+  "reporting_category": "World Regions",
+  "domain": "World Regions",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "In 1991, the Soviet Union broke apart into 15 separate countries, including Russia, Ukraine, and Kazakhstan. Before 1991, all of these areas were part of one large country. This shows that political borders can change over time."
+  },
+  "stem": "What does the breakup of the Soviet Union show about political borders?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "Country borders can change due to political events",
+      "correct": true
+    },
+    {
+      "id": "B",
+      "text": "Country borders are permanent and never change",
+      "correct": false
+    },
+    {
+      "id": "C",
+      "text": "Borders only change when natural disasters strike",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "Borders are always decided by geographic features",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "The Soviet Union splitting into 15 countries in 1991 is a major example of how political borders can change due to political events, wars, or independence movements.",
+  "difficulty": "medium",
+  "tags": [
+    "political-boundaries",
+    "soviet-union",
+    "border-changes"
+  ],
+  "generated_at": "2026-04-14T10:00:00Z"
+}

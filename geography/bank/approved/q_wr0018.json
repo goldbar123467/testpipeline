@@ -1,0 +1,45 @@
+{
+  "id": "q_wr0018",
+  "standard_code": "6-8.WR.6",
+  "standard_essential": true,
+  "reporting_category": "World Regions",
+  "domain": "World Regions",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "Ancient Egypt developed along the Nile River in northeastern Africa. Each year, the Nile flooded and left behind rich soil on its banks. Egyptian farmers used this soil to grow crops that fed millions of people for thousands of years."
+  },
+  "stem": "How did the Nile River help the civilization of ancient Egypt grow and thrive?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "Annual floods left rich soil for growing crops",
+      "correct": true
+    },
+    {
+      "id": "B",
+      "text": "The river kept enemy armies from ever attacking",
+      "correct": false
+    },
+    {
+      "id": "C",
+      "text": "The Nile provided gold and silver for trade",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "The river created a cold climate good for farming",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "The Nile's annual floods deposited rich, fertile soil along its banks, allowing Egyptian farmers to grow enough food to support a large civilization for thousands of years.",
+  "difficulty": "easy",
+  "tags": [
+    "rivers",
+    "nile",
+    "egypt",
+    "civilization",
+    "agriculture"
+  ],
+  "generated_at": "2026-04-14T10:00:00Z"
+}

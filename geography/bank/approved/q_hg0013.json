@@ -1,0 +1,43 @@
+{
+  "id": "q_hg0013",
+  "standard_code": "6-8.HG.4",
+  "standard_essential": false,
+  "reporting_category": "Human Geography",
+  "domain": "Human Geography",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "In 1950, about 30 percent of the world's people lived in cities. Today, more than 55 percent live in urban areas. By 2050, experts predict nearly 70 percent of all people will live in cities."
+  },
+  "stem": "What trend does the passage describe about world population over time?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "More people are moving from cities to farms",
+      "correct": false
+    },
+    {
+      "id": "B",
+      "text": "The share of people living in cities is growing",
+      "correct": true
+    },
+    {
+      "id": "C",
+      "text": "Rural areas are growing faster than urban areas",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "The world population is staying the same size",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "The passage shows urbanization, the trend of an increasing share of people living in cities, growing from 30 percent in 1950 to a projected 70 percent by 2050.",
+  "difficulty": "easy",
+  "tags": [
+    "urbanization",
+    "population-trends",
+    "cities"
+  ],
+  "generated_at": "2026-04-14T10:00:00Z"
+}

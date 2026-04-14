@@ -1,0 +1,44 @@
+{
+  "id": "q_hg0019",
+  "standard_code": "6-8.HG.6",
+  "standard_essential": false,
+  "reporting_category": "Human Geography",
+  "domain": "Human Geography",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "A table shows data for two countries:\n\n\u2022 Country X: Birth rate = 40 per 1,000 people, Death rate = 10 per 1,000\n\u2022 Country Y: Birth rate = 10 per 1,000 people, Death rate = 9 per 1,000"
+  },
+  "stem": "Based on the data, which country's population is growing faster, and why?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "Country X, because more people are being born than dying",
+      "correct": true
+    },
+    {
+      "id": "B",
+      "text": "Country Y, because it has a lower death rate overall",
+      "correct": false
+    },
+    {
+      "id": "C",
+      "text": "Country X, because it has the fewest total people",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "Country Y, because its birth rate is very low",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "Country X has a much larger gap between births (40) and deaths (10), meaning 30 more people per 1,000 are added each year. Country Y only adds 1 person per 1,000, so it grows much slower.",
+  "difficulty": "medium",
+  "tags": [
+    "demographics",
+    "birth-rate",
+    "death-rate",
+    "population-growth"
+  ],
+  "generated_at": "2026-04-14T10:00:00Z"
+}

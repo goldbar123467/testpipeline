@@ -1,0 +1,44 @@
+{
+  "id": "q_ms0019",
+  "standard_code": "6-8.MS.5",
+  "standard_essential": false,
+  "reporting_category": "Map Skills and Tools",
+  "domain": "Map Skills",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "A city planner uses a computer system to layer different maps on top of each other. One layer shows roads, another shows buildings, and a third shows flood zones. This system is called a Geographic Information System, or GIS."
+  },
+  "stem": "How does a GIS help the city planner make better decisions?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "It combines many types of geographic data in layers",
+      "correct": true
+    },
+    {
+      "id": "B",
+      "text": "It replaces the need for any maps or other data",
+      "correct": false
+    },
+    {
+      "id": "C",
+      "text": "It automatically fixes all the problems in a city",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "It only shows one type of information at a time",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "GIS layers multiple types of geographic data so users can see how different features relate to each other. The city planner can view roads, buildings, and flood zones together to make informed decisions.",
+  "difficulty": "medium",
+  "tags": [
+    "geographic-tools",
+    "gis",
+    "technology",
+    "data-layers"
+  ],
+  "generated_at": "2026-04-14T10:00:00Z"
+}

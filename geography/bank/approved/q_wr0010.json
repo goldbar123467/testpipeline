@@ -1,0 +1,45 @@
+{
+  "id": "q_wr0010",
+  "standard_code": "6-8.WR.3",
+  "standard_essential": true,
+  "reporting_category": "World Regions",
+  "domain": "World Regions",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "China is the most populous country in the world and is located in East Asia. Its capital is Beijing. China's landscape includes the Gobi Desert in the north, the Himalaya Mountains in the southwest, and the Yangtze River, Asia's longest river."
+  },
+  "stem": "Which physical feature described in the passage is the longest river in Asia?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "The Yangtze River in China",
+      "correct": true
+    },
+    {
+      "id": "B",
+      "text": "The Gobi Desert in northern China",
+      "correct": false
+    },
+    {
+      "id": "C",
+      "text": "The Himalaya Mountains in the southwest",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "The capital city of Beijing in the east",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "The passage identifies the Yangtze River as Asia's longest river. The Gobi is a desert, the Himalayas are mountains, and Beijing is a city, not a river.",
+  "difficulty": "easy",
+  "tags": [
+    "world-regions",
+    "asia",
+    "china",
+    "yangtze",
+    "rivers"
+  ],
+  "generated_at": "2026-04-14T10:00:00Z"
+}

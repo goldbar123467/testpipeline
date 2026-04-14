@@ -1,0 +1,45 @@
+{
+  "id": "q_er0015",
+  "standard_code": "6-8.ER.5",
+  "standard_essential": true,
+  "reporting_category": "Environment and Resources",
+  "domain": "Environment",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "As cities grow larger, they replace natural land with buildings, roads, and parking lots. This is called urban sprawl. When rain falls on concrete and asphalt, it cannot soak into the ground. Instead, it flows into storm drains and can cause flooding."
+  },
+  "stem": "How does urban sprawl change the way rainwater moves through the environment?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "Water runs off hard surfaces instead of soaking into soil",
+      "correct": true
+    },
+    {
+      "id": "B",
+      "text": "Water soaks into concrete faster than it soaks into soil",
+      "correct": false
+    },
+    {
+      "id": "C",
+      "text": "Less rain falls in cities than in nearby rural areas",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "Parking lots absorb more water than forests or grassland",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "Urban sprawl replaces natural land with impermeable surfaces like concrete and asphalt. Rainwater cannot soak in, so it runs off into storm drains, increasing the risk of flooding.",
+  "difficulty": "medium",
+  "tags": [
+    "human-impact",
+    "urbanization",
+    "urban-sprawl",
+    "runoff",
+    "flooding"
+  ],
+  "generated_at": "2026-04-14T10:00:00Z"
+}

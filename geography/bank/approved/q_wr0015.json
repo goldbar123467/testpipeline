@@ -1,0 +1,44 @@
+{
+  "id": "q_wr0015",
+  "standard_code": "6-8.WR.4",
+  "standard_essential": false,
+  "reporting_category": "World Regions",
+  "domain": "World Regions",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "The Panama Canal is a waterway that cuts through Central America. It allows ships to travel between the Atlantic and Pacific Oceans without sailing around the southern tip of South America, saving weeks of travel time."
+  },
+  "stem": "Why is the Panama Canal important to world trade and transportation?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "It provides a shortcut between the Atlantic and Pacific Oceans",
+      "correct": true
+    },
+    {
+      "id": "B",
+      "text": "It blocks ships from crossing between two oceans",
+      "correct": false
+    },
+    {
+      "id": "C",
+      "text": "It connects the Mediterranean Sea to the Indian Ocean",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "It allows trains to cross from North to South America",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "The Panama Canal provides a shortcut for ships traveling between the Atlantic and Pacific Oceans, saving thousands of kilometers and weeks of travel compared to going around South America.",
+  "difficulty": "easy",
+  "tags": [
+    "trade",
+    "transportation",
+    "panama-canal",
+    "shipping"
+  ],
+  "generated_at": "2026-04-14T10:00:00Z"
+}

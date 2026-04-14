@@ -1,0 +1,44 @@
+{
+  "id": "q_er0013",
+  "standard_code": "6-8.ER.5",
+  "standard_essential": true,
+  "reporting_category": "Environment and Resources",
+  "domain": "Environment",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "Large areas of the Amazon Rainforest are being cleared to make room for cattle ranches and farms. When trees are cut down, animals lose their homes. The soil washes away more easily, and less carbon dioxide is absorbed from the air."
+  },
+  "stem": "What are the effects of clearing the Amazon Rainforest described in the passage?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "Animals lose habitats, soil erodes, and less carbon is absorbed",
+      "correct": true
+    },
+    {
+      "id": "B",
+      "text": "New forests grow back faster than they are cut down",
+      "correct": false
+    },
+    {
+      "id": "C",
+      "text": "The cleared land becomes too cold for farming or ranching",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "More animals move in because there is more open space",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "Deforestation causes habitat loss for animals, increased soil erosion from rain, and reduced carbon absorption since there are fewer trees to take in carbon dioxide.",
+  "difficulty": "medium",
+  "tags": [
+    "human-impact",
+    "deforestation",
+    "amazon",
+    "habitat-loss"
+  ],
+  "generated_at": "2026-04-14T10:00:00Z"
+}

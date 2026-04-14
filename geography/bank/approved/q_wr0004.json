@@ -1,0 +1,44 @@
+{
+  "id": "q_wr0004",
+  "standard_code": "6-8.WR.1",
+  "standard_essential": true,
+  "reporting_category": "World Regions",
+  "domain": "World Regions",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "South America is home to the Amazon River, which carries more water than any other river on Earth. The continent also has the Andes Mountains, the longest mountain range in the world, stretching along the western coast."
+  },
+  "stem": "What are two major physical features that define the geography of South America?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "The Amazon River and the Andes Mountains",
+      "correct": true
+    },
+    {
+      "id": "B",
+      "text": "The Nile River and the Rocky Mountains",
+      "correct": false
+    },
+    {
+      "id": "C",
+      "text": "The Sahara Desert and the Great Barrier Reef",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "The Mississippi River and the Alps Mountains",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "The passage identifies the Amazon River (largest by water volume) and the Andes Mountains (longest mountain range) as two defining physical features of South America.",
+  "difficulty": "easy",
+  "tags": [
+    "world-regions",
+    "south-america",
+    "amazon",
+    "andes"
+  ],
+  "generated_at": "2026-04-14T10:00:00Z"
+}

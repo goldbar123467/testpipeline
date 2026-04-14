@@ -1,0 +1,44 @@
+{
+  "id": "q_wr0002",
+  "standard_code": "6-8.WR.1",
+  "standard_essential": true,
+  "reporting_category": "World Regions",
+  "domain": "World Regions",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "Asia contains the highest mountain range in the world, the Himalayas. It also has large deserts like the Gobi and fertile river valleys like those along the Ganges and Yangtze rivers. More than four billion people live in Asia."
+  },
+  "stem": "What do the physical features of Asia tell us about the continent?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "It has a wide range of landforms and environments",
+      "correct": true
+    },
+    {
+      "id": "B",
+      "text": "It is made up entirely of flat river plains",
+      "correct": false
+    },
+    {
+      "id": "C",
+      "text": "It has fewer people than any other continent",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "It has no mountains or deserts of any kind",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "Asia has mountains (Himalayas), deserts (Gobi), and fertile river valleys (Ganges, Yangtze), showing it has a wide range of landforms and environments.",
+  "difficulty": "easy",
+  "tags": [
+    "world-regions",
+    "asia",
+    "physical-features",
+    "landforms"
+  ],
+  "generated_at": "2026-04-14T10:00:00Z"
+}

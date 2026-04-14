@@ -1,0 +1,44 @@
+{
+  "id": "q_er0003",
+  "standard_code": "6-8.ER.1",
+  "standard_essential": true,
+  "reporting_category": "Environment and Resources",
+  "domain": "Environment",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "Saudi Arabia has large amounts of oil beneath its land. Brazil has vast forests and rivers that provide wood and water. Japan has very few natural resources of its own and must import many raw materials from other countries."
+  },
+  "stem": "What do these examples show about how natural resources are spread around the world?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "Resources are not distributed evenly across all regions",
+      "correct": true
+    },
+    {
+      "id": "B",
+      "text": "Every country has the same types and amounts of resources",
+      "correct": false
+    },
+    {
+      "id": "C",
+      "text": "Only countries near the equator have natural resources",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "Japan has more natural resources than any other country",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "The examples show that natural resources are unevenly distributed. Saudi Arabia is rich in oil, Brazil has forests and water, but Japan must import materials because it has few resources.",
+  "difficulty": "medium",
+  "tags": [
+    "resources",
+    "distribution",
+    "global-trade",
+    "inequality"
+  ],
+  "generated_at": "2026-04-14T10:00:00Z"
+}

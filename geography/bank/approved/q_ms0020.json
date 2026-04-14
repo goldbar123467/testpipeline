@@ -1,0 +1,44 @@
+{
+  "id": "q_ms0020",
+  "standard_code": "6-8.MS.6",
+  "standard_essential": true,
+  "reporting_category": "Map Skills and Tools",
+  "domain": "Map Skills",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "Earth has five major oceans: the Pacific, Atlantic, Indian, Southern, and Arctic. The Pacific Ocean is the largest and deepest. The Arctic Ocean is the smallest and is mostly covered by ice."
+  },
+  "stem": "Based on the passage, how do the Pacific and Arctic Oceans compare to each other?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "The Pacific is the largest while the Arctic is the smallest",
+      "correct": true
+    },
+    {
+      "id": "B",
+      "text": "The Arctic is larger and deeper than the Pacific Ocean",
+      "correct": false
+    },
+    {
+      "id": "C",
+      "text": "Both oceans are the same size but differ in temperature",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "The Pacific is covered by ice while the Arctic is not",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "The passage states that the Pacific is the largest and deepest ocean, while the Arctic is the smallest and mostly covered by ice, making them opposite extremes among Earth's five oceans.",
+  "difficulty": "easy",
+  "tags": [
+    "oceans",
+    "pacific",
+    "arctic",
+    "world-geography"
+  ],
+  "generated_at": "2026-04-14T10:00:00Z"
+}
