@@ -1,0 +1,44 @@
+{
+  "id": "q_ms0001",
+  "standard_code": "6-8.MS.1",
+  "standard_essential": true,
+  "reporting_category": "Map Skills and Tools",
+  "domain": "Map Skills",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "A geography teacher tells the class that a city is located at 30 degrees North latitude and 90 degrees West longitude. She explains that latitude lines run east and west, and longitude lines run north and south."
+  },
+  "stem": "Based on these coordinates, in which part of the world is this city most likely located?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "The southeastern United States",
+      "correct": true
+    },
+    {
+      "id": "B",
+      "text": "The northern coast of Australia",
+      "correct": false
+    },
+    {
+      "id": "C",
+      "text": "The eastern edge of Asia",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "The southern tip of South America",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "30 degrees North and 90 degrees West places the city in the southeastern United States, near the Gulf Coast. This is close to the location of New Orleans, Louisiana.",
+  "difficulty": "medium",
+  "tags": [
+    "latitude",
+    "longitude",
+    "coordinates",
+    "absolute-location"
+  ],
+  "generated_at": "2026-04-14T10:00:00Z"
+}

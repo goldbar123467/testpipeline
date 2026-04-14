@@ -1035,6 +1035,228 @@ ALL_QUESTIONS = [
         "tags": ["demographics", "population-density", "urban"],
         "generated_at": TIMESTAMP
     },
+
+    # ── MAP SKILLS (20 questions) ────────────────────────────────────
+
+    # MS.1 - Latitude and longitude (reading coordinates)
+    {
+        "id": "q_ms0001",
+        "standard_code": "6-8.MS.1",
+        "standard_essential": True,
+        "reporting_category": "Map Skills and Tools",
+        "domain": "Map Skills",
+        "question_type": "multiple_choice",
+        "stimulus": {"type": "text", "content": "A geography teacher tells the class that a city is located at 30 degrees North latitude and 90 degrees West longitude. She explains that latitude lines run east and west, and longitude lines run north and south."},
+        "stem": "Based on these coordinates, in which part of the world is this city most likely located?",
+        "choices": [
+            {"id": "A", "text": "The southeastern United States", "correct": True},
+            {"id": "B", "text": "The northern coast of Australia", "correct": False},
+            {"id": "C", "text": "The eastern edge of Asia", "correct": False},
+            {"id": "D", "text": "The southern tip of South America", "correct": False}
+        ],
+        "answer_explanation": "30 degrees North and 90 degrees West places the city in the southeastern United States, near the Gulf Coast. This is close to the location of New Orleans, Louisiana.",
+        "difficulty": "medium",
+        "tags": ["latitude", "longitude", "coordinates", "absolute-location"],
+        "generated_at": TIMESTAMP
+    },
+
+    # MS.1 - Latitude and longitude (equator/prime meridian)
+    {
+        "id": "q_ms0002",
+        "standard_code": "6-8.MS.1",
+        "standard_essential": True,
+        "reporting_category": "Map Skills and Tools",
+        "domain": "Map Skills",
+        "question_type": "multiple_choice",
+        "stimulus": {"type": "text", "content": "The equator is an imaginary line at 0 degrees latitude that divides Earth into the Northern and Southern Hemispheres. The prime meridian is a line at 0 degrees longitude that divides Earth into the Eastern and Western Hemispheres."},
+        "stem": "What do the equator and the prime meridian have in common?",
+        "choices": [
+            {"id": "A", "text": "They both divide Earth into two equal halves", "correct": True},
+            {"id": "B", "text": "They both run from the North Pole to the South Pole", "correct": False},
+            {"id": "C", "text": "They both measure distance east and west only", "correct": False},
+            {"id": "D", "text": "They both pass through the United States", "correct": False}
+        ],
+        "answer_explanation": "Both the equator and the prime meridian divide Earth into two hemispheres. The equator separates north from south, while the prime meridian separates east from west.",
+        "difficulty": "easy",
+        "tags": ["latitude", "longitude", "equator", "prime-meridian"],
+        "generated_at": TIMESTAMP
+    },
+
+    # MS.2 - Map types (political vs physical)
+    {
+        "id": "q_ms0003",
+        "standard_code": "6-8.MS.2",
+        "standard_essential": True,
+        "reporting_category": "Map Skills and Tools",
+        "domain": "Map Skills",
+        "question_type": "multiple_choice",
+        "stimulus": {"type": "text", "content": "A student needs to find the borders between countries in Africa. Another student wants to see where the tallest mountains are located on the continent."},
+        "stem": "Which types of maps should each student use to find the information they need?",
+        "choices": [
+            {"id": "A", "text": "A political map for borders, a physical map for mountains", "correct": True},
+            {"id": "B", "text": "A physical map for borders, a political map for mountains", "correct": False},
+            {"id": "C", "text": "A road map for borders, a weather map for mountains", "correct": False},
+            {"id": "D", "text": "A thematic map for both borders and mountains", "correct": False}
+        ],
+        "answer_explanation": "Political maps show human-made boundaries like country borders. Physical maps show natural features like mountains, rivers, and elevation. Each map type has a different purpose.",
+        "difficulty": "easy",
+        "tags": ["map-types", "political-map", "physical-map"],
+        "generated_at": TIMESTAMP
+    },
+
+    # MS.2 - Map types (thematic map)
+    {
+        "id": "q_ms0004",
+        "standard_code": "6-8.MS.2",
+        "standard_essential": True,
+        "reporting_category": "Map Skills and Tools",
+        "domain": "Map Skills",
+        "question_type": "multiple_choice",
+        "stimulus": {"type": "text", "content": "A map of the United States uses different colors to show how much rainfall each state receives per year. States with heavy rainfall are dark blue, and states with little rainfall are light yellow."},
+        "stem": "What type of map is described in the passage?",
+        "choices": [
+            {"id": "A", "text": "A political map showing state governments", "correct": False},
+            {"id": "B", "text": "A thematic map showing rainfall patterns", "correct": True},
+            {"id": "C", "text": "A physical map showing mountains and rivers", "correct": False},
+            {"id": "D", "text": "A road map showing highways between cities", "correct": False}
+        ],
+        "answer_explanation": "A thematic map focuses on a specific topic or theme, such as rainfall, population, or temperature. This map uses color to show rainfall amounts across states.",
+        "difficulty": "easy",
+        "tags": ["map-types", "thematic-map", "rainfall"],
+        "generated_at": TIMESTAMP
+    },
+
+    # MS.3 - Map elements (scale)
+    {
+        "id": "q_ms0005",
+        "standard_code": "6-8.MS.3",
+        "standard_essential": True,
+        "reporting_category": "Map Skills and Tools",
+        "domain": "Map Skills",
+        "question_type": "multiple_choice",
+        "stimulus": {"type": "text", "content": "A map of Texas has a scale bar that shows 1 centimeter equals 100 kilometers. A student measures the distance between two cities on the map and finds they are 3 centimeters apart."},
+        "stem": "Based on the map scale, how far apart are the two cities in real life?",
+        "choices": [
+            {"id": "A", "text": "100 kilometers apart", "correct": False},
+            {"id": "B", "text": "200 kilometers apart", "correct": False},
+            {"id": "C", "text": "300 kilometers apart", "correct": True},
+            {"id": "D", "text": "400 kilometers apart", "correct": False}
+        ],
+        "answer_explanation": "If 1 centimeter on the map equals 100 kilometers, then 3 centimeters equals 3 times 100, which is 300 kilometers in real life.",
+        "difficulty": "easy",
+        "tags": ["map-elements", "scale", "distance"],
+        "generated_at": TIMESTAMP
+    },
+
+    # MS.3 - Map elements (legend/compass rose)
+    {
+        "id": "q_ms0006",
+        "standard_code": "6-8.MS.3",
+        "standard_essential": True,
+        "reporting_category": "Map Skills and Tools",
+        "domain": "Map Skills",
+        "question_type": "multi_select",
+        "stimulus": {"type": "text", "content": "A student is looking at a map that shows parks, schools, and hospitals in a neighborhood. Small symbols are used for each type of building. An arrow on the map points to the top of the page."},
+        "stem": "Which TWO map elements would help the student understand the symbols and directions on this map?",
+        "choices": [
+            {"id": "A", "text": "A legend that explains what each symbol means", "correct": True},
+            {"id": "B", "text": "A compass rose that shows north, south, east, and west", "correct": True},
+            {"id": "C", "text": "A title that names the type of government", "correct": False},
+            {"id": "D", "text": "A graph that shows the population over time", "correct": False}
+        ],
+        "answer_explanation": "A legend (or key) explains what each symbol on the map represents. A compass rose shows cardinal directions so the reader can tell which way is north, south, east, and west.",
+        "difficulty": "easy",
+        "tags": ["map-elements", "legend", "compass-rose"],
+        "generated_at": TIMESTAMP
+    },
+
+    # MS.4 - Map projections (distortions)
+    {
+        "id": "q_ms0007",
+        "standard_code": "6-8.MS.4",
+        "standard_essential": False,
+        "reporting_category": "Map Skills and Tools",
+        "domain": "Map Skills",
+        "question_type": "multiple_choice",
+        "stimulus": {"type": "text", "content": "When mapmakers create a flat map of Earth, they must stretch or shrink parts of the round surface to make it fit. This means every flat map has some distortion. On many common maps, land near the poles looks much bigger than it really is."},
+        "stem": "Why do all flat maps of Earth contain some form of distortion?",
+        "choices": [
+            {"id": "A", "text": "Earth's round surface cannot be shown perfectly flat", "correct": True},
+            {"id": "B", "text": "Mapmakers always make mistakes when drawing lines", "correct": False},
+            {"id": "C", "text": "Flat maps are too small to show the whole planet", "correct": False},
+            {"id": "D", "text": "The continents are always moving to new places", "correct": False}
+        ],
+        "answer_explanation": "A sphere cannot be perfectly represented on a flat surface without stretching or compressing some areas. This is why all map projections have some distortion of size, shape, or distance.",
+        "difficulty": "medium",
+        "tags": ["map-projections", "distortion", "flat-maps"],
+        "generated_at": TIMESTAMP
+    },
+
+    # MS.5 - Geographic tools (GPS)
+    {
+        "id": "q_ms0008",
+        "standard_code": "6-8.MS.5",
+        "standard_essential": False,
+        "reporting_category": "Map Skills and Tools",
+        "domain": "Map Skills",
+        "question_type": "multiple_choice",
+        "stimulus": {"type": "text", "content": "A hiker uses a device that receives signals from satellites orbiting Earth. The device shows her exact location on a digital map and gives her directions to the nearest trail. This technology is called the Global Positioning System."},
+        "stem": "How does GPS technology help the hiker in this passage?",
+        "choices": [
+            {"id": "A", "text": "It uses satellites to find her exact location", "correct": True},
+            {"id": "B", "text": "It measures the temperature of the air around her", "correct": False},
+            {"id": "C", "text": "It predicts the weather for the next week", "correct": False},
+            {"id": "D", "text": "It takes pictures of the trail from space", "correct": False}
+        ],
+        "answer_explanation": "GPS uses signals from satellites to determine a person's exact location on Earth. The hiker's device receives these signals and displays her position on a digital map.",
+        "difficulty": "easy",
+        "tags": ["geographic-tools", "gps", "technology"],
+        "generated_at": TIMESTAMP
+    },
+
+    # MS.6 - Hemispheres, continents, oceans (continents)
+    {
+        "id": "q_ms0009",
+        "standard_code": "6-8.MS.6",
+        "standard_essential": True,
+        "reporting_category": "Map Skills and Tools",
+        "domain": "Map Skills",
+        "question_type": "multiple_choice",
+        "stimulus": {"type": "text", "content": "Earth has seven continents: Africa, Antarctica, Asia, Australia, Europe, North America, and South America. Asia is the largest continent by both land area and population."},
+        "stem": "According to the passage, what makes Asia different from the other six continents?",
+        "choices": [
+            {"id": "A", "text": "It is the largest in both area and population", "correct": True},
+            {"id": "B", "text": "It is the only continent surrounded by water", "correct": False},
+            {"id": "C", "text": "It has the fewest countries of any continent", "correct": False},
+            {"id": "D", "text": "It is located entirely in the Southern Hemisphere", "correct": False}
+        ],
+        "answer_explanation": "The passage states that Asia is the largest continent by both land area and population, making it stand out from the other six continents.",
+        "difficulty": "easy",
+        "tags": ["continents", "asia", "world-geography"],
+        "generated_at": TIMESTAMP
+    },
+
+    # MS.6 - Hemispheres, continents, oceans (hemispheres)
+    {
+        "id": "q_ms0010",
+        "standard_code": "6-8.MS.6",
+        "standard_essential": True,
+        "reporting_category": "Map Skills and Tools",
+        "domain": "Map Skills",
+        "question_type": "multi_select",
+        "stimulus": {"type": "text", "content": "Earth is divided into four hemispheres. The equator divides Earth into the Northern and Southern Hemispheres. The prime meridian divides Earth into the Eastern and Western Hemispheres."},
+        "stem": "Which TWO statements about Earth's hemispheres are correct based on the passage?",
+        "choices": [
+            {"id": "A", "text": "The equator separates the Northern and Southern Hemispheres", "correct": True},
+            {"id": "B", "text": "The prime meridian separates the Eastern and Western Hemispheres", "correct": True},
+            {"id": "C", "text": "The equator divides Earth into Eastern and Western halves", "correct": False},
+            {"id": "D", "text": "The prime meridian runs east to west around Earth", "correct": False}
+        ],
+        "answer_explanation": "The equator runs east-west and separates the Northern and Southern Hemispheres. The prime meridian runs north-south and separates the Eastern and Western Hemispheres.",
+        "difficulty": "easy",
+        "tags": ["hemispheres", "equator", "prime-meridian"],
+        "generated_at": TIMESTAMP
+    },
 ]
 
 

@@ -1,0 +1,43 @@
+{
+  "id": "q_ms0009",
+  "standard_code": "6-8.MS.6",
+  "standard_essential": true,
+  "reporting_category": "Map Skills and Tools",
+  "domain": "Map Skills",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "Earth has seven continents: Africa, Antarctica, Asia, Australia, Europe, North America, and South America. Asia is the largest continent by both land area and population."
+  },
+  "stem": "According to the passage, what makes Asia different from the other six continents?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "It is the largest in both area and population",
+      "correct": true
+    },
+    {
+      "id": "B",
+      "text": "It is the only continent surrounded by water",
+      "correct": false
+    },
+    {
+      "id": "C",
+      "text": "It has the fewest countries of any continent",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "It is located entirely in the Southern Hemisphere",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "The passage states that Asia is the largest continent by both land area and population, making it stand out from the other six continents.",
+  "difficulty": "easy",
+  "tags": [
+    "continents",
+    "asia",
+    "world-geography"
+  ],
+  "generated_at": "2026-04-14T10:00:00Z"
+}

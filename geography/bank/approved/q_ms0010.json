@@ -1,0 +1,43 @@
+{
+  "id": "q_ms0010",
+  "standard_code": "6-8.MS.6",
+  "standard_essential": true,
+  "reporting_category": "Map Skills and Tools",
+  "domain": "Map Skills",
+  "question_type": "multi_select",
+  "stimulus": {
+    "type": "text",
+    "content": "Earth is divided into four hemispheres. The equator divides Earth into the Northern and Southern Hemispheres. The prime meridian divides Earth into the Eastern and Western Hemispheres."
+  },
+  "stem": "Which TWO statements about Earth's hemispheres are correct based on the passage?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "The equator separates the Northern and Southern Hemispheres",
+      "correct": true
+    },
+    {
+      "id": "B",
+      "text": "The prime meridian separates the Eastern and Western Hemispheres",
+      "correct": true
+    },
+    {
+      "id": "C",
+      "text": "The equator divides Earth into Eastern and Western halves",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "The prime meridian runs east to west around Earth",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "The equator runs east-west and separates the Northern and Southern Hemispheres. The prime meridian runs north-south and separates the Eastern and Western Hemispheres.",
+  "difficulty": "easy",
+  "tags": [
+    "hemispheres",
+    "equator",
+    "prime-meridian"
+  ],
+  "generated_at": "2026-04-14T10:00:00Z"
+}

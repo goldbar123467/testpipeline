@@ -1,0 +1,43 @@
+{
+  "id": "q_ms0006",
+  "standard_code": "6-8.MS.3",
+  "standard_essential": true,
+  "reporting_category": "Map Skills and Tools",
+  "domain": "Map Skills",
+  "question_type": "multi_select",
+  "stimulus": {
+    "type": "text",
+    "content": "A student is looking at a map that shows parks, schools, and hospitals in a neighborhood. Small symbols are used for each type of building. An arrow on the map points to the top of the page."
+  },
+  "stem": "Which TWO map elements would help the student understand the symbols and directions on this map?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "A legend that explains what each symbol means",
+      "correct": true
+    },
+    {
+      "id": "B",
+      "text": "A compass rose that shows north, south, east, and west",
+      "correct": true
+    },
+    {
+      "id": "C",
+      "text": "A title that names the type of government",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "A graph that shows the population over time",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "A legend (or key) explains what each symbol on the map represents. A compass rose shows cardinal directions so the reader can tell which way is north, south, east, and west.",
+  "difficulty": "easy",
+  "tags": [
+    "map-elements",
+    "legend",
+    "compass-rose"
+  ],
+  "generated_at": "2026-04-14T10:00:00Z"
+}

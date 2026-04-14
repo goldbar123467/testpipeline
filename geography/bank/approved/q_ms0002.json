@@ -1,0 +1,44 @@
+{
+  "id": "q_ms0002",
+  "standard_code": "6-8.MS.1",
+  "standard_essential": true,
+  "reporting_category": "Map Skills and Tools",
+  "domain": "Map Skills",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "The equator is an imaginary line at 0 degrees latitude that divides Earth into the Northern and Southern Hemispheres. The prime meridian is a line at 0 degrees longitude that divides Earth into the Eastern and Western Hemispheres."
+  },
+  "stem": "What do the equator and the prime meridian have in common?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "They both divide Earth into two equal halves",
+      "correct": true
+    },
+    {
+      "id": "B",
+      "text": "They both run from the North Pole to the South Pole",
+      "correct": false
+    },
+    {
+      "id": "C",
+      "text": "They both measure distance east and west only",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "They both pass through the United States",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "Both the equator and the prime meridian divide Earth into two hemispheres. The equator separates north from south, while the prime meridian separates east from west.",
+  "difficulty": "easy",
+  "tags": [
+    "latitude",
+    "longitude",
+    "equator",
+    "prime-meridian"
+  ],
+  "generated_at": "2026-04-14T10:00:00Z"
+}

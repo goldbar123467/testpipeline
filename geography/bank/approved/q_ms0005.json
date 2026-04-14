@@ -1,0 +1,43 @@
+{
+  "id": "q_ms0005",
+  "standard_code": "6-8.MS.3",
+  "standard_essential": true,
+  "reporting_category": "Map Skills and Tools",
+  "domain": "Map Skills",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "A map of Texas has a scale bar that shows 1 centimeter equals 100 kilometers. A student measures the distance between two cities on the map and finds they are 3 centimeters apart."
+  },
+  "stem": "Based on the map scale, how far apart are the two cities in real life?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "100 kilometers apart",
+      "correct": false
+    },
+    {
+      "id": "B",
+      "text": "200 kilometers apart",
+      "correct": false
+    },
+    {
+      "id": "C",
+      "text": "300 kilometers apart",
+      "correct": true
+    },
+    {
+      "id": "D",
+      "text": "400 kilometers apart",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "If 1 centimeter on the map equals 100 kilometers, then 3 centimeters equals 3 times 100, which is 300 kilometers in real life.",
+  "difficulty": "easy",
+  "tags": [
+    "map-elements",
+    "scale",
+    "distance"
+  ],
+  "generated_at": "2026-04-14T10:00:00Z"
+}
