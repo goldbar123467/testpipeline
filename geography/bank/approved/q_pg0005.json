@@ -1,0 +1,43 @@
+{
+  "id": "q_pg0005",
+  "standard_code": "6-8.PG.3",
+  "standard_essential": true,
+  "reporting_category": "Physical Geography",
+  "domain": "Physical Geography",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "A student drew a diagram of the water cycle. The diagram shows the sun heating a lake. Water rises as vapor into the air, forms clouds, and then falls back to Earth as rain. The rain flows into streams and rivers and eventually returns to the lake."
+  },
+  "stem": "In the student's diagram, what process causes water to rise from the lake into the air?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "Condensation",
+      "correct": false
+    },
+    {
+      "id": "B",
+      "text": "Precipitation",
+      "correct": false
+    },
+    {
+      "id": "C",
+      "text": "Evaporation",
+      "correct": true
+    },
+    {
+      "id": "D",
+      "text": "Collection",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "Evaporation is the process where the sun heats liquid water and turns it into water vapor that rises into the air. Condensation forms clouds, precipitation is rain or snow falling, and collection is water gathering in bodies of water.",
+  "difficulty": "easy",
+  "tags": [
+    "water-cycle",
+    "evaporation",
+    "earth-systems"
+  ],
+  "generated_at": "2026-04-14T10:00:00Z"
+}

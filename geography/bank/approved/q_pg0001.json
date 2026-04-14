@@ -1,0 +1,43 @@
+{
+  "id": "q_pg0001",
+  "standard_code": "6-8.PG.1",
+  "standard_essential": true,
+  "reporting_category": "Physical Geography",
+  "domain": "Physical Geography",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "Read the description below:\n\nThis landform is a large, flat area of land that is raised above the surrounding land on at least one side. It is sometimes called a tableland. The Colorado Plateau in the southwestern United States is one example."
+  },
+  "stem": "Based on the description, which type of landform is being described?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "A plateau",
+      "correct": true
+    },
+    {
+      "id": "B",
+      "text": "A valley",
+      "correct": false
+    },
+    {
+      "id": "C",
+      "text": "A peninsula",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "A delta",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "A plateau is a flat, elevated landform sometimes called a tableland. A valley is low-lying land between hills, a peninsula extends into water, and a delta forms where a river meets the sea.",
+  "difficulty": "easy",
+  "tags": [
+    "landforms",
+    "plateau",
+    "physical-features"
+  ],
+  "generated_at": "2026-04-14T10:00:00Z"
+}
