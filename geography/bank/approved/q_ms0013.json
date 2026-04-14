@@ -1,0 +1,44 @@
+{
+  "id": "q_ms0013",
+  "standard_code": "6-8.MS.2",
+  "standard_essential": true,
+  "reporting_category": "Map Skills and Tools",
+  "domain": "Map Skills",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "A topographic map uses curved lines called contour lines to show the shape and elevation of the land. Lines that are close together mean the land is steep. Lines that are far apart mean the land is flat or gently sloping."
+  },
+  "stem": "What can a person learn from studying the contour lines on a topographic map?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "How steep or flat the land is in an area",
+      "correct": true
+    },
+    {
+      "id": "B",
+      "text": "What language the people in the area speak",
+      "correct": false
+    },
+    {
+      "id": "C",
+      "text": "How much rain falls in the area each year",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "Which countries share a border in the area",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "Contour lines on a topographic map show elevation and slope. Closely spaced lines indicate steep terrain, while widely spaced lines indicate flat or gentle terrain.",
+  "difficulty": "medium",
+  "tags": [
+    "map-types",
+    "topographic-map",
+    "contour-lines",
+    "elevation"
+  ],
+  "generated_at": "2026-04-14T10:00:00Z"
+}

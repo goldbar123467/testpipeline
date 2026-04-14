@@ -58,6 +58,27 @@ CATEGORY_DEFS = [
         "name": "By the Numbers",
         "codes": ["6-8.HG.5", "6-8.HG.6"],
     },
+    # ── Round 3: Map Skills ──
+    {
+        "name": "X Marks the Spot",
+        "codes": ["6-8.MS.1"],
+    },
+    {
+        "name": "Map Masters",
+        "codes": ["6-8.MS.2"],
+    },
+    {
+        "name": "Keys & Scales",
+        "codes": ["6-8.MS.3"],
+    },
+    {
+        "name": "Flat Earth Problems",
+        "codes": ["6-8.MS.4", "6-8.MS.5"],
+    },
+    {
+        "name": "Around the Globe",
+        "codes": ["6-8.MS.6", "6-8.MS.1"],
+    },
 ]
 
 CATEGORY_SIZE = 5

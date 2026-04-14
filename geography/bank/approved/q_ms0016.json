@@ -1,0 +1,44 @@
+{
+  "id": "q_ms0016",
+  "standard_code": "6-8.MS.3",
+  "standard_essential": true,
+  "reporting_category": "Map Skills and Tools",
+  "domain": "Map Skills",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "Two maps show the same city. Map A has a scale of 1 centimeter equals 1 kilometer. Map B has a scale of 1 centimeter equals 10 kilometers. Both maps are printed on paper the same size."
+  },
+  "stem": "What is the main difference between what these two maps show?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "Map A shows a smaller area with more detail",
+      "correct": true
+    },
+    {
+      "id": "B",
+      "text": "Map B shows a smaller area with more detail",
+      "correct": false
+    },
+    {
+      "id": "C",
+      "text": "Both maps show the same amount of detail",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "Map A covers a larger area than Map B does",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "Map A has a larger scale (1 cm = 1 km), so it shows a smaller area but with more detail. Map B has a smaller scale (1 cm = 10 km), so it covers a larger area but with less detail.",
+  "difficulty": "medium",
+  "tags": [
+    "map-elements",
+    "scale",
+    "map-detail",
+    "comparison"
+  ],
+  "generated_at": "2026-04-14T10:00:00Z"
+}

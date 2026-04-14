@@ -1,0 +1,44 @@
+{
+  "id": "q_ms0015",
+  "standard_code": "6-8.MS.3",
+  "standard_essential": true,
+  "reporting_category": "Map Skills and Tools",
+  "domain": "Map Skills",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "A student opens a map that has the title \"Population Density of South America.\" The map uses different shades of color, with darker shades showing areas where more people live. A legend on the side explains what each shade means."
+  },
+  "stem": "How do the title and legend work together to help the student read this map?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "The title names the topic, and the legend explains the colors",
+      "correct": true
+    },
+    {
+      "id": "B",
+      "text": "The title shows direction, and the legend shows distance",
+      "correct": false
+    },
+    {
+      "id": "C",
+      "text": "The title lists all countries, and the legend shows borders",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "The title gives the map scale, and the legend shows rivers",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "The map title tells the reader what the map is about (population density of South America). The legend explains what the different shades of color represent, helping the reader understand the data.",
+  "difficulty": "easy",
+  "tags": [
+    "map-elements",
+    "title",
+    "legend",
+    "reading-maps"
+  ],
+  "generated_at": "2026-04-14T10:00:00Z"
+}

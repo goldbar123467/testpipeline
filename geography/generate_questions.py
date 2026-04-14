@@ -1257,6 +1257,226 @@ ALL_QUESTIONS = [
         "tags": ["hemispheres", "equator", "prime-meridian"],
         "generated_at": TIMESTAMP
     },
+
+    # MS.1 - Latitude and longitude (using coordinates to find location)
+    {
+        "id": "q_ms0011",
+        "standard_code": "6-8.MS.1",
+        "standard_essential": True,
+        "reporting_category": "Map Skills and Tools",
+        "domain": "Map Skills",
+        "question_type": "multiple_choice",
+        "stimulus": {"type": "text", "content": "A treasure hunt game gives students a set of coordinates: 0 degrees latitude, 30 degrees East longitude. Students must use a world map to find the location. The coordinates point to a spot in the middle of Africa."},
+        "stem": "What does 0 degrees latitude tell the students about this location on the map?",
+        "choices": [
+            {"id": "A", "text": "The location is on the equator", "correct": True},
+            {"id": "B", "text": "The location is at the North Pole", "correct": False},
+            {"id": "C", "text": "The location is on the prime meridian", "correct": False},
+            {"id": "D", "text": "The location is in the Western Hemisphere", "correct": False}
+        ],
+        "answer_explanation": "Zero degrees latitude is the equator, the imaginary line that circles Earth halfway between the North and South Poles. Zero degrees longitude would be the prime meridian.",
+        "difficulty": "easy",
+        "tags": ["latitude", "longitude", "equator", "coordinates"],
+        "generated_at": TIMESTAMP
+    },
+
+    # MS.1 - Latitude and longitude (latitude affects climate)
+    {
+        "id": "q_ms0012",
+        "standard_code": "6-8.MS.1",
+        "standard_essential": True,
+        "reporting_category": "Map Skills and Tools",
+        "domain": "Map Skills",
+        "question_type": "multiple_choice",
+        "stimulus": {"type": "text", "content": "City A is located at 10 degrees North latitude. City B is located at 60 degrees North latitude. Both cities are on the same continent."},
+        "stem": "Based on their latitude, how would the climates of these two cities most likely compare?",
+        "choices": [
+            {"id": "A", "text": "City A would be warmer because it is closer to the equator", "correct": True},
+            {"id": "B", "text": "City B would be warmer because it is farther from the equator", "correct": False},
+            {"id": "C", "text": "Both cities would have the same climate and temperatures", "correct": False},
+            {"id": "D", "text": "City A would be colder because of its lower latitude number", "correct": False}
+        ],
+        "answer_explanation": "Places closer to the equator (lower latitude numbers) receive more direct sunlight and are generally warmer. City A at 10 degrees North is much closer to the equator than City B at 60 degrees North.",
+        "difficulty": "medium",
+        "tags": ["latitude", "climate", "temperature", "equator"],
+        "generated_at": TIMESTAMP
+    },
+
+    # MS.2 - Map types (topographic map)
+    {
+        "id": "q_ms0013",
+        "standard_code": "6-8.MS.2",
+        "standard_essential": True,
+        "reporting_category": "Map Skills and Tools",
+        "domain": "Map Skills",
+        "question_type": "multiple_choice",
+        "stimulus": {"type": "text", "content": "A topographic map uses curved lines called contour lines to show the shape and elevation of the land. Lines that are close together mean the land is steep. Lines that are far apart mean the land is flat or gently sloping."},
+        "stem": "What can a person learn from studying the contour lines on a topographic map?",
+        "choices": [
+            {"id": "A", "text": "How steep or flat the land is in an area", "correct": True},
+            {"id": "B", "text": "What language the people in the area speak", "correct": False},
+            {"id": "C", "text": "How much rain falls in the area each year", "correct": False},
+            {"id": "D", "text": "Which countries share a border in the area", "correct": False}
+        ],
+        "answer_explanation": "Contour lines on a topographic map show elevation and slope. Closely spaced lines indicate steep terrain, while widely spaced lines indicate flat or gentle terrain.",
+        "difficulty": "medium",
+        "tags": ["map-types", "topographic-map", "contour-lines", "elevation"],
+        "generated_at": TIMESTAMP
+    },
+
+    # MS.2 - Map types (choosing the right map)
+    {
+        "id": "q_ms0014",
+        "standard_code": "6-8.MS.2",
+        "standard_essential": True,
+        "reporting_category": "Map Skills and Tools",
+        "domain": "Map Skills",
+        "question_type": "multi_select",
+        "stimulus": {"type": "text", "content": "Different types of maps are designed for different purposes. A physical map shows natural features. A political map shows borders and capitals. A thematic map focuses on a specific topic like climate or population."},
+        "stem": "Which TWO tasks would require a student to use a political map?",
+        "choices": [
+            {"id": "A", "text": "Finding the capital city of a country", "correct": True},
+            {"id": "B", "text": "Locating the border between two nations", "correct": True},
+            {"id": "C", "text": "Measuring the height of a mountain range", "correct": False},
+            {"id": "D", "text": "Comparing annual rainfall across a region", "correct": False}
+        ],
+        "answer_explanation": "Political maps show human-made features like country borders and capital cities. Mountain heights require a physical map, and rainfall data requires a thematic map.",
+        "difficulty": "easy",
+        "tags": ["map-types", "political-map", "map-purpose"],
+        "generated_at": TIMESTAMP
+    },
+
+    # MS.3 - Map elements (title and purpose)
+    {
+        "id": "q_ms0015",
+        "standard_code": "6-8.MS.3",
+        "standard_essential": True,
+        "reporting_category": "Map Skills and Tools",
+        "domain": "Map Skills",
+        "question_type": "multiple_choice",
+        "stimulus": {"type": "text", "content": "A student opens a map that has the title \"Population Density of South America.\" The map uses different shades of color, with darker shades showing areas where more people live. A legend on the side explains what each shade means."},
+        "stem": "How do the title and legend work together to help the student read this map?",
+        "choices": [
+            {"id": "A", "text": "The title names the topic, and the legend explains the colors", "correct": True},
+            {"id": "B", "text": "The title shows direction, and the legend shows distance", "correct": False},
+            {"id": "C", "text": "The title lists all countries, and the legend shows borders", "correct": False},
+            {"id": "D", "text": "The title gives the map scale, and the legend shows rivers", "correct": False}
+        ],
+        "answer_explanation": "The map title tells the reader what the map is about (population density of South America). The legend explains what the different shades of color represent, helping the reader understand the data.",
+        "difficulty": "easy",
+        "tags": ["map-elements", "title", "legend", "reading-maps"],
+        "generated_at": TIMESTAMP
+    },
+
+    # MS.3 - Map elements (using scale to compare)
+    {
+        "id": "q_ms0016",
+        "standard_code": "6-8.MS.3",
+        "standard_essential": True,
+        "reporting_category": "Map Skills and Tools",
+        "domain": "Map Skills",
+        "question_type": "multiple_choice",
+        "stimulus": {"type": "text", "content": "Two maps show the same city. Map A has a scale of 1 centimeter equals 1 kilometer. Map B has a scale of 1 centimeter equals 10 kilometers. Both maps are printed on paper the same size."},
+        "stem": "What is the main difference between what these two maps show?",
+        "choices": [
+            {"id": "A", "text": "Map A shows a smaller area with more detail", "correct": True},
+            {"id": "B", "text": "Map B shows a smaller area with more detail", "correct": False},
+            {"id": "C", "text": "Both maps show the same amount of detail", "correct": False},
+            {"id": "D", "text": "Map A covers a larger area than Map B does", "correct": False}
+        ],
+        "answer_explanation": "Map A has a larger scale (1 cm = 1 km), so it shows a smaller area but with more detail. Map B has a smaller scale (1 cm = 10 km), so it covers a larger area but with less detail.",
+        "difficulty": "medium",
+        "tags": ["map-elements", "scale", "map-detail", "comparison"],
+        "generated_at": TIMESTAMP
+    },
+
+    # MS.4 - Map projections (Mercator)
+    {
+        "id": "q_ms0017",
+        "standard_code": "6-8.MS.4",
+        "standard_essential": False,
+        "reporting_category": "Map Skills and Tools",
+        "domain": "Map Skills",
+        "question_type": "multiple_choice",
+        "stimulus": {"type": "text", "content": "The Mercator projection is a common flat map used in many classrooms. On this map, Greenland appears to be almost the same size as Africa. In reality, Africa is about 14 times larger than Greenland."},
+        "stem": "What does the Greenland and Africa example show about the Mercator projection?",
+        "choices": [
+            {"id": "A", "text": "It greatly exaggerates the size of land near the poles", "correct": True},
+            {"id": "B", "text": "It makes all continents appear exactly the same size", "correct": False},
+            {"id": "C", "text": "It shows the correct size of every country on Earth", "correct": False},
+            {"id": "D", "text": "It shrinks land near the equator to save space", "correct": False}
+        ],
+        "answer_explanation": "The Mercator projection stretches areas near the poles, making them appear much larger than they really are. This is why Greenland looks as big as Africa even though Africa is 14 times larger.",
+        "difficulty": "medium",
+        "tags": ["map-projections", "mercator", "distortion", "size"],
+        "generated_at": TIMESTAMP
+    },
+
+    # MS.4 - Map projections (why different projections exist)
+    {
+        "id": "q_ms0018",
+        "standard_code": "6-8.MS.4",
+        "standard_essential": False,
+        "reporting_category": "Map Skills and Tools",
+        "domain": "Map Skills",
+        "question_type": "multiple_choice",
+        "stimulus": {"type": "text", "content": "Mapmakers have created many different map projections over the centuries. Some projections show the correct size of continents but distort their shape. Others keep the shape accurate but change the size. No single projection can show everything perfectly."},
+        "stem": "Why have mapmakers created many different types of map projections?",
+        "choices": [
+            {"id": "A", "text": "No single projection can avoid all types of distortion", "correct": True},
+            {"id": "B", "text": "Mapmakers enjoy creating as many maps as possible", "correct": False},
+            {"id": "C", "text": "Each country requires its own special map projection", "correct": False},
+            {"id": "D", "text": "Older projections were lost and had to be remade", "correct": False}
+        ],
+        "answer_explanation": "Because a round Earth cannot be shown on a flat surface without distortion, different projections make different trade-offs between size, shape, distance, and direction.",
+        "difficulty": "medium",
+        "tags": ["map-projections", "distortion", "trade-offs"],
+        "generated_at": TIMESTAMP
+    },
+
+    # MS.5 - Geographic tools (GIS)
+    {
+        "id": "q_ms0019",
+        "standard_code": "6-8.MS.5",
+        "standard_essential": False,
+        "reporting_category": "Map Skills and Tools",
+        "domain": "Map Skills",
+        "question_type": "multiple_choice",
+        "stimulus": {"type": "text", "content": "A city planner uses a computer system to layer different maps on top of each other. One layer shows roads, another shows buildings, and a third shows flood zones. This system is called a Geographic Information System, or GIS."},
+        "stem": "How does a GIS help the city planner make better decisions?",
+        "choices": [
+            {"id": "A", "text": "It combines many types of geographic data in layers", "correct": True},
+            {"id": "B", "text": "It replaces the need for any maps or other data", "correct": False},
+            {"id": "C", "text": "It automatically fixes all the problems in a city", "correct": False},
+            {"id": "D", "text": "It only shows one type of information at a time", "correct": False}
+        ],
+        "answer_explanation": "GIS layers multiple types of geographic data so users can see how different features relate to each other. The city planner can view roads, buildings, and flood zones together to make informed decisions.",
+        "difficulty": "medium",
+        "tags": ["geographic-tools", "gis", "technology", "data-layers"],
+        "generated_at": TIMESTAMP
+    },
+
+    # MS.6 - Hemispheres, continents, oceans (oceans)
+    {
+        "id": "q_ms0020",
+        "standard_code": "6-8.MS.6",
+        "standard_essential": True,
+        "reporting_category": "Map Skills and Tools",
+        "domain": "Map Skills",
+        "question_type": "multiple_choice",
+        "stimulus": {"type": "text", "content": "Earth has five major oceans: the Pacific, Atlantic, Indian, Southern, and Arctic. The Pacific Ocean is the largest and deepest. The Arctic Ocean is the smallest and is mostly covered by ice."},
+        "stem": "Based on the passage, how do the Pacific and Arctic Oceans compare to each other?",
+        "choices": [
+            {"id": "A", "text": "The Pacific is the largest while the Arctic is the smallest", "correct": True},
+            {"id": "B", "text": "The Arctic is larger and deeper than the Pacific Ocean", "correct": False},
+            {"id": "C", "text": "Both oceans are the same size but differ in temperature", "correct": False},
+            {"id": "D", "text": "The Pacific is covered by ice while the Arctic is not", "correct": False}
+        ],
+        "answer_explanation": "The passage states that the Pacific is the largest and deepest ocean, while the Arctic is the smallest and mostly covered by ice, making them opposite extremes among Earth's five oceans.",
+        "difficulty": "easy",
+        "tags": ["oceans", "pacific", "arctic", "world-geography"],
+        "generated_at": TIMESTAMP
+    },
 ]
 
 

@@ -1,0 +1,44 @@
+{
+  "id": "q_ms0017",
+  "standard_code": "6-8.MS.4",
+  "standard_essential": false,
+  "reporting_category": "Map Skills and Tools",
+  "domain": "Map Skills",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "The Mercator projection is a common flat map used in many classrooms. On this map, Greenland appears to be almost the same size as Africa. In reality, Africa is about 14 times larger than Greenland."
+  },
+  "stem": "What does the Greenland and Africa example show about the Mercator projection?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "It greatly exaggerates the size of land near the poles",
+      "correct": true
+    },
+    {
+      "id": "B",
+      "text": "It makes all continents appear exactly the same size",
+      "correct": false
+    },
+    {
+      "id": "C",
+      "text": "It shows the correct size of every country on Earth",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "It shrinks land near the equator to save space",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "The Mercator projection stretches areas near the poles, making them appear much larger than they really are. This is why Greenland looks as big as Africa even though Africa is 14 times larger.",
+  "difficulty": "medium",
+  "tags": [
+    "map-projections",
+    "mercator",
+    "distortion",
+    "size"
+  ],
+  "generated_at": "2026-04-14T10:00:00Z"
+}
