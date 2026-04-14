@@ -1,0 +1,44 @@
+{
+  "id": "q_er0011",
+  "standard_code": "6-8.ER.4",
+  "standard_essential": false,
+  "reporting_category": "Environment and Resources",
+  "domain": "Environment",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "In a grassland ecosystem, grass uses sunlight to grow. Rabbits eat the grass. Hawks hunt and eat the rabbits. When the hawks die, tiny organisms in the soil break down their bodies and return nutrients to the earth."
+  },
+  "stem": "What does this example show about how living things in an ecosystem depend on each other?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "Energy flows from plants to animals through a food chain",
+      "correct": true
+    },
+    {
+      "id": "B",
+      "text": "Hawks provide food for the grass to grow taller",
+      "correct": false
+    },
+    {
+      "id": "C",
+      "text": "Rabbits are at the top of this grassland food chain",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "Each living thing survives without any help from others",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "The food chain shows energy flowing from grass (producer) to rabbits (consumer) to hawks (top predator), with decomposers recycling nutrients back to the soil. All depend on each other.",
+  "difficulty": "easy",
+  "tags": [
+    "ecosystems",
+    "food-chain",
+    "energy-flow",
+    "grassland"
+  ],
+  "generated_at": "2026-04-14T10:00:00Z"
+}

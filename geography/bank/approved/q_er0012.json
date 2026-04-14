@@ -1,0 +1,44 @@
+{
+  "id": "q_er0012",
+  "standard_code": "6-8.ER.4",
+  "standard_essential": false,
+  "reporting_category": "Environment and Resources",
+  "domain": "Environment",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "Coral reefs are found in warm, shallow ocean waters. They are home to thousands of species of fish, plants, and other sea creatures. Coral reefs are sometimes called the rainforests of the sea because of the huge variety of life they support."
+  },
+  "stem": "Why are coral reefs compared to rainforests in the passage?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "Both support a huge variety of living things",
+      "correct": true
+    },
+    {
+      "id": "B",
+      "text": "Both are found on dry land near the equator",
+      "correct": false
+    },
+    {
+      "id": "C",
+      "text": "Both have very few species living in them",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "Both are located in cold deep ocean waters",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "Coral reefs are compared to rainforests because both ecosystems support an enormous variety of species. Coral reefs are among the most biodiverse ecosystems in the ocean.",
+  "difficulty": "easy",
+  "tags": [
+    "ecosystems",
+    "coral-reefs",
+    "biodiversity",
+    "ocean"
+  ],
+  "generated_at": "2026-04-14T10:00:00Z"
+}

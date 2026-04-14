@@ -79,6 +79,48 @@ CATEGORY_DEFS = [
         "name": "Around the Globe",
         "codes": ["6-8.MS.6", "6-8.MS.1"],
     },
+    # ── Round 4: World Regions ──
+    {
+        "name": "Exploring Continents",
+        "codes": ["6-8.WR.1"],
+    },
+    {
+        "name": "World Matchup",
+        "codes": ["6-8.WR.2"],
+    },
+    {
+        "name": "Capitals & Landmarks",
+        "codes": ["6-8.WR.3"],
+    },
+    {
+        "name": "Trade Routes",
+        "codes": ["6-8.WR.4", "6-8.WR.5"],
+    },
+    {
+        "name": "Rivers of History",
+        "codes": ["6-8.WR.6", "6-8.WR.5"],
+    },
+    # ── Round 5: Environment & Resources ──
+    {
+        "name": "Resource Roundup",
+        "codes": ["6-8.ER.1"],
+    },
+    {
+        "name": "Heating Up",
+        "codes": ["6-8.ER.2"],
+    },
+    {
+        "name": "Save the Planet",
+        "codes": ["6-8.ER.3", "6-8.ER.4"],
+    },
+    {
+        "name": "Web of Life",
+        "codes": ["6-8.ER.4", "6-8.ER.3"],
+    },
+    {
+        "name": "Human Footprint",
+        "codes": ["6-8.ER.5"],
+    },
 ]
 
 CATEGORY_SIZE = 5

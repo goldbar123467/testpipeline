@@ -1,0 +1,45 @@
+{
+  "id": "q_er0009",
+  "standard_code": "6-8.ER.3",
+  "standard_essential": false,
+  "reporting_category": "Environment and Resources",
+  "domain": "Environment",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "Many countries are building solar farms and wind turbines to generate electricity. These sources of energy do not run out and do not produce the harmful gases that coal and oil produce when burned."
+  },
+  "stem": "Why are countries choosing to build solar farms and wind turbines for energy?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "They provide clean energy that does not run out",
+      "correct": true
+    },
+    {
+      "id": "B",
+      "text": "They produce more harmful gases than fossil fuels",
+      "correct": false
+    },
+    {
+      "id": "C",
+      "text": "They cost more and work less than burning coal",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "They can only be used in cold northern countries",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "Solar and wind energy are renewable and clean. Unlike fossil fuels, they do not run out or release harmful greenhouse gases, making them sustainable energy choices.",
+  "difficulty": "easy",
+  "tags": [
+    "conservation",
+    "renewable-energy",
+    "solar",
+    "wind",
+    "sustainability"
+  ],
+  "generated_at": "2026-04-14T10:00:00Z"
+}

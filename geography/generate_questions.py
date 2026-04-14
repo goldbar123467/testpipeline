@@ -1919,6 +1919,338 @@ ALL_QUESTIONS = [
         "tags": ["bodies-of-water", "mediterranean", "trade", "civilization"],
         "generated_at": TIMESTAMP
     },
+
+    # ── ENVIRONMENT AND RESOURCES (15 questions) ─────────────────────
+
+    # ER.1 - Renewable vs nonrenewable (classify)
+    {
+        "id": "q_er0001",
+        "standard_code": "6-8.ER.1",
+        "standard_essential": True,
+        "reporting_category": "Environment and Resources",
+        "domain": "Environment",
+        "question_type": "multiple_choice",
+        "stimulus": {"type": "text", "content": "Natural resources can be classified as renewable or nonrenewable. Renewable resources, like sunlight and wind, can be replaced naturally over a short period of time. Nonrenewable resources, like coal and oil, take millions of years to form and will eventually run out."},
+        "stem": "Based on the passage, why are coal and oil considered nonrenewable resources?",
+        "choices": [
+            {"id": "A", "text": "They take millions of years to form and can run out", "correct": True},
+            {"id": "B", "text": "They are replaced by nature every few months", "correct": False},
+            {"id": "C", "text": "They come from the sun and wind and never run out", "correct": False},
+            {"id": "D", "text": "They can be recycled and used over and over again", "correct": False}
+        ],
+        "answer_explanation": "Coal and oil are nonrenewable because they formed over millions of years from ancient plant and animal remains. Once used, they cannot be replaced within a human lifetime.",
+        "difficulty": "easy",
+        "tags": ["resources", "renewable", "nonrenewable", "fossil-fuels"],
+        "generated_at": TIMESTAMP
+    },
+
+    # ER.1 - Renewable vs nonrenewable (examples)
+    {
+        "id": "q_er0002",
+        "standard_code": "6-8.ER.1",
+        "standard_essential": True,
+        "reporting_category": "Environment and Resources",
+        "domain": "Environment",
+        "question_type": "multi_select",
+        "stimulus": {"type": "text", "content": "A science class is sorting natural resources into two groups: renewable and nonrenewable. They need to decide which resources can be replaced by nature in a short time and which cannot."},
+        "stem": "Which TWO resources should the class place in the renewable group?",
+        "choices": [
+            {"id": "A", "text": "Solar energy from the sun", "correct": True},
+            {"id": "B", "text": "Trees grown in managed forests", "correct": True},
+            {"id": "C", "text": "Natural gas found underground", "correct": False},
+            {"id": "D", "text": "Iron ore mined from the earth", "correct": False}
+        ],
+        "answer_explanation": "Solar energy and trees are renewable because the sun provides energy continuously and trees can be replanted and regrown. Natural gas and iron ore are nonrenewable because they take millions of years to form.",
+        "difficulty": "easy",
+        "tags": ["resources", "renewable", "solar", "trees"],
+        "generated_at": TIMESTAMP
+    },
+
+    # ER.1 - Renewable vs nonrenewable (distribution)
+    {
+        "id": "q_er0003",
+        "standard_code": "6-8.ER.1",
+        "standard_essential": True,
+        "reporting_category": "Environment and Resources",
+        "domain": "Environment",
+        "question_type": "multiple_choice",
+        "stimulus": {"type": "text", "content": "Saudi Arabia has large amounts of oil beneath its land. Brazil has vast forests and rivers that provide wood and water. Japan has very few natural resources of its own and must import many raw materials from other countries."},
+        "stem": "What do these examples show about how natural resources are spread around the world?",
+        "choices": [
+            {"id": "A", "text": "Resources are not distributed evenly across all regions", "correct": True},
+            {"id": "B", "text": "Every country has the same types and amounts of resources", "correct": False},
+            {"id": "C", "text": "Only countries near the equator have natural resources", "correct": False},
+            {"id": "D", "text": "Japan has more natural resources than any other country", "correct": False}
+        ],
+        "answer_explanation": "The examples show that natural resources are unevenly distributed. Saudi Arabia is rich in oil, Brazil has forests and water, but Japan must import materials because it has few resources.",
+        "difficulty": "medium",
+        "tags": ["resources", "distribution", "global-trade", "inequality"],
+        "generated_at": TIMESTAMP
+    },
+
+    # ER.1 - Renewable vs nonrenewable (why it matters)
+    {
+        "id": "q_er0004",
+        "standard_code": "6-8.ER.1",
+        "standard_essential": True,
+        "reporting_category": "Environment and Resources",
+        "domain": "Environment",
+        "question_type": "multiple_choice",
+        "stimulus": {"type": "text", "content": "The world uses billions of barrels of oil every year for fuel, plastics, and other products. Scientists warn that Earth's oil supply is limited and could become much harder to find in the future."},
+        "stem": "Why are scientists concerned about the world's heavy use of oil?",
+        "choices": [
+            {"id": "A", "text": "Oil is a limited resource that could run out over time", "correct": True},
+            {"id": "B", "text": "Oil is renewable and the supply is growing each year", "correct": False},
+            {"id": "C", "text": "Oil is only used for making plastic products today", "correct": False},
+            {"id": "D", "text": "Oil can easily be replaced by coal or natural gas", "correct": False}
+        ],
+        "answer_explanation": "Oil is a nonrenewable resource with a limited supply. Heavy use means the supply will eventually become scarce, which is why scientists encourage developing alternative energy sources.",
+        "difficulty": "easy",
+        "tags": ["resources", "nonrenewable", "oil", "energy"],
+        "generated_at": TIMESTAMP
+    },
+
+    # ER.2 - Climate change (causes)
+    {
+        "id": "q_er0005",
+        "standard_code": "6-8.ER.2",
+        "standard_essential": True,
+        "reporting_category": "Environment and Resources",
+        "domain": "Environment",
+        "question_type": "multiple_choice",
+        "stimulus": {"type": "text", "content": "Burning fossil fuels like coal, oil, and natural gas releases gases into the atmosphere. These gases trap heat from the sun, causing Earth's average temperature to rise slowly over time. Scientists call this process global warming."},
+        "stem": "According to the passage, what is the main cause of global warming?",
+        "choices": [
+            {"id": "A", "text": "Gases from burning fossil fuels trap heat in the air", "correct": True},
+            {"id": "B", "text": "The sun is getting closer to Earth every year", "correct": False},
+            {"id": "C", "text": "Forests are growing too quickly around the world", "correct": False},
+            {"id": "D", "text": "Oceans are releasing cold water into the atmosphere", "correct": False}
+        ],
+        "answer_explanation": "The passage explains that burning fossil fuels releases greenhouse gases that trap heat in the atmosphere, causing Earth's temperature to rise over time.",
+        "difficulty": "easy",
+        "tags": ["climate-change", "global-warming", "fossil-fuels", "greenhouse-gases"],
+        "generated_at": TIMESTAMP
+    },
+
+    # ER.2 - Climate change (effects)
+    {
+        "id": "q_er0006",
+        "standard_code": "6-8.ER.2",
+        "standard_essential": True,
+        "reporting_category": "Environment and Resources",
+        "domain": "Environment",
+        "question_type": "multi_select",
+        "stimulus": {"type": "text", "content": "As Earth's temperature rises, ice sheets in the Arctic and Antarctic are melting. This melting ice adds water to the oceans, causing sea levels to rise. Coastal cities and low-lying islands face a growing risk of flooding."},
+        "stem": "Which TWO effects of rising global temperatures are described in the passage?",
+        "choices": [
+            {"id": "A", "text": "Ice sheets in polar regions are melting", "correct": True},
+            {"id": "B", "text": "Rising sea levels threaten coastal areas with flooding", "correct": True},
+            {"id": "C", "text": "Deserts are turning into frozen ice caps worldwide", "correct": False},
+            {"id": "D", "text": "Ocean water is becoming cooler every single year", "correct": False}
+        ],
+        "answer_explanation": "The passage describes two effects of rising temperatures: melting polar ice sheets and rising sea levels that threaten coastal areas with flooding.",
+        "difficulty": "easy",
+        "tags": ["climate-change", "sea-level-rise", "melting-ice", "effects"],
+        "generated_at": TIMESTAMP
+    },
+
+    # ER.2 - Climate change (impact on geography)
+    {
+        "id": "q_er0007",
+        "standard_code": "6-8.ER.2",
+        "standard_essential": True,
+        "reporting_category": "Environment and Resources",
+        "domain": "Environment",
+        "question_type": "multiple_choice",
+        "stimulus": {"type": "text", "content": "Climate change is causing some regions to receive less rainfall than before. In parts of Africa and the Middle East, droughts are becoming longer and more severe. Farmers in these areas struggle to grow enough food to feed their families."},
+        "stem": "How is climate change affecting farming in parts of Africa and the Middle East?",
+        "choices": [
+            {"id": "A", "text": "Longer droughts make it harder for farmers to grow food", "correct": True},
+            {"id": "B", "text": "Increased rainfall is flooding all the farmland", "correct": False},
+            {"id": "C", "text": "Colder temperatures are freezing crops in the fields", "correct": False},
+            {"id": "D", "text": "Farmers now have more water than they can ever use", "correct": False}
+        ],
+        "answer_explanation": "Climate change is reducing rainfall in some regions, creating longer and more severe droughts that make it difficult for farmers to grow enough food.",
+        "difficulty": "medium",
+        "tags": ["climate-change", "drought", "farming", "food-security"],
+        "generated_at": TIMESTAMP
+    },
+
+    # ER.3 - Conservation and sustainability (water conservation)
+    {
+        "id": "q_er0008",
+        "standard_code": "6-8.ER.3",
+        "standard_essential": False,
+        "reporting_category": "Environment and Resources",
+        "domain": "Environment",
+        "question_type": "multiple_choice",
+        "stimulus": {"type": "text", "content": "In dry regions of the western United States, communities are finding ways to use less water. Some cities encourage people to plant gardens that do not need much watering. Others recycle used water to irrigate parks and golf courses."},
+        "stem": "What approach are communities using to deal with limited water supplies?",
+        "choices": [
+            {"id": "A", "text": "They are conserving water through reuse and smart planting", "correct": True},
+            {"id": "B", "text": "They are using more water than ever before each year", "correct": False},
+            {"id": "C", "text": "They are moving their cities to areas with more rain", "correct": False},
+            {"id": "D", "text": "They are building walls to stop water from leaving", "correct": False}
+        ],
+        "answer_explanation": "Communities in dry areas are practicing conservation by recycling water and planting gardens that need less watering, helping stretch limited water supplies.",
+        "difficulty": "easy",
+        "tags": ["conservation", "water", "sustainability", "drought"],
+        "generated_at": TIMESTAMP
+    },
+
+    # ER.3 - Conservation and sustainability (renewable energy)
+    {
+        "id": "q_er0009",
+        "standard_code": "6-8.ER.3",
+        "standard_essential": False,
+        "reporting_category": "Environment and Resources",
+        "domain": "Environment",
+        "question_type": "multiple_choice",
+        "stimulus": {"type": "text", "content": "Many countries are building solar farms and wind turbines to generate electricity. These sources of energy do not run out and do not produce the harmful gases that coal and oil produce when burned."},
+        "stem": "Why are countries choosing to build solar farms and wind turbines for energy?",
+        "choices": [
+            {"id": "A", "text": "They provide clean energy that does not run out", "correct": True},
+            {"id": "B", "text": "They produce more harmful gases than fossil fuels", "correct": False},
+            {"id": "C", "text": "They cost more and work less than burning coal", "correct": False},
+            {"id": "D", "text": "They can only be used in cold northern countries", "correct": False}
+        ],
+        "answer_explanation": "Solar and wind energy are renewable and clean. Unlike fossil fuels, they do not run out or release harmful greenhouse gases, making them sustainable energy choices.",
+        "difficulty": "easy",
+        "tags": ["conservation", "renewable-energy", "solar", "wind", "sustainability"],
+        "generated_at": TIMESTAMP
+    },
+
+    # ER.3 - Conservation and sustainability (protecting forests)
+    {
+        "id": "q_er0010",
+        "standard_code": "6-8.ER.3",
+        "standard_essential": False,
+        "reporting_category": "Environment and Resources",
+        "domain": "Environment",
+        "question_type": "multiple_choice",
+        "stimulus": {"type": "text", "content": "Some countries have created national parks and protected areas to prevent forests from being cut down. In these areas, logging and building are not allowed. This helps protect the plants and animals that depend on the forest."},
+        "stem": "What is the main goal of creating protected forest areas and national parks?",
+        "choices": [
+            {"id": "A", "text": "To conserve natural habitats for plants and animals", "correct": True},
+            {"id": "B", "text": "To make it easier to cut down trees for building", "correct": False},
+            {"id": "C", "text": "To encourage more factories to be built in forests", "correct": False},
+            {"id": "D", "text": "To move all animals to zoos in nearby cities", "correct": False}
+        ],
+        "answer_explanation": "National parks and protected areas are created to conserve forests and the species that live in them by preventing logging, building, and other activities that destroy habitats.",
+        "difficulty": "easy",
+        "tags": ["conservation", "forests", "national-parks", "habitats"],
+        "generated_at": TIMESTAMP
+    },
+
+    # ER.4 - Ecosystems (food chains)
+    {
+        "id": "q_er0011",
+        "standard_code": "6-8.ER.4",
+        "standard_essential": False,
+        "reporting_category": "Environment and Resources",
+        "domain": "Environment",
+        "question_type": "multiple_choice",
+        "stimulus": {"type": "text", "content": "In a grassland ecosystem, grass uses sunlight to grow. Rabbits eat the grass. Hawks hunt and eat the rabbits. When the hawks die, tiny organisms in the soil break down their bodies and return nutrients to the earth."},
+        "stem": "What does this example show about how living things in an ecosystem depend on each other?",
+        "choices": [
+            {"id": "A", "text": "Energy flows from plants to animals through a food chain", "correct": True},
+            {"id": "B", "text": "Hawks provide food for the grass to grow taller", "correct": False},
+            {"id": "C", "text": "Rabbits are at the top of this grassland food chain", "correct": False},
+            {"id": "D", "text": "Each living thing survives without any help from others", "correct": False}
+        ],
+        "answer_explanation": "The food chain shows energy flowing from grass (producer) to rabbits (consumer) to hawks (top predator), with decomposers recycling nutrients back to the soil. All depend on each other.",
+        "difficulty": "easy",
+        "tags": ["ecosystems", "food-chain", "energy-flow", "grassland"],
+        "generated_at": TIMESTAMP
+    },
+
+    # ER.4 - Ecosystems (coral reefs)
+    {
+        "id": "q_er0012",
+        "standard_code": "6-8.ER.4",
+        "standard_essential": False,
+        "reporting_category": "Environment and Resources",
+        "domain": "Environment",
+        "question_type": "multiple_choice",
+        "stimulus": {"type": "text", "content": "Coral reefs are found in warm, shallow ocean waters. They are home to thousands of species of fish, plants, and other sea creatures. Coral reefs are sometimes called the rainforests of the sea because of the huge variety of life they support."},
+        "stem": "Why are coral reefs compared to rainforests in the passage?",
+        "choices": [
+            {"id": "A", "text": "Both support a huge variety of living things", "correct": True},
+            {"id": "B", "text": "Both are found on dry land near the equator", "correct": False},
+            {"id": "C", "text": "Both have very few species living in them", "correct": False},
+            {"id": "D", "text": "Both are located in cold deep ocean waters", "correct": False}
+        ],
+        "answer_explanation": "Coral reefs are compared to rainforests because both ecosystems support an enormous variety of species. Coral reefs are among the most biodiverse ecosystems in the ocean.",
+        "difficulty": "easy",
+        "tags": ["ecosystems", "coral-reefs", "biodiversity", "ocean"],
+        "generated_at": TIMESTAMP
+    },
+
+    # ER.5 - Human activities affect environment (deforestation)
+    {
+        "id": "q_er0013",
+        "standard_code": "6-8.ER.5",
+        "standard_essential": True,
+        "reporting_category": "Environment and Resources",
+        "domain": "Environment",
+        "question_type": "multiple_choice",
+        "stimulus": {"type": "text", "content": "Large areas of the Amazon Rainforest are being cleared to make room for cattle ranches and farms. When trees are cut down, animals lose their homes. The soil washes away more easily, and less carbon dioxide is absorbed from the air."},
+        "stem": "What are the effects of clearing the Amazon Rainforest described in the passage?",
+        "choices": [
+            {"id": "A", "text": "Animals lose habitats, soil erodes, and less carbon is absorbed", "correct": True},
+            {"id": "B", "text": "New forests grow back faster than they are cut down", "correct": False},
+            {"id": "C", "text": "The cleared land becomes too cold for farming or ranching", "correct": False},
+            {"id": "D", "text": "More animals move in because there is more open space", "correct": False}
+        ],
+        "answer_explanation": "Deforestation causes habitat loss for animals, increased soil erosion from rain, and reduced carbon absorption since there are fewer trees to take in carbon dioxide.",
+        "difficulty": "medium",
+        "tags": ["human-impact", "deforestation", "amazon", "habitat-loss"],
+        "generated_at": TIMESTAMP
+    },
+
+    # ER.5 - Human activities affect environment (pollution)
+    {
+        "id": "q_er0014",
+        "standard_code": "6-8.ER.5",
+        "standard_essential": True,
+        "reporting_category": "Environment and Resources",
+        "domain": "Environment",
+        "question_type": "multi_select",
+        "stimulus": {"type": "text", "content": "Factories and cars release smoke and chemicals into the air. Farms and cities allow fertilizers and waste to flow into rivers and lakes. These forms of pollution harm both the natural environment and the health of people who live nearby."},
+        "stem": "Which TWO types of pollution are described in the passage?",
+        "choices": [
+            {"id": "A", "text": "Air pollution from factory smoke and car exhaust", "correct": True},
+            {"id": "B", "text": "Water pollution from fertilizers and waste runoff", "correct": True},
+            {"id": "C", "text": "Noise pollution from loud music at concerts", "correct": False},
+            {"id": "D", "text": "Light pollution from bright city street lamps", "correct": False}
+        ],
+        "answer_explanation": "The passage describes air pollution from factories and cars, and water pollution from fertilizers and waste flowing into rivers and lakes. Noise and light pollution are not mentioned.",
+        "difficulty": "easy",
+        "tags": ["human-impact", "pollution", "air-pollution", "water-pollution"],
+        "generated_at": TIMESTAMP
+    },
+
+    # ER.5 - Human activities affect environment (urbanization)
+    {
+        "id": "q_er0015",
+        "standard_code": "6-8.ER.5",
+        "standard_essential": True,
+        "reporting_category": "Environment and Resources",
+        "domain": "Environment",
+        "question_type": "multiple_choice",
+        "stimulus": {"type": "text", "content": "As cities grow larger, they replace natural land with buildings, roads, and parking lots. This is called urban sprawl. When rain falls on concrete and asphalt, it cannot soak into the ground. Instead, it flows into storm drains and can cause flooding."},
+        "stem": "How does urban sprawl change the way rainwater moves through the environment?",
+        "choices": [
+            {"id": "A", "text": "Water runs off hard surfaces instead of soaking into soil", "correct": True},
+            {"id": "B", "text": "Water soaks into concrete faster than it soaks into soil", "correct": False},
+            {"id": "C", "text": "Less rain falls in cities than in nearby rural areas", "correct": False},
+            {"id": "D", "text": "Parking lots absorb more water than forests or grassland", "correct": False}
+        ],
+        "answer_explanation": "Urban sprawl replaces natural land with impermeable surfaces like concrete and asphalt. Rainwater cannot soak in, so it runs off into storm drains, increasing the risk of flooding.",
+        "difficulty": "medium",
+        "tags": ["human-impact", "urbanization", "urban-sprawl", "runoff", "flooding"],
+        "generated_at": TIMESTAMP
+    },
 ]
 
 

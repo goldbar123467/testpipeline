@@ -1,0 +1,44 @@
+{
+  "id": "q_er0010",
+  "standard_code": "6-8.ER.3",
+  "standard_essential": false,
+  "reporting_category": "Environment and Resources",
+  "domain": "Environment",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "Some countries have created national parks and protected areas to prevent forests from being cut down. In these areas, logging and building are not allowed. This helps protect the plants and animals that depend on the forest."
+  },
+  "stem": "What is the main goal of creating protected forest areas and national parks?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "To conserve natural habitats for plants and animals",
+      "correct": true
+    },
+    {
+      "id": "B",
+      "text": "To make it easier to cut down trees for building",
+      "correct": false
+    },
+    {
+      "id": "C",
+      "text": "To encourage more factories to be built in forests",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "To move all animals to zoos in nearby cities",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "National parks and protected areas are created to conserve forests and the species that live in them by preventing logging, building, and other activities that destroy habitats.",
+  "difficulty": "easy",
+  "tags": [
+    "conservation",
+    "forests",
+    "national-parks",
+    "habitats"
+  ],
+  "generated_at": "2026-04-14T10:00:00Z"
+}

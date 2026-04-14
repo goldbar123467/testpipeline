@@ -1,0 +1,44 @@
+{
+  "id": "q_er0001",
+  "standard_code": "6-8.ER.1",
+  "standard_essential": true,
+  "reporting_category": "Environment and Resources",
+  "domain": "Environment",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "Natural resources can be classified as renewable or nonrenewable. Renewable resources, like sunlight and wind, can be replaced naturally over a short period of time. Nonrenewable resources, like coal and oil, take millions of years to form and will eventually run out."
+  },
+  "stem": "Based on the passage, why are coal and oil considered nonrenewable resources?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "They take millions of years to form and can run out",
+      "correct": true
+    },
+    {
+      "id": "B",
+      "text": "They are replaced by nature every few months",
+      "correct": false
+    },
+    {
+      "id": "C",
+      "text": "They come from the sun and wind and never run out",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "They can be recycled and used over and over again",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "Coal and oil are nonrenewable because they formed over millions of years from ancient plant and animal remains. Once used, they cannot be replaced within a human lifetime.",
+  "difficulty": "easy",
+  "tags": [
+    "resources",
+    "renewable",
+    "nonrenewable",
+    "fossil-fuels"
+  ],
+  "generated_at": "2026-04-14T10:00:00Z"
+}

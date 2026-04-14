@@ -1,0 +1,44 @@
+{
+  "id": "q_er0004",
+  "standard_code": "6-8.ER.1",
+  "standard_essential": true,
+  "reporting_category": "Environment and Resources",
+  "domain": "Environment",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "The world uses billions of barrels of oil every year for fuel, plastics, and other products. Scientists warn that Earth's oil supply is limited and could become much harder to find in the future."
+  },
+  "stem": "Why are scientists concerned about the world's heavy use of oil?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "Oil is a limited resource that could run out over time",
+      "correct": true
+    },
+    {
+      "id": "B",
+      "text": "Oil is renewable and the supply is growing each year",
+      "correct": false
+    },
+    {
+      "id": "C",
+      "text": "Oil is only used for making plastic products today",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "Oil can easily be replaced by coal or natural gas",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "Oil is a nonrenewable resource with a limited supply. Heavy use means the supply will eventually become scarce, which is why scientists encourage developing alternative energy sources.",
+  "difficulty": "easy",
+  "tags": [
+    "resources",
+    "nonrenewable",
+    "oil",
+    "energy"
+  ],
+  "generated_at": "2026-04-14T10:00:00Z"
+}

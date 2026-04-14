@@ -1,0 +1,44 @@
+{
+  "id": "q_er0008",
+  "standard_code": "6-8.ER.3",
+  "standard_essential": false,
+  "reporting_category": "Environment and Resources",
+  "domain": "Environment",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "In dry regions of the western United States, communities are finding ways to use less water. Some cities encourage people to plant gardens that do not need much watering. Others recycle used water to irrigate parks and golf courses."
+  },
+  "stem": "What approach are communities using to deal with limited water supplies?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "They are conserving water through reuse and smart planting",
+      "correct": true
+    },
+    {
+      "id": "B",
+      "text": "They are using more water than ever before each year",
+      "correct": false
+    },
+    {
+      "id": "C",
+      "text": "They are moving their cities to areas with more rain",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "They are building walls to stop water from leaving",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "Communities in dry areas are practicing conservation by recycling water and planting gardens that need less watering, helping stretch limited water supplies.",
+  "difficulty": "easy",
+  "tags": [
+    "conservation",
+    "water",
+    "sustainability",
+    "drought"
+  ],
+  "generated_at": "2026-04-14T10:00:00Z"
+}

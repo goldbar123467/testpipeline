@@ -1,0 +1,44 @@
+{
+  "id": "q_er0014",
+  "standard_code": "6-8.ER.5",
+  "standard_essential": true,
+  "reporting_category": "Environment and Resources",
+  "domain": "Environment",
+  "question_type": "multi_select",
+  "stimulus": {
+    "type": "text",
+    "content": "Factories and cars release smoke and chemicals into the air. Farms and cities allow fertilizers and waste to flow into rivers and lakes. These forms of pollution harm both the natural environment and the health of people who live nearby."
+  },
+  "stem": "Which TWO types of pollution are described in the passage?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "Air pollution from factory smoke and car exhaust",
+      "correct": true
+    },
+    {
+      "id": "B",
+      "text": "Water pollution from fertilizers and waste runoff",
+      "correct": true
+    },
+    {
+      "id": "C",
+      "text": "Noise pollution from loud music at concerts",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "Light pollution from bright city street lamps",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "The passage describes air pollution from factories and cars, and water pollution from fertilizers and waste flowing into rivers and lakes. Noise and light pollution are not mentioned.",
+  "difficulty": "easy",
+  "tags": [
+    "human-impact",
+    "pollution",
+    "air-pollution",
+    "water-pollution"
+  ],
+  "generated_at": "2026-04-14T10:00:00Z"
+}

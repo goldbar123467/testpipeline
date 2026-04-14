@@ -1,0 +1,44 @@
+{
+  "id": "q_er0002",
+  "standard_code": "6-8.ER.1",
+  "standard_essential": true,
+  "reporting_category": "Environment and Resources",
+  "domain": "Environment",
+  "question_type": "multi_select",
+  "stimulus": {
+    "type": "text",
+    "content": "A science class is sorting natural resources into two groups: renewable and nonrenewable. They need to decide which resources can be replaced by nature in a short time and which cannot."
+  },
+  "stem": "Which TWO resources should the class place in the renewable group?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "Solar energy from the sun",
+      "correct": true
+    },
+    {
+      "id": "B",
+      "text": "Trees grown in managed forests",
+      "correct": true
+    },
+    {
+      "id": "C",
+      "text": "Natural gas found underground",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "Iron ore mined from the earth",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "Solar energy and trees are renewable because the sun provides energy continuously and trees can be replanted and regrown. Natural gas and iron ore are nonrenewable because they take millions of years to form.",
+  "difficulty": "easy",
+  "tags": [
+    "resources",
+    "renewable",
+    "solar",
+    "trees"
+  ],
+  "generated_at": "2026-04-14T10:00:00Z"
+}
