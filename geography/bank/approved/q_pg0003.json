@@ -1,0 +1,43 @@
+{
+  "id": "q_pg0003",
+  "standard_code": "6-8.PG.1",
+  "standard_essential": true,
+  "reporting_category": "Physical Geography",
+  "domain": "Physical Geography",
+  "question_type": "multi_select",
+  "stimulus": {
+    "type": "text",
+    "content": "A geography teacher asks students to list examples of major physical features found on Earth's surface."
+  },
+  "stem": "Which TWO of the following are examples of major physical landforms?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "The Rocky Mountains",
+      "correct": true
+    },
+    {
+      "id": "B",
+      "text": "The Great Plains",
+      "correct": true
+    },
+    {
+      "id": "C",
+      "text": "The Panama Canal",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "The Hoover Dam",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "The Rocky Mountains and the Great Plains are natural physical landforms. The Panama Canal and the Hoover Dam are human-made structures, not natural physical features.",
+  "difficulty": "easy",
+  "tags": [
+    "landforms",
+    "physical-features",
+    "human-vs-natural"
+  ],
+  "generated_at": "2026-04-14T10:00:00Z"
+}

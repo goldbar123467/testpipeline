@@ -1,0 +1,43 @@
+{
+  "id": "q_pg0004",
+  "standard_code": "6-8.PG.2",
+  "standard_essential": true,
+  "reporting_category": "Physical Geography",
+  "domain": "Physical Geography",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "Read the passage below:\n\nEarth's outer layer is broken into large pieces called tectonic plates. These plates float on top of a layer of hot, soft rock deep below the surface. When two plates push against each other, the land can be forced upward over millions of years."
+  },
+  "stem": "According to the passage, what happens when two tectonic plates push against each other?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "Oceans begin to dry up",
+      "correct": false
+    },
+    {
+      "id": "B",
+      "text": "Mountains can form over time",
+      "correct": true
+    },
+    {
+      "id": "C",
+      "text": "Rivers change their direction",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "Deserts spread to new areas",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "When tectonic plates collide, land is forced upward, forming mountains over millions of years. This process does not directly cause oceans to dry up, rivers to change direction, or deserts to spread.",
+  "difficulty": "easy",
+  "tags": [
+    "plate-tectonics",
+    "mountains",
+    "convergent-boundary"
+  ],
+  "generated_at": "2026-04-14T10:00:00Z"
+}

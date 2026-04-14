@@ -1,0 +1,224 @@
+{
+  "grade": "6-8",
+  "subject": "Geography",
+  "framework": "2023 Indiana Academic Standards – Middle School Geography",
+  "standards": [
+    {
+      "code": "6-8.PG.1",
+      "text": "Identify and describe the major physical features of Earth, including mountains, plains, plateaus, rivers, and oceans.",
+      "domain": "Physical Geography",
+      "reporting_category": "Physical Geography",
+      "essential": true
+    },
+    {
+      "code": "6-8.PG.2",
+      "text": "Explain the theory of plate tectonics and how it shapes Earth's surface through earthquakes, volcanoes, and mountain building.",
+      "domain": "Physical Geography",
+      "reporting_category": "Physical Geography",
+      "essential": true
+    },
+    {
+      "code": "6-8.PG.3",
+      "text": "Describe the water cycle and explain how water moves through Earth's systems.",
+      "domain": "Physical Geography",
+      "reporting_category": "Physical Geography",
+      "essential": true
+    },
+    {
+      "code": "6-8.PG.4",
+      "text": "Identify the major climate zones of Earth and explain the factors that influence climate, including latitude, elevation, and ocean currents.",
+      "domain": "Physical Geography",
+      "reporting_category": "Physical Geography",
+      "essential": true
+    },
+    {
+      "code": "6-8.PG.5",
+      "text": "Describe the major biomes of the world and the relationship between climate and vegetation.",
+      "domain": "Physical Geography",
+      "reporting_category": "Physical Geography",
+      "essential": false
+    },
+    {
+      "code": "6-8.PG.6",
+      "text": "Explain the processes of weathering and erosion and how they shape landforms over time.",
+      "domain": "Physical Geography",
+      "reporting_category": "Physical Geography",
+      "essential": false
+    },
+    {
+      "code": "6-8.PG.7",
+      "text": "Describe different types of natural disasters and explain their geographic causes and effects.",
+      "domain": "Physical Geography",
+      "reporting_category": "Physical Geography",
+      "essential": false
+    },
+    {
+      "code": "6-8.PG.8",
+      "text": "Explain how physical geography affects human settlement patterns and economic activities.",
+      "domain": "Physical Geography",
+      "reporting_category": "Physical Geography",
+      "essential": true
+    },
+    {
+      "code": "6-8.HG.1",
+      "text": "Describe patterns of population distribution and explain factors that influence where people live.",
+      "domain": "Human Geography",
+      "reporting_category": "Human Geography",
+      "essential": true
+    },
+    {
+      "code": "6-8.HG.2",
+      "text": "Explain the causes and effects of human migration, including push and pull factors.",
+      "domain": "Human Geography",
+      "reporting_category": "Human Geography",
+      "essential": true
+    },
+    {
+      "code": "6-8.HG.3",
+      "text": "Describe how cultural traits such as language, religion, and customs vary across regions and are spread through cultural diffusion.",
+      "domain": "Human Geography",
+      "reporting_category": "Human Geography",
+      "essential": true
+    },
+    {
+      "code": "6-8.HG.4",
+      "text": "Explain the process of urbanization and compare urban and rural areas in terms of population, economy, and land use.",
+      "domain": "Human Geography",
+      "reporting_category": "Human Geography",
+      "essential": false
+    },
+    {
+      "code": "6-8.HG.5",
+      "text": "Describe how humans adapt to, modify, and depend on the physical environment.",
+      "domain": "Human Geography",
+      "reporting_category": "Human Geography",
+      "essential": false
+    },
+    {
+      "code": "6-8.HG.6",
+      "text": "Analyze population data using demographic indicators such as birth rate, death rate, and population density.",
+      "domain": "Human Geography",
+      "reporting_category": "Human Geography",
+      "essential": false
+    },
+    {
+      "code": "6-8.MS.1",
+      "text": "Use latitude and longitude to identify absolute locations on maps and globes.",
+      "domain": "Map Skills",
+      "reporting_category": "Map Skills and Tools",
+      "essential": true
+    },
+    {
+      "code": "6-8.MS.2",
+      "text": "Interpret different types of maps, including political, physical, thematic, and topographic maps.",
+      "domain": "Map Skills",
+      "reporting_category": "Map Skills and Tools",
+      "essential": true
+    },
+    {
+      "code": "6-8.MS.3",
+      "text": "Use map elements such as scale, compass rose, legend, and title to gather information.",
+      "domain": "Map Skills",
+      "reporting_category": "Map Skills and Tools",
+      "essential": true
+    },
+    {
+      "code": "6-8.MS.4",
+      "text": "Explain how different map projections represent Earth's surface and why distortions occur.",
+      "domain": "Map Skills",
+      "reporting_category": "Map Skills and Tools",
+      "essential": false
+    },
+    {
+      "code": "6-8.MS.5",
+      "text": "Describe the geographic tools and technologies used to collect, analyze, and display geographic data, including GIS and GPS.",
+      "domain": "Map Skills",
+      "reporting_category": "Map Skills and Tools",
+      "essential": false
+    },
+    {
+      "code": "6-8.MS.6",
+      "text": "Identify the hemispheres, continents, and major oceans using maps and globes.",
+      "domain": "Map Skills",
+      "reporting_category": "Map Skills and Tools",
+      "essential": true
+    },
+    {
+      "code": "6-8.WR.1",
+      "text": "Locate and describe the physical and human characteristics of the major world regions.",
+      "domain": "World Regions",
+      "reporting_category": "World Regions",
+      "essential": true
+    },
+    {
+      "code": "6-8.WR.2",
+      "text": "Compare and contrast the cultures, governments, and economies of different world regions.",
+      "domain": "World Regions",
+      "reporting_category": "World Regions",
+      "essential": true
+    },
+    {
+      "code": "6-8.WR.3",
+      "text": "Identify the major countries, capitals, and physical features of each continent.",
+      "domain": "World Regions",
+      "reporting_category": "World Regions",
+      "essential": true
+    },
+    {
+      "code": "6-8.WR.4",
+      "text": "Explain how trade and transportation networks connect world regions economically.",
+      "domain": "World Regions",
+      "reporting_category": "World Regions",
+      "essential": false
+    },
+    {
+      "code": "6-8.WR.5",
+      "text": "Describe how political boundaries are established and how they change over time.",
+      "domain": "World Regions",
+      "reporting_category": "World Regions",
+      "essential": false
+    },
+    {
+      "code": "6-8.WR.6",
+      "text": "Explain the role of major rivers, mountain ranges, and bodies of water in shaping civilizations and trade.",
+      "domain": "World Regions",
+      "reporting_category": "World Regions",
+      "essential": true
+    },
+    {
+      "code": "6-8.ER.1",
+      "text": "Classify natural resources as renewable or nonrenewable and explain their distribution across regions.",
+      "domain": "Environment",
+      "reporting_category": "Environment and Resources",
+      "essential": true
+    },
+    {
+      "code": "6-8.ER.2",
+      "text": "Describe the causes and effects of climate change and its impact on global geography.",
+      "domain": "Environment",
+      "reporting_category": "Environment and Resources",
+      "essential": true
+    },
+    {
+      "code": "6-8.ER.3",
+      "text": "Explain the importance of conservation and sustainability in managing natural resources.",
+      "domain": "Environment",
+      "reporting_category": "Environment and Resources",
+      "essential": false
+    },
+    {
+      "code": "6-8.ER.4",
+      "text": "Describe the major ecosystems of the world and explain how living things depend on their environment.",
+      "domain": "Environment",
+      "reporting_category": "Environment and Resources",
+      "essential": false
+    },
+    {
+      "code": "6-8.ER.5",
+      "text": "Analyze how human activities such as deforestation, pollution, and urbanization affect the environment.",
+      "domain": "Environment",
+      "reporting_category": "Environment and Resources",
+      "essential": true
+    }
+  ]
+}

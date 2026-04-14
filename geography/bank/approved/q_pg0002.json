@@ -1,0 +1,43 @@
+{
+  "id": "q_pg0002",
+  "standard_code": "6-8.PG.1",
+  "standard_essential": true,
+  "reporting_category": "Physical Geography",
+  "domain": "Physical Geography",
+  "question_type": "multiple_choice",
+  "stimulus": {
+    "type": "text",
+    "content": "Study the following facts:\n\n\u2022 The Nile River is the longest river in Africa.\n\u2022 The Amazon River carries more water than any other river.\n\u2022 The Mississippi River drains most of the central United States."
+  },
+  "stem": "What do these three rivers have in common as physical features?",
+  "choices": [
+    {
+      "id": "A",
+      "text": "They all flow into the Atlantic Ocean",
+      "correct": false
+    },
+    {
+      "id": "B",
+      "text": "They are all major drainage systems for large land areas",
+      "correct": true
+    },
+    {
+      "id": "C",
+      "text": "They are all located on the same continent",
+      "correct": false
+    },
+    {
+      "id": "D",
+      "text": "They all begin in mountain ranges above 5,000 meters",
+      "correct": false
+    }
+  ],
+  "answer_explanation": "All three rivers are major drainage systems that collect water from large land areas called drainage basins. They are on different continents and flow into different bodies of water.",
+  "difficulty": "medium",
+  "tags": [
+    "rivers",
+    "drainage-systems",
+    "physical-features"
+  ],
+  "generated_at": "2026-04-14T10:00:00Z"
+}
